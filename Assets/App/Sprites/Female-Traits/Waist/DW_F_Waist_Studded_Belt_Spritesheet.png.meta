@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 6fbec42b8773a7d4b8f597d3ec7071a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 639516947001062180
+    second: DW_F_Waist_Studded_Belt_Spritesheet_0
+  - first:
+      213: -8958622431135079191
+    second: DW_F_Waist_Studded_Belt_Spritesheet_1
+  - first:
+      213: 1425537144861975836
+    second: DW_F_Waist_Studded_Belt_Spritesheet_2
+  - first:
+      213: 1621307205693612700
+    second: DW_F_Waist_Studded_Belt_Spritesheet_3
+  - first:
+      213: -6094343598092776774
+    second: DW_F_Waist_Studded_Belt_Spritesheet_4
+  - first:
+      213: 6778417819325502393
+    second: DW_F_Waist_Studded_Belt_Spritesheet_5
+  - first:
+      213: 5539168008903241054
+    second: DW_F_Waist_Studded_Belt_Spritesheet_6
+  - first:
+      213: -4620661393070208777
+    second: DW_F_Waist_Studded_Belt_Spritesheet_7
+  - first:
+      213: -3155590261546044460
+    second: DW_F_Waist_Studded_Belt_Spritesheet_8
+  - first:
+      213: -5039733977463849126
+    second: DW_F_Waist_Studded_Belt_Spritesheet_9
+  - first:
+      213: 7481314273436777599
+    second: DW_F_Waist_Studded_Belt_Spritesheet_10
+  - first:
+      213: -699191594605471138
+    second: DW_F_Waist_Studded_Belt_Spritesheet_11
+  - first:
+      213: -3797151183342050682
+    second: DW_F_Waist_Studded_Belt_Spritesheet_12
+  - first:
+      213: -476546644788547033
+    second: DW_F_Waist_Studded_Belt_Spritesheet_13
+  - first:
+      213: 2061374113219378243
+    second: DW_F_Waist_Studded_Belt_Spritesheet_14
+  - first:
+      213: -4316838296260015054
+    second: DW_F_Waist_Studded_Belt_Spritesheet_15
+  - first:
+      213: -7341009416043158467
+    second: DW_F_Waist_Studded_Belt_Spritesheet_16
+  - first:
+      213: 3630784153003316626
+    second: DW_F_Waist_Studded_Belt_Spritesheet_17
+  - first:
+      213: -2238045476262585898
+    second: DW_F_Waist_Studded_Belt_Spritesheet_18
+  - first:
+      213: -1793482097034941963
+    second: DW_F_Waist_Studded_Belt_Spritesheet_19
+  - first:
+      213: 1654433176746875979
+    second: DW_F_Waist_Studded_Belt_Spritesheet_20
+  - first:
+      213: 3531894195967222979
+    second: DW_F_Waist_Studded_Belt_Spritesheet_21
+  - first:
+      213: 3969783694439569708
+    second: DW_F_Waist_Studded_Belt_Spritesheet_22
+  - first:
+      213: 5342203335760584158
+    second: DW_F_Waist_Studded_Belt_Spritesheet_23
+  - first:
+      213: 5400030111056734857
+    second: DW_F_Waist_Studded_Belt_Spritesheet_24
+  - first:
+      213: 6465781524178414233
+    second: DW_F_Waist_Studded_Belt_Spritesheet_25
+  - first:
+      213: -9222143563094467987
+    second: DW_F_Waist_Studded_Belt_Spritesheet_26
+  - first:
+      213: -7573554159481285798
+    second: DW_F_Waist_Studded_Belt_Spritesheet_27
+  - first:
+      213: 3766540472384578233
+    second: DW_F_Waist_Studded_Belt_Spritesheet_28
+  - first:
+      213: -7298612778042293568
+    second: DW_F_Waist_Studded_Belt_Spritesheet_29
+  - first:
+      213: -7872051265208498749
+    second: DW_F_Waist_Studded_Belt_Spritesheet_30
+  - first:
+      213: -7244307867670135889
+    second: DW_F_Waist_Studded_Belt_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42337d5664500e800800000000000000
+      internalID: 639516947001062180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e85b1d549ca380800000000000000
+      internalID: -8958622431135079191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156f9dfa7688c310800000000000000
+      internalID: 1425537144861975836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c922623405a008610800000000000000
+      internalID: 1621307205693612700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba018869ca8c6ba0800000000000000
+      internalID: -6094343598092776774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31314d717c11e50800000000000000
+      internalID: 6778417819325502393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da2e1d4f31fdc40800000000000000
+      internalID: 5539168008903241054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f840beb1fc10efb0800000000000000
+      internalID: -4620661393070208777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3bddb40671534d0800000000000000
+      internalID: -3155590261546044460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffcce26a44f0ab0800000000000000
+      internalID: -5039733977463849126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3249a1b7f2d760800000000000000
+      internalID: 7481314273436777599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a1a9df2f8fb46f0800000000000000
+      internalID: -699191594605471138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682617eed1fcd4bc0800000000000000
+      internalID: -3797151183342050682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7227976f957f269f0800000000000000
+      internalID: -476546644788547033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c70a795d87b9c10800000000000000
+      internalID: 2061374113219378243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8e9ee0728714c0800000000000000
+      internalID: -4316838296260015054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3423f794de7f1a90800000000000000
+      internalID: -7341009416043158467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29551ef43f2236230800000000000000
+      internalID: 3630784153003316626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d23c3f7dd0f0e0800000000000000
+      internalID: -2238045476262585898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a537f8854c17e0800000000000000
+      internalID: -1793482097034941963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5e9c653ab5f610800000000000000
+      internalID: 1654433176746875979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e3e6fe0fc30130800000000000000
+      internalID: 3531894195967222979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29553ebc31871730800000000000000
+      internalID: 3969783694439569708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9ae131a1532a40800000000000000
+      internalID: 5342203335760584158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a23f186c2c0fa40800000000000000
+      internalID: 5400030111056734857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a20fff9021bb950800000000000000
+      internalID: 6465781524178414233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a59165a4d540080800000000000000
+      internalID: -9222143563094467987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a539fec4e9455e690800000000000000
+      internalID: -7573554159481285798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b26d988a90754430800000000000000
+      internalID: 3766540472384578233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c289ab195e16ba90800000000000000
+      internalID: -7298612778042293568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5459b051bd0c290800000000000000
+      internalID: -7872051265208498749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Studded_Belt_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab34f7506c077b90800000000000000
+      internalID: -7244307867670135889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Waist_Studded_Belt_Spritesheet_5: 6778417819325502393
+      DW_F_Waist_Studded_Belt_Spritesheet_24: 5400030111056734857
+      DW_F_Waist_Studded_Belt_Spritesheet_25: 6465781524178414233
+      DW_F_Waist_Studded_Belt_Spritesheet_15: -4316838296260015054
+      DW_F_Waist_Studded_Belt_Spritesheet_9: -5039733977463849126
+      DW_F_Waist_Studded_Belt_Spritesheet_31: -7244307867670135889
+      DW_F_Waist_Studded_Belt_Spritesheet_7: -4620661393070208777
+      DW_F_Waist_Studded_Belt_Spritesheet_16: -7341009416043158467
+      DW_F_Waist_Studded_Belt_Spritesheet_19: -1793482097034941963
+      DW_F_Waist_Studded_Belt_Spritesheet_12: -3797151183342050682
+      DW_F_Waist_Studded_Belt_Spritesheet_30: -7872051265208498749
+      DW_F_Waist_Studded_Belt_Spritesheet_0: 639516947001062180
+      DW_F_Waist_Studded_Belt_Spritesheet_20: 1654433176746875979
+      DW_F_Waist_Studded_Belt_Spritesheet_21: 3531894195967222979
+      DW_F_Waist_Studded_Belt_Spritesheet_10: 7481314273436777599
+      DW_F_Waist_Studded_Belt_Spritesheet_13: -476546644788547033
+      DW_F_Waist_Studded_Belt_Spritesheet_11: -699191594605471138
+      DW_F_Waist_Studded_Belt_Spritesheet_26: -9222143563094467987
+      DW_F_Waist_Studded_Belt_Spritesheet_18: -2238045476262585898
+      DW_F_Waist_Studded_Belt_Spritesheet_3: 1621307205693612700
+      DW_F_Waist_Studded_Belt_Spritesheet_8: -3155590261546044460
+      DW_F_Waist_Studded_Belt_Spritesheet_4: -6094343598092776774
+      DW_F_Waist_Studded_Belt_Spritesheet_22: 3969783694439569708
+      DW_F_Waist_Studded_Belt_Spritesheet_28: 3766540472384578233
+      DW_F_Waist_Studded_Belt_Spritesheet_14: 2061374113219378243
+      DW_F_Waist_Studded_Belt_Spritesheet_27: -7573554159481285798
+      DW_F_Waist_Studded_Belt_Spritesheet_6: 5539168008903241054
+      DW_F_Waist_Studded_Belt_Spritesheet_23: 5342203335760584158
+      DW_F_Waist_Studded_Belt_Spritesheet_2: 1425537144861975836
+      DW_F_Waist_Studded_Belt_Spritesheet_1: -8958622431135079191
+      DW_F_Waist_Studded_Belt_Spritesheet_17: 3630784153003316626
+      DW_F_Waist_Studded_Belt_Spritesheet_29: -7298612778042293568
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

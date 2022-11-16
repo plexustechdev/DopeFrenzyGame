@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: d338ff2e4ea0f2b4494ee0fdc2a81167
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -51632615309806011
+    second: DW_F_Weapon_Handgun_Spritesheet_0
+  - first:
+      213: -2240947297103218147
+    second: DW_F_Weapon_Handgun_Spritesheet_1
+  - first:
+      213: 7254319461478907591
+    second: DW_F_Weapon_Handgun_Spritesheet_2
+  - first:
+      213: 5405073494081727086
+    second: DW_F_Weapon_Handgun_Spritesheet_3
+  - first:
+      213: 472245075549937080
+    second: DW_F_Weapon_Handgun_Spritesheet_4
+  - first:
+      213: -1745668292062226676
+    second: DW_F_Weapon_Handgun_Spritesheet_5
+  - first:
+      213: 4542744478249234592
+    second: DW_F_Weapon_Handgun_Spritesheet_6
+  - first:
+      213: -8217788248019355606
+    second: DW_F_Weapon_Handgun_Spritesheet_7
+  - first:
+      213: -1220932773899629920
+    second: DW_F_Weapon_Handgun_Spritesheet_8
+  - first:
+      213: 593776630057868003
+    second: DW_F_Weapon_Handgun_Spritesheet_9
+  - first:
+      213: -440167983476906732
+    second: DW_F_Weapon_Handgun_Spritesheet_10
+  - first:
+      213: -290273544670101709
+    second: DW_F_Weapon_Handgun_Spritesheet_11
+  - first:
+      213: 795969051250764767
+    second: DW_F_Weapon_Handgun_Spritesheet_12
+  - first:
+      213: -4221196160846663134
+    second: DW_F_Weapon_Handgun_Spritesheet_13
+  - first:
+      213: 2310879877971861334
+    second: DW_F_Weapon_Handgun_Spritesheet_14
+  - first:
+      213: 1373774495147134640
+    second: DW_F_Weapon_Handgun_Spritesheet_15
+  - first:
+      213: 5393067114105975462
+    second: DW_F_Weapon_Handgun_Spritesheet_16
+  - first:
+      213: -4612663766440730648
+    second: DW_F_Weapon_Handgun_Spritesheet_17
+  - first:
+      213: -5665826524092390638
+    second: DW_F_Weapon_Handgun_Spritesheet_18
+  - first:
+      213: -5472419834013605854
+    second: DW_F_Weapon_Handgun_Spritesheet_19
+  - first:
+      213: 4660221145780721921
+    second: DW_F_Weapon_Handgun_Spritesheet_20
+  - first:
+      213: -4799965985438124913
+    second: DW_F_Weapon_Handgun_Spritesheet_21
+  - first:
+      213: -5481670185019638902
+    second: DW_F_Weapon_Handgun_Spritesheet_22
+  - first:
+      213: -2715353438360713331
+    second: DW_F_Weapon_Handgun_Spritesheet_23
+  - first:
+      213: 7484232878321237051
+    second: DW_F_Weapon_Handgun_Spritesheet_24
+  - first:
+      213: 1095093007138980067
+    second: DW_F_Weapon_Handgun_Spritesheet_25
+  - first:
+      213: -3611606061183388531
+    second: DW_F_Weapon_Handgun_Spritesheet_26
+  - first:
+      213: -5586597385589313494
+    second: DW_F_Weapon_Handgun_Spritesheet_27
+  - first:
+      213: 3861925028391066983
+    second: DW_F_Weapon_Handgun_Spritesheet_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54672a1f860984ff0800000000000000
+      internalID: -51632615309806011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7acb6e4e86e0e0800000000000000
+      internalID: -2240947297103218147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce37ac7d158ca460800000000000000
+      internalID: 7254319461478907591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aee9f94bda20b40800000000000000
+      internalID: 5405073494081727086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd417e460cd8600800000000000000
+      internalID: 472245075549937080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d7f3ffe326c7e0800000000000000
+      internalID: -1745668292062226676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b963d8021b0f30800000000000000
+      internalID: 4542744478249234592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283d6dc02d84fd80800000000000000
+      internalID: -8217788248019355606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa84156c106e0fe0800000000000000
+      internalID: -1220932773899629920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1786f2b48d3800800000000000000
+      internalID: 593776630057868003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415eb571d8534e9f0800000000000000
+      internalID: -440167983476906732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fbe32cfbdb8fbf0800000000000000
+      internalID: -290273544670101709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba10882a9db0b00800000000000000
+      internalID: 795969051250764767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222fd71e47c4b65c0800000000000000
+      internalID: -4221196160846663134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5c156105e11020800000000000000
+      internalID: 2310879877971861334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8cb0ff90a01310800000000000000
+      internalID: 1373774495147134640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b02277f508da40800000000000000
+      internalID: 5393067114105975462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1cfc4eb68cffb0800000000000000
+      internalID: -4612663766440730648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ac709bc0fe51b0800000000000000
+      internalID: -5665826524092390638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22021d3b72f0e04b0800000000000000
+      internalID: -5472419834013605854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091601f07e6ca040800000000000000
+      internalID: 4660221145780721921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b0081e58136db0800000000000000
+      internalID: -4799965985438124913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bfd0682023de3b0800000000000000
+      internalID: -5481670185019638902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87cfd23f60215ad0800000000000000
+      internalID: -2715353438360713331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf2a056265dd760800000000000000
+      internalID: 7484232878321237051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08886b94d823f00800000000000000
+      internalID: 1095093007138980067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8434862c6ff0edc0800000000000000
+      internalID: -3611606061183388531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20b2d0e64b6872b0800000000000000
+      internalID: -5586597385589313494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Handgun_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d907a1a50589530800000000000000
+      internalID: 3861925028391066983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Handgun_Spritesheet_4: 472245075549937080
+      DW_F_Weapon_Handgun_Spritesheet_8: -1220932773899629920
+      DW_F_Weapon_Handgun_Spritesheet_0: -51632615309806011
+      DW_F_Weapon_Handgun_Spritesheet_18: -5665826524092390638
+      DW_F_Weapon_Handgun_Spritesheet_21: -4799965985438124913
+      DW_F_Weapon_Handgun_Spritesheet_25: 1095093007138980067
+      DW_F_Weapon_Handgun_Spritesheet_2: 7254319461478907591
+      DW_F_Weapon_Handgun_Spritesheet_15: 1373774495147134640
+      DW_F_Weapon_Handgun_Spritesheet_7: -8217788248019355606
+      DW_F_Weapon_Handgun_Spritesheet_26: -3611606061183388531
+      DW_F_Weapon_Handgun_Spritesheet_17: -4612663766440730648
+      DW_F_Weapon_Handgun_Spritesheet_12: 795969051250764767
+      DW_F_Weapon_Handgun_Spritesheet_28: 3861925028391066983
+      DW_F_Weapon_Handgun_Spritesheet_19: -5472419834013605854
+      DW_F_Weapon_Handgun_Spritesheet_1: -2240947297103218147
+      DW_F_Weapon_Handgun_Spritesheet_6: 4542744478249234592
+      DW_F_Weapon_Handgun_Spritesheet_22: -5481670185019638902
+      DW_F_Weapon_Handgun_Spritesheet_9: 593776630057868003
+      DW_F_Weapon_Handgun_Spritesheet_11: -290273544670101709
+      DW_F_Weapon_Handgun_Spritesheet_5: -1745668292062226676
+      DW_F_Weapon_Handgun_Spritesheet_27: -5586597385589313494
+      DW_F_Weapon_Handgun_Spritesheet_13: -4221196160846663134
+      DW_F_Weapon_Handgun_Spritesheet_3: 5405073494081727086
+      DW_F_Weapon_Handgun_Spritesheet_14: 2310879877971861334
+      DW_F_Weapon_Handgun_Spritesheet_24: 7484232878321237051
+      DW_F_Weapon_Handgun_Spritesheet_16: 5393067114105975462
+      DW_F_Weapon_Handgun_Spritesheet_10: -440167983476906732
+      DW_F_Weapon_Handgun_Spritesheet_20: 4660221145780721921
+      DW_F_Weapon_Handgun_Spritesheet_23: -2715353438360713331
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

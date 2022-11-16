@@ -1,0 +1,2073 @@
+fileFormatVersion: 2
+guid: fbff93fa8732724469583c145f70a9a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 757
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7625a25a268a81a49bc3c89d4fb073e2
+      internalID: 886006264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 757
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593dfbe0b572ec4499c235a1814ed229
+      internalID: 356132871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 757
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c60b22d3687c4eb4fe477c7b40958
+      internalID: 1376380218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 759
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6cd2d618eaa849b530feeb94b947c
+      internalID: 2014988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 759
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12488128d8e0a2b49870f39dedbf4458
+      internalID: -996002869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 759
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182afb7f107a3948993984d4e1e6ee3
+      internalID: 408461658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 756
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc15f9906d9851d4cae33dfa82d7f401
+      internalID: 379091198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 755
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd0bcf6d798ac49963c70be43629a6
+      internalID: 441985190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 701
+        width: 4
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6b159e4a9d44747a048b5e241ed4cd
+      internalID: -714250783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 750
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9781ac080ef0f45b70691c0bfd72b2
+      internalID: 1297412933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 730
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380cdfbc1d2c254aa0257edd496284f
+      internalID: 1016695680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 731
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ca990aed5b3a46b98cd54e50e121c
+      internalID: -2022675814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 739
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4dc778312796a41b108c8020c49288
+      internalID: 770477380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 730
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4db8fa8aa0c8d4ab9f60e6fbe18008
+      internalID: -958584473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 735
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d97281664bcbc499d10683e43be86d
+      internalID: -1265141928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 734
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3021f53038544cb3baea1f11f1b72
+      internalID: -436096684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 728
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2474dd3b839e34091c885791008b48
+      internalID: -265233933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 733
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9244025ef0d4d040a8acd602b62b907
+      internalID: -1456326032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 729
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e9f7c5580da840ab6c394b694c496
+      internalID: -43815814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 730
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5104eab1681b4ba48b3a374d17ba3
+      internalID: -125407247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c0077ba75381641a8e2c83d6d98b97
+      internalID: 2090309904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26241a148cedfdb44b74ae06e6f578e4
+      internalID: 498906184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 730
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d996c7bf745cb34294f8ac1afc129a8
+      internalID: 362977287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 690
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ceb78a66fc214b870701614e94c41
+      internalID: -1961122092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 648
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92417e5e4a9874d44a934c88790887d0
+      internalID: 468528786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 603
+        width: 9
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1f49a7cf5b1640a91ca879d997f0d
+      internalID: 1241393817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 651
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11cb63092e79b408d5c74e29419c72
+      internalID: 1852586243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 651
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa416c4d3c96c4087cc854e4a1bf0a
+      internalID: -1857812248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 651
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805817fc9c750ec4183b429c9cca3acc
+      internalID: -1884327691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 603
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df04fe1819d6ad42b503fa62f28277b
+      internalID: 180241321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 603
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c6fd234541244c91aa0b525532e5e
+      internalID: -1789386588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 599
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276503fbadf19b54dbdaa18eaf092b66
+      internalID: 572010995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 559
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233f1eb327e3aa41b1b6cd5c6fb8cce
+      internalID: 278958041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 557
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee07274f007094a9cafd18af49960e
+      internalID: 1952422458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 557
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819f0172f879f248ab0d1b7ded11323
+      internalID: 568933434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 557
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cacbc1bab3d5a4a8e2a772479d8d24
+      internalID: 377323205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 557
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ecc0889a2e8e64983de930c65415e4
+      internalID: -861445111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 557
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f7ee676c441341b1014e761874a9e
+      internalID: -244722948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 558
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36349392890b24699593deede8ba45
+      internalID: 944261445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 557
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bcb38cfb28bc54cbf8d5606888fc81
+      internalID: 1803304229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 557
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05296e8eb7e777e4b93067e5f02744a7
+      internalID: 342559723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 557
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40640d8cd885e54580e1ff711e2af9e
+      internalID: -1074408982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 557
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593c96ff20dabc84a9380526a69820f4
+      internalID: 337241059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 517
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625d799807d3d1489b831ddebd64e20
+      internalID: 861416110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 517
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bffd4c5f6cd6e4eb2783e3a9739284
+      internalID: 281232577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 516
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92691ba4844bedf45b3736f6b8bc96e1
+      internalID: -1759428329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 515
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635366ebf7e05c4a9a2eb6805fc7be0
+      internalID: -1066635361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 514
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c2448c76144740bb5f0b7bd1a416f
+      internalID: -2102473998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 517
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6b3d60ee89bb439a3ac31d75900d7
+      internalID: 1674739474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 513
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6612be86bd1774ea5b94e173291446
+      internalID: -602524233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01d42ea724e4a4a89c70e30043b028
+      internalID: -311582142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 513
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7124419337a04e43a9e00ffe966aaf0
+      internalID: 659704089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 515
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc178fa3f437b44a984ba65160a957
+      internalID: -1593667469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0951480a03afedb4a84387474b95d503
+      internalID: 1009354710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 518
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728cdf210434094b84b0835f46800ea
+      internalID: 1261669439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 514
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676ce6a6e3bbb440a41599322d55516
+      internalID: -2125160728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 454
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4827d053f77cfa4a8d1b3248b8cb426
+      internalID: -1297693331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 457
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92b011f0c7adc94a9e16bacd41a2993
+      internalID: -2094596867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 450
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc047cfd1491c940b378a85a0b0cd11
+      internalID: -1357603690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 450
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602b46199240a44c8e32b4768be31a3
+      internalID: 1122428293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 450
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8cea63891408a44ad2f96fe9d239ad
+      internalID: 1046151669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 451
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c821dde61a0544a920e80054211c96
+      internalID: 120436620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 452
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee2c8a09c1ffc47a07fcf5d0291498
+      internalID: -311881826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 451
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c9407bb5f8274b9c326d271194fd7
+      internalID: 443447736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 451
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eac54b0965ec143adf86969087189b
+      internalID: 1639518744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 467
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd6795b056fc548b4cf2d786ca11b5
+      internalID: -476469954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a14b816a87b945a5e385580b5eb4c
+      internalID: 1375274226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 370
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c43114618ba20042b20359947ded8ba
+      internalID: -1296115944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 374
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9093da8cb7664ba38db71ea633277
+      internalID: 641687212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 371
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e54a43d496cf04e8139a3f29c65fb6
+      internalID: -333446650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 371
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058a1d7e820ba441a30fef834b425e6
+      internalID: -1841034450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 354
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec38c85134c7d4dbfabf3c9096de77
+      internalID: 913788785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 369
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b181b59c71373f04889bd386857c0e1a
+      internalID: 635435640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 371
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ee9ffce62896448b19abc53571ee1
+      internalID: 1153722360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 370
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a2f2249005c4418705f4ecc81aade
+      internalID: 602389249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_75
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 369
+        width: 6
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f3ec8db2975d44b903222f2d276f3
+      internalID: -1429820202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_76
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 371
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831c7997ebc47f488e9fe6ddac059e8
+      internalID: 402482616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 153
+        width: 63
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b247e498b8a8a4a8018a4ac2fe7e05
+      internalID: 2017833360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 153
+        width: 63
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ee1db3732287478031ea1059379a5
+      internalID: -1828007713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_79
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 153
+        width: 63
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424609d5e37ce5a41abb1d1068071372
+      internalID: -1027575711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 249
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf9abb0373d3543ab6b9e8f351ac9d
+      internalID: 64094292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_81
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 257
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65811986d6eae9a41b07f0bf70f411e0
+      internalID: -1434947479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b78b48768a9947a69c5e204dfc60f
+      internalID: -251742455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_83
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 164
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403ff318738fe846a62cbea22a4099d
+      internalID: 1919365532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_84
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 161
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983881e76458d8498d404b159402192
+      internalID: -2039273814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9905bb1585c1f4a8f414459b2fab72
+      internalID: 315893258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Construction_Site_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 629
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f748d30dccac4e9eb06f2fda5feb0
+      internalID: -10154185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_OBJ_Construction_Site_51: 659704089
+      RC_DF_OBJ_Construction_Site_69: -333446650
+      RC_DF_OBJ_Construction_Site_12: 770477380
+      RC_DF_OBJ_Construction_Site_49: -602524233
+      RC_DF_OBJ_Construction_Site_8: -714250783
+      RC_DF_OBJ_Construction_Site_23: -1961122092
+      RC_DF_OBJ_Construction_Site_54: 1261669439
+      RC_DF_OBJ_Construction_Site_33: 1952422458
+      RC_DF_OBJ_Construction_Site_6: 379091198
+      RC_DF_OBJ_Construction_Site_22: 362977287
+      RC_DF_OBJ_Construction_Site_82: -251742455
+      RC_DF_OBJ_Construction_Site_29: 180241321
+      RC_DF_OBJ_Construction_Site_36: -861445111
+      RC_DF_OBJ_Construction_Site_7: 441985190
+      RC_DF_OBJ_Construction_Site_27: -1857812248
+      RC_DF_OBJ_Construction_Site_32: 278958041
+      RC_DF_OBJ_Construction_Site_11: -2022675814
+      RC_DF_OBJ_Construction_Site_18: -43815814
+      RC_DF_OBJ_Construction_Site_65: -476469954
+      RC_DF_OBJ_Construction_Site_60: 1046151669
+      RC_DF_OBJ_Construction_Site_80: 64094292
+      RC_DF_OBJ_Construction_Site_31: 572010995
+      RC_DF_OBJ_Construction_Site_61: 120436620
+      RC_DF_OBJ_Construction_Site_44: 281232577
+      RC_DF_OBJ_Construction_Site_77: 2017833360
+      RC_DF_OBJ_Construction_Site_83: 1919365532
+      RC_DF_OBJ_Construction_Site_84: -2039273814
+      RC_DF_OBJ_Construction_Site_42: 337241059
+      RC_DF_OBJ_Construction_Site_63: 443447736
+      RC_DF_OBJ_Construction_Site_48: 1674739474
+      RC_DF_OBJ_Construction_Site_72: 635435640
+      RC_DF_OBJ_Construction_Site_79: -1027575711
+      RC_DF_OBJ_Construction_Site_52: -1593667469
+      RC_DF_OBJ_Construction_Site_9: 1297412933
+      RC_DF_OBJ_Construction_Site_58: -1357603690
+      RC_DF_OBJ_Construction_Site_24: 468528786
+      RC_DF_OBJ_Construction_Site_74: 602389249
+      RC_DF_OBJ_Construction_Site_85: 315893258
+      RC_DF_OBJ_Construction_Site_34: 568933434
+      RC_DF_OBJ_Construction_Site_71: 913788785
+      RC_DF_OBJ_Construction_Site_53: 1009354710
+      RC_DF_OBJ_Construction_Site_21: 498906184
+      RC_DF_OBJ_Construction_Site_73: 1153722360
+      RC_DF_OBJ_Construction_Site_66: 1375274226
+      RC_DF_OBJ_Construction_Site_45: -1759428329
+      RC_DF_OBJ_Construction_Site_37: -244722948
+      RC_DF_OBJ_Construction_Site_56: -1297693331
+      RC_DF_OBJ_Construction_Site_19: -125407247
+      RC_DF_OBJ_Construction_Site_55: -2125160728
+      RC_DF_OBJ_Construction_Site_39: 1803304229
+      RC_DF_OBJ_Construction_Site_67: -1296115944
+      RC_DF_OBJ_Construction_Site_20: 2090309904
+      RC_DF_OBJ_Construction_Site_59: 1122428293
+      RC_DF_OBJ_Construction_Site_30: -1789386588
+      RC_DF_OBJ_Construction_Site_46: -1066635361
+      RC_DF_OBJ_Construction_Site_40: 342559723
+      RC_DF_OBJ_Construction_Site_10: 1016695680
+      RC_DF_OBJ_Construction_Site_50: -311582142
+      RC_DF_OBJ_Construction_Site_1: 356132871
+      RC_DF_OBJ_Construction_Site_14: -1265141928
+      RC_DF_OBJ_Construction_Site_81: -1434947479
+      RC_DF_OBJ_Construction_Site_2: 1376380218
+      RC_DF_OBJ_Construction_Site_3: 2014988914
+      RC_DF_OBJ_Construction_Site_43: 861416110
+      RC_DF_OBJ_Construction_Site_25: 1241393817
+      RC_DF_OBJ_Construction_Site_76: 402482616
+      RC_DF_OBJ_Construction_Site_47: -2102473998
+      RC_DF_OBJ_Construction_Site_57: -2094596867
+      RC_DF_OBJ_Construction_Site_5: 408461658
+      RC_DF_OBJ_Construction_Site_0: 886006264
+      RC_DF_OBJ_Construction_Site_26: 1852586243
+      RC_DF_OBJ_Construction_Site_86: -10154185
+      RC_DF_OBJ_Construction_Site_28: -1884327691
+      RC_DF_OBJ_Construction_Site_38: 944261445
+      RC_DF_OBJ_Construction_Site_17: -1456326032
+      RC_DF_OBJ_Construction_Site_75: -1429820202
+      RC_DF_OBJ_Construction_Site_35: 377323205
+      RC_DF_OBJ_Construction_Site_62: -311881826
+      RC_DF_OBJ_Construction_Site_64: 1639518744
+      RC_DF_OBJ_Construction_Site_70: -1841034450
+      RC_DF_OBJ_Construction_Site_78: -1828007713
+      RC_DF_OBJ_Construction_Site_16: -265233933
+      RC_DF_OBJ_Construction_Site_41: -1074408982
+      RC_DF_OBJ_Construction_Site_68: 641687212
+      RC_DF_OBJ_Construction_Site_4: -996002869
+      RC_DF_OBJ_Construction_Site_15: -436096684
+      RC_DF_OBJ_Construction_Site_13: -958584473
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

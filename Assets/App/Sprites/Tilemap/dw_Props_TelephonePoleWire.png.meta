@@ -1,0 +1,1643 @@
+fileFormatVersion: 2
+guid: abbdcb073543f6d499855b7099675c77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7168069825214792132
+    second: dw_Props_TelephonePoleWire_0
+  - first:
+      213: -8156028834581062550
+    second: dw_Props_TelephonePoleWire_1
+  - first:
+      213: -4728717944412199016
+    second: dw_Props_TelephonePoleWire_2
+  - first:
+      213: 3104561200406416929
+    second: dw_Props_TelephonePoleWire_3
+  - first:
+      213: 6540156092664116312
+    second: dw_Props_TelephonePoleWire_4
+  - first:
+      213: -992074471172726749
+    second: dw_Props_TelephonePoleWire_5
+  - first:
+      213: 2913450258472220672
+    second: dw_Props_TelephonePoleWire_6
+  - first:
+      213: 6811833617707851619
+    second: dw_Props_TelephonePoleWire_7
+  - first:
+      213: 1028743135115691055
+    second: dw_Props_TelephonePoleWire_8
+  - first:
+      213: -3494169312444885549
+    second: dw_Props_TelephonePoleWire_9
+  - first:
+      213: 2248038656588364666
+    second: dw_Props_TelephonePoleWire_10
+  - first:
+      213: 4841152085725501379
+    second: dw_Props_TelephonePoleWire_11
+  - first:
+      213: 4413317133718781727
+    second: dw_Props_TelephonePoleWire_12
+  - first:
+      213: -3243045614895019181
+    second: dw_Props_TelephonePoleWire_13
+  - first:
+      213: -4106461955206492265
+    second: dw_Props_TelephonePoleWire_14
+  - first:
+      213: 6644078798198635650
+    second: dw_Props_TelephonePoleWire_15
+  - first:
+      213: -928721505636536245
+    second: dw_Props_TelephonePoleWire_16
+  - first:
+      213: -8193839114699671051
+    second: dw_Props_TelephonePoleWire_17
+  - first:
+      213: -8460903292611324257
+    second: dw_Props_TelephonePoleWire_18
+  - first:
+      213: 4787820325913455655
+    second: dw_Props_TelephonePoleWire_19
+  - first:
+      213: 2993408395776249607
+    second: dw_Props_TelephonePoleWire_20
+  - first:
+      213: -7517270968184788777
+    second: dw_Props_TelephonePoleWire_21
+  - first:
+      213: -7175732235948005694
+    second: dw_Props_TelephonePoleWire_22
+  - first:
+      213: -5556836072188999038
+    second: dw_Props_TelephonePoleWire_23
+  - first:
+      213: 6518943965564124376
+    second: dw_Props_TelephonePoleWire_24
+  - first:
+      213: 7801582733329095969
+    second: dw_Props_TelephonePoleWire_25
+  - first:
+      213: 5802500201659923570
+    second: dw_Props_TelephonePoleWire_26
+  - first:
+      213: 5116122409462330734
+    second: dw_Props_TelephonePoleWire_27
+  - first:
+      213: -2366449454481002596
+    second: dw_Props_TelephonePoleWire_28
+  - first:
+      213: -5246758551172316330
+    second: dw_Props_TelephonePoleWire_29
+  - first:
+      213: -829206193368362369
+    second: dw_Props_TelephonePoleWire_30
+  - first:
+      213: 8313861007799804585
+    second: dw_Props_TelephonePoleWire_31
+  - first:
+      213: 159811752060782211
+    second: dw_Props_TelephonePoleWire_32
+  - first:
+      213: 1250195187930150756
+    second: dw_Props_TelephonePoleWire_33
+  - first:
+      213: 3526421954607438836
+    second: dw_Props_TelephonePoleWire_34
+  - first:
+      213: -3148541140437821059
+    second: dw_Props_TelephonePoleWire_35
+  - first:
+      213: 4398947627468793962
+    second: dw_Props_TelephonePoleWire_36
+  - first:
+      213: -8109234306443862471
+    second: dw_Props_TelephonePoleWire_37
+  - first:
+      213: 4945272555833434431
+    second: dw_Props_TelephonePoleWire_38
+  - first:
+      213: 2538452745920720089
+    second: dw_Props_TelephonePoleWire_39
+  - first:
+      213: -453067096512604821
+    second: dw_Props_TelephonePoleWire_40
+  - first:
+      213: 1827035420748863444
+    second: dw_Props_TelephonePoleWire_41
+  - first:
+      213: 7829730032310477332
+    second: dw_Props_TelephonePoleWire_42
+  - first:
+      213: 406644557616497300
+    second: dw_Props_TelephonePoleWire_43
+  - first:
+      213: 1586956448018124915
+    second: dw_Props_TelephonePoleWire_44
+  - first:
+      213: 7970407131357981029
+    second: dw_Props_TelephonePoleWire_45
+  - first:
+      213: -84229616537142559
+    second: dw_Props_TelephonePoleWire_46
+  - first:
+      213: -4930755508326634991
+    second: dw_Props_TelephonePoleWire_47
+  - first:
+      213: 1705778791910838192
+    second: dw_Props_TelephonePoleWire_48
+  - first:
+      213: -347183552285297815
+    second: dw_Props_TelephonePoleWire_49
+  - first:
+      213: -3440047119362784090
+    second: dw_Props_TelephonePoleWire_50
+  - first:
+      213: 4791176087897238176
+    second: dw_Props_TelephonePoleWire_51
+  - first:
+      213: -4102085723787035253
+    second: dw_Props_TelephonePoleWire_52
+  - first:
+      213: -4213425311067062484
+    second: dw_Props_TelephonePoleWire_53
+  - first:
+      213: -4830081248475052813
+    second: dw_Props_TelephonePoleWire_54
+  - first:
+      213: 1699918636436824752
+    second: dw_Props_TelephonePoleWire_55
+  - first:
+      213: 1209898281024666114
+    second: dw_Props_TelephonePoleWire_56
+  - first:
+      213: 3782475201059103079
+    second: dw_Props_TelephonePoleWire_57
+  - first:
+      213: 8826699977465744393
+    second: dw_Props_TelephonePoleWire_58
+  - first:
+      213: 1375852114414068136
+    second: dw_Props_TelephonePoleWire_59
+  - first:
+      213: -6181968496951575729
+    second: dw_Props_TelephonePoleWire_60
+  - first:
+      213: -4379949747139863489
+    second: dw_Props_TelephonePoleWire_61
+  - first:
+      213: -6061928564690754729
+    second: dw_Props_TelephonePoleWire_62
+  - first:
+      213: 6473017893814945077
+    second: dw_Props_TelephonePoleWire_63
+  - first:
+      213: -7106897272350770528
+    second: dw_Props_TelephonePoleWire_64
+  - first:
+      213: -3893676257306240023
+    second: dw_Props_TelephonePoleWire_65
+  - first:
+      213: -5329988336060165805
+    second: dw_Props_TelephonePoleWire_66
+  - first:
+      213: 5266538093467921265
+    second: dw_Props_TelephonePoleWire_67
+  - first:
+      213: 7735472741545029977
+    second: dw_Props_TelephonePoleWire_68
+  - first:
+      213: 2175770438765569762
+    second: dw_Props_TelephonePoleWire_69
+  - first:
+      213: 828260843410172875
+    second: dw_Props_TelephonePoleWire_70
+  - first:
+      213: -691612464905101949
+    second: dw_Props_TelephonePoleWire_71
+  - first:
+      213: -4879383030614065332
+    second: dw_Props_TelephonePoleWire_72
+  - first:
+      213: -6122549208613185671
+    second: dw_Props_TelephonePoleWire_73
+  - first:
+      213: 2859895547967242079
+    second: dw_Props_TelephonePoleWire_74
+  - first:
+      213: 2590091853415286092
+    second: dw_Props_TelephonePoleWire_75
+  - first:
+      213: 5405543954091987015
+    second: dw_Props_TelephonePoleWire_76
+  - first:
+      213: 2434793595989188759
+    second: dw_Props_TelephonePoleWire_77
+  - first:
+      213: 2487794370121753979
+    second: dw_Props_TelephonePoleWire_78
+  - first:
+      213: 8607801261551095230
+    second: dw_Props_TelephonePoleWire_79
+  - first:
+      213: 246119769357857488
+    second: dw_Props_TelephonePoleWire_80
+  - first:
+      213: -370728138909547273
+    second: dw_Props_TelephonePoleWire_81
+  - first:
+      213: -5643643568928260429
+    second: dw_Props_TelephonePoleWire_82
+  - first:
+      213: -7330410241191340034
+    second: dw_Props_TelephonePoleWire_83
+  - first:
+      213: -1636370544151596594
+    second: dw_Props_TelephonePoleWire_84
+  - first:
+      213: 6125589786747135725
+    second: dw_Props_TelephonePoleWire_85
+  - first:
+      213: -5412851958437924853
+    second: dw_Props_TelephonePoleWire_86
+  - first:
+      213: 4381061387349408455
+    second: dw_Props_TelephonePoleWire_87
+  - first:
+      213: 6835680856196340507
+    second: dw_Props_TelephonePoleWire_88
+  - first:
+      213: 362747547915228439
+    second: dw_Props_TelephonePoleWire_89
+  - first:
+      213: -9114513058217537874
+    second: dw_Props_TelephonePoleWire_90
+  - first:
+      213: 8062590685698579834
+    second: dw_Props_TelephonePoleWire_91
+  - first:
+      213: 7822305646010335827
+    second: dw_Props_TelephonePoleWire_92
+  - first:
+      213: -996914372217247423
+    second: dw_Props_TelephonePoleWire_93
+  - first:
+      213: -3000470156642911703
+    second: dw_Props_TelephonePoleWire_94
+  - first:
+      213: 4182234515718615829
+    second: dw_Props_TelephonePoleWire_95
+  - first:
+      213: -6493720491110335583
+    second: dw_Props_TelephonePoleWire_96
+  - first:
+      213: -1627632916974719395
+    second: dw_Props_TelephonePoleWire_97
+  - first:
+      213: 188290265539215918
+    second: dw_Props_TelephonePoleWire_98
+  - first:
+      213: -4962402418655847136
+    second: dw_Props_TelephonePoleWire_99
+  - first:
+      213: 4863720199099304199
+    second: dw_Props_TelephonePoleWire_100
+  - first:
+      213: 5474795405756404748
+    second: dw_Props_TelephonePoleWire_101
+  - first:
+      213: -3621002491102068129
+    second: dw_Props_TelephonePoleWire_102
+  - first:
+      213: -385050354822490688
+    second: dw_Props_TelephonePoleWire_103
+  - first:
+      213: 8282846961876159390
+    second: dw_Props_TelephonePoleWire_104
+  - first:
+      213: -4350998800970814793
+    second: dw_Props_TelephonePoleWire_105
+  - first:
+      213: 4533719218550344548
+    second: dw_Props_TelephonePoleWire_106
+  - first:
+      213: 8058731385552261673
+    second: dw_Props_TelephonePoleWire_107
+  - first:
+      213: 4610178650861710931
+    second: dw_Props_TelephonePoleWire_108
+  - first:
+      213: -4438516895765006852
+    second: dw_Props_TelephonePoleWire_109
+  - first:
+      213: -9120805112697190189
+    second: dw_Props_TelephonePoleWire_110
+  - first:
+      213: -8269112108504667900
+    second: dw_Props_TelephonePoleWire_111
+  - first:
+      213: 282907870791627945
+    second: dw_Props_TelephonePoleWire_112
+  - first:
+      213: 1414039292940453399
+    second: dw_Props_TelephonePoleWire_113
+  - first:
+      213: -1484174941555179185
+    second: dw_Props_TelephonePoleWire_114
+  - first:
+      213: -8766146950175369566
+    second: dw_Props_TelephonePoleWire_115
+  - first:
+      213: 2477441513467027615
+    second: dw_Props_TelephonePoleWire_116
+  - first:
+      213: -6551932762462398313
+    second: dw_Props_TelephonePoleWire_117
+  - first:
+      213: -7689057922605140621
+    second: dw_Props_TelephonePoleWire_118
+  - first:
+      213: -8236570221337781144
+    second: dw_Props_TelephonePoleWire_119
+  - first:
+      213: 5868155074416062635
+    second: dw_Props_TelephonePoleWire_120
+  - first:
+      213: 289879022055222693
+    second: dw_Props_TelephonePoleWire_121
+  - first:
+      213: 5420313305648640277
+    second: dw_Props_TelephonePoleWire_122
+  - first:
+      213: 4183399527255219832
+    second: dw_Props_TelephonePoleWire_123
+  - first:
+      213: 8004462273110544681
+    second: dw_Props_TelephonePoleWire_124
+  - first:
+      213: 1459160469797712539
+    second: dw_Props_TelephonePoleWire_125
+  - first:
+      213: 2936237921256231082
+    second: dw_Props_TelephonePoleWire_126
+  - first:
+      213: 4367896788512940096
+    second: dw_Props_TelephonePoleWire_127
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e30e6d876e58c90800000000000000
+      internalID: -7168069825214792132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 904.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd3f8ccf6ffce80800000000000000
+      internalID: -8156028834581062550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 904.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ab485518306eb0800000000000000
+      internalID: -4728717944412199016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 904.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4fad86fd951b20800000000000000
+      internalID: 3104561200406416929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 904.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f9d6a05d43ca50800000000000000
+      internalID: 6540156092664116312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320240356817b32f0800000000000000
+      internalID: -992074471172726749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 804.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b10fe297ae6820800000000000000
+      internalID: 2913450258472220672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 804.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5a8ca59e788e50800000000000000
+      internalID: 6811833617707851619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 804.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2441bd4e64d64e00800000000000000
+      internalID: 1028743135115691055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 804.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d6a2f587328fc0800000000000000
+      internalID: -3494169312444885549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbb4f5f33a23f10800000000000000
+      internalID: 2248038656588364666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 704.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75f452c2a3f2340800000000000000
+      internalID: 4841152085725501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 704.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff374ec804f3d30800000000000000
+      internalID: 4413317133718781727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 704.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4bc512336ef2d0800000000000000
+      internalID: -3243045614895019181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 704.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc244db9ae207c0800000000000000
+      internalID: -4106461955206492265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c75521772843c50800000000000000
+      internalID: 6644078798198635650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 604.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b44116b48c13f0800000000000000
+      internalID: -928721505636536245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 604.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ff9decb2a94e80800000000000000
+      internalID: -8193839114699671051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 604.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9618fc7845d49a80800000000000000
+      internalID: -8460903292611324257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 604.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c677e2831c17240800000000000000
+      internalID: 4787820325913455655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4ae18319ba8920800000000000000
+      internalID: 2993408395776249607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 504.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82df4f1e94da790800000000000000
+      internalID: -7517270968184788777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 504.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6eff0dc8daa6c90800000000000000
+      internalID: -7175732235948005694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 504.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0912a80722e2b0800000000000000
+      internalID: -5556836072188999038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 504.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc30227ff0f77a50800000000000000
+      internalID: 6518943965564124376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd6e1592ac44c60800000000000000
+      internalID: 7801582733329095969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 404.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7211c03f968050800000000000000
+      internalID: 5802500201659923570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 404.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65fa6b993e100740800000000000000
+      internalID: 5116122409462330734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 404.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f2eb652cea82fd0800000000000000
+      internalID: -2366449454481002596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 404.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653812f65e4cf27b0800000000000000
+      internalID: -5246758551172316330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7299b64c511e74f0800000000000000
+      internalID: -829206193368362369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 304.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e0e1b984c06370800000000000000
+      internalID: 8313861007799804585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386048811f3c73200800000000000000
+      internalID: 159811752060782211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 304.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ba7c46e5995110800000000000000
+      internalID: 1250195187930150756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 304.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd38c751e50f030800000000000000
+      internalID: 3526421954607438836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d791083b3822e44d0800000000000000
+      internalID: -3148541140437821059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6823d08f833c0d30800000000000000
+      internalID: 4398947627468793962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e9004ec56367f80800000000000000
+      internalID: -8109234306443862471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31a0f7303321a440800000000000000
+      internalID: 4945272555833434431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc28b7b2556a3320800000000000000
+      internalID: 2538452745920720089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d2fc40e166b9f0800000000000000
+      internalID: -453067096512604821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7dacdf80fea5910800000000000000
+      internalID: 1827035420748863444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e21f0bf9c8ac60800000000000000
+      internalID: 7829730032310477332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c3961211b4a500800000000000000
+      internalID: 406644557616497300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d22e3b70060610800000000000000
+      internalID: 1586956448018124915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56925d39e039c9e60800000000000000
+      internalID: 7970407131357981029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea7cba2c91c4def0800000000000000
+      internalID: -84229616537142559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae3eb4dff629bb0800000000000000
+      internalID: -4930755508326634991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8d3d06c42ca710800000000000000
+      internalID: 1705778791910838192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_TelephonePoleWire_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4.5
+        width: 102.2
+        height: 100.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633d2e066e8e2bf0800000000000000
+      internalID: -347183552285297815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dw_Props_TelephonePoleWire_29: -5246758551172316330
+      dw_Props_TelephonePoleWire_41: 1827035420748863444
+      dw_Props_TelephonePoleWire_28: -2366449454481002596
+      dw_Props_TelephonePoleWire_4: 6540156092664116312
+      dw_Props_TelephonePoleWire_40: -453067096512604821
+      dw_Props_TelephonePoleWire_24: 6518943965564124376
+      dw_Props_TelephonePoleWire_42: 7829730032310477332
+      dw_Props_TelephonePoleWire_22: -7175732235948005694
+      dw_Props_TelephonePoleWire_23: -5556836072188999038
+      dw_Props_TelephonePoleWire_17: -8193839114699671051
+      dw_Props_TelephonePoleWire_26: 5802500201659923570
+      dw_Props_TelephonePoleWire_39: 2538452745920720089
+      dw_Props_TelephonePoleWire_14: -4106461955206492265
+      dw_Props_TelephonePoleWire_38: 4945272555833434431
+      dw_Props_TelephonePoleWire_1: -8156028834581062550
+      dw_Props_TelephonePoleWire_31: 8313861007799804585
+      dw_Props_TelephonePoleWire_30: -829206193368362369
+      dw_Props_TelephonePoleWire_18: -8460903292611324257
+      dw_Props_TelephonePoleWire_20: 2993408395776249607
+      dw_Props_TelephonePoleWire_34: 3526421954607438836
+      dw_Props_TelephonePoleWire_43: 406644557616497300
+      dw_Props_TelephonePoleWire_13: -3243045614895019181
+      dw_Props_TelephonePoleWire_9: -3494169312444885549
+      dw_Props_TelephonePoleWire_47: -4930755508326634991
+      dw_Props_TelephonePoleWire_25: 7801582733329095969
+      dw_Props_TelephonePoleWire_46: -84229616537142559
+      dw_Props_TelephonePoleWire_10: 2248038656588364666
+      dw_Props_TelephonePoleWire_5: -992074471172726749
+      dw_Props_TelephonePoleWire_12: 4413317133718781727
+      dw_Props_TelephonePoleWire_2: -4728717944412199016
+      dw_Props_TelephonePoleWire_8: 1028743135115691055
+      dw_Props_TelephonePoleWire_15: 6644078798198635650
+      dw_Props_TelephonePoleWire_0: -7168069825214792132
+      dw_Props_TelephonePoleWire_6: 2913450258472220672
+      dw_Props_TelephonePoleWire_45: 7970407131357981029
+      dw_Props_TelephonePoleWire_33: 1250195187930150756
+      dw_Props_TelephonePoleWire_48: 1705778791910838192
+      dw_Props_TelephonePoleWire_27: 5116122409462330734
+      dw_Props_TelephonePoleWire_19: 4787820325913455655
+      dw_Props_TelephonePoleWire_16: -928721505636536245
+      dw_Props_TelephonePoleWire_7: 6811833617707851619
+      dw_Props_TelephonePoleWire_36: 4398947627468793962
+      dw_Props_TelephonePoleWire_32: 159811752060782211
+      dw_Props_TelephonePoleWire_11: 4841152085725501379
+      dw_Props_TelephonePoleWire_21: -7517270968184788777
+      dw_Props_TelephonePoleWire_49: -347183552285297815
+      dw_Props_TelephonePoleWire_3: 3104561200406416929
+      dw_Props_TelephonePoleWire_37: -8109234306443862471
+      dw_Props_TelephonePoleWire_44: 1586956448018124915
+      dw_Props_TelephonePoleWire_35: -3148541140437821059
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

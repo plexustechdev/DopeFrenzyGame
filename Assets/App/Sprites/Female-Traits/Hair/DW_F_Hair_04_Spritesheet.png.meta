@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: b3afd73affdd2fa4aa43053475570add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5133841528597588760
+    second: DW_F_Hair_04_Spritesheet_0
+  - first:
+      213: -3063593800851321866
+    second: DW_F_Hair_04_Spritesheet_1
+  - first:
+      213: -1492797183760310636
+    second: DW_F_Hair_04_Spritesheet_2
+  - first:
+      213: 7716912772466459326
+    second: DW_F_Hair_04_Spritesheet_3
+  - first:
+      213: 4729287796947278959
+    second: DW_F_Hair_04_Spritesheet_4
+  - first:
+      213: 7440269901308297783
+    second: DW_F_Hair_04_Spritesheet_5
+  - first:
+      213: 3346321272247339025
+    second: DW_F_Hair_04_Spritesheet_6
+  - first:
+      213: 3157272876614659596
+    second: DW_F_Hair_04_Spritesheet_7
+  - first:
+      213: 4975606730236555542
+    second: DW_F_Hair_04_Spritesheet_8
+  - first:
+      213: 2552742033363657955
+    second: DW_F_Hair_04_Spritesheet_9
+  - first:
+      213: -134842862358781352
+    second: DW_F_Hair_04_Spritesheet_10
+  - first:
+      213: 4253827111335522399
+    second: DW_F_Hair_04_Spritesheet_11
+  - first:
+      213: -7862263581116860555
+    second: DW_F_Hair_04_Spritesheet_12
+  - first:
+      213: -6633233668008100175
+    second: DW_F_Hair_04_Spritesheet_13
+  - first:
+      213: 2389428211704199028
+    second: DW_F_Hair_04_Spritesheet_14
+  - first:
+      213: -8146759713730820485
+    second: DW_F_Hair_04_Spritesheet_15
+  - first:
+      213: -6050512714847109839
+    second: DW_F_Hair_04_Spritesheet_16
+  - first:
+      213: -9142752678447135304
+    second: DW_F_Hair_04_Spritesheet_17
+  - first:
+      213: -1855964872959828565
+    second: DW_F_Hair_04_Spritesheet_18
+  - first:
+      213: 3226206489067427029
+    second: DW_F_Hair_04_Spritesheet_19
+  - first:
+      213: -5059529851391002142
+    second: DW_F_Hair_04_Spritesheet_20
+  - first:
+      213: 9117624370509401278
+    second: DW_F_Hair_04_Spritesheet_21
+  - first:
+      213: -2869168143926971244
+    second: DW_F_Hair_04_Spritesheet_22
+  - first:
+      213: -7324497005974432524
+    second: DW_F_Hair_04_Spritesheet_23
+  - first:
+      213: 976287709527162806
+    second: DW_F_Hair_04_Spritesheet_24
+  - first:
+      213: -6825757675782003346
+    second: DW_F_Hair_04_Spritesheet_25
+  - first:
+      213: 6917355298166529
+    second: DW_F_Hair_04_Spritesheet_26
+  - first:
+      213: -4157441360864823626
+    second: DW_F_Hair_04_Spritesheet_27
+  - first:
+      213: 6438576555642781154
+    second: DW_F_Hair_04_Spritesheet_28
+  - first:
+      213: -6837305096148955101
+    second: DW_F_Hair_04_Spritesheet_29
+  - first:
+      213: -272905326902294231
+    second: DW_F_Hair_04_Spritesheet_30
+  - first:
+      213: 2422592025188021517
+    second: DW_F_Hair_04_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b25358ba11f3740800000000000000
+      internalID: 5133841528597588760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0b247badeb75d0800000000000000
+      internalID: -3063593800851321866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e534cded4884be0800000000000000
+      internalID: -1492797183760310636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2c985d74bf71b60800000000000000
+      internalID: 7716912772466459326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd1a9c13ec1a140800000000000000
+      internalID: 4729287796947278959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73203841e06214760800000000000000
+      internalID: 7440269901308297783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c2a0b775807e20800000000000000
+      internalID: 3346321272247339025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea79d04f2e0db20800000000000000
+      internalID: 3157272876614659596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611fac195f7ec0540800000000000000
+      internalID: 4975606730236555542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e469d5ba592d6320800000000000000
+      internalID: 2552742033363657955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ab909121f02ef0800000000000000
+      internalID: -134842862358781352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5074135831a80b30800000000000000
+      internalID: 4253827111335522399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f905dde0a3e290800000000000000
+      internalID: -7862263581116860555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be37329f1502f3a0800000000000000
+      internalID: -6633233668008100175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477fcee7c44f82120800000000000000
+      internalID: 2389428211704199028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768c982435e0fe80800000000000000
+      internalID: -8146759713730820485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dbd8a2eb2480ca0800000000000000
+      internalID: -6050512714847109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b548eb11ea6e1180800000000000000
+      internalID: -9142752678447135304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad50a708c94e36e0800000000000000
+      internalID: -1855964872959828565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49ce865b9c5cc20800000000000000
+      internalID: 3226206489067427029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ba5d1860f8c9b0800000000000000
+      internalID: -5059529851391002142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc48a7ce0f488e70800000000000000
+      internalID: 9117624370509401278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494bd5c46caae28d0800000000000000
+      internalID: -2869168143926971244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f45b78a7c82a5a90800000000000000
+      internalID: -7324497005974432524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf32fccf787c8d00800000000000000
+      internalID: 976287709527162806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652e1cee890641a0800000000000000
+      internalID: -6825757675782003346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10715594c43981000800000000000000
+      internalID: 6917355298166529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b22ffb1dcd46c0800000000000000
+      internalID: -4157441360864823626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edfe3aa34b6a5950800000000000000
+      internalID: 6438576555642781154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d21b9d330d11a0800000000000000
+      internalID: -6837305096148955101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294da41d02763cf0800000000000000
+      internalID: -272905326902294231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hair_04_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b6098c96ce9120800000000000000
+      internalID: 2422592025188021517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hair_04_Spritesheet_26: 6917355298166529
+      DW_F_Hair_04_Spritesheet_12: -7862263581116860555
+      DW_F_Hair_04_Spritesheet_5: 7440269901308297783
+      DW_F_Hair_04_Spritesheet_22: -2869168143926971244
+      DW_F_Hair_04_Spritesheet_20: -5059529851391002142
+      DW_F_Hair_04_Spritesheet_25: -6825757675782003346
+      DW_F_Hair_04_Spritesheet_0: 5133841528597588760
+      DW_F_Hair_04_Spritesheet_24: 976287709527162806
+      DW_F_Hair_04_Spritesheet_31: 2422592025188021517
+      DW_F_Hair_04_Spritesheet_13: -6633233668008100175
+      DW_F_Hair_04_Spritesheet_15: -8146759713730820485
+      DW_F_Hair_04_Spritesheet_28: 6438576555642781154
+      DW_F_Hair_04_Spritesheet_16: -6050512714847109839
+      DW_F_Hair_04_Spritesheet_3: 7716912772466459326
+      DW_F_Hair_04_Spritesheet_14: 2389428211704199028
+      DW_F_Hair_04_Spritesheet_10: -134842862358781352
+      DW_F_Hair_04_Spritesheet_19: 3226206489067427029
+      DW_F_Hair_04_Spritesheet_21: 9117624370509401278
+      DW_F_Hair_04_Spritesheet_18: -1855964872959828565
+      DW_F_Hair_04_Spritesheet_7: 3157272876614659596
+      DW_F_Hair_04_Spritesheet_9: 2552742033363657955
+      DW_F_Hair_04_Spritesheet_8: 4975606730236555542
+      DW_F_Hair_04_Spritesheet_17: -9142752678447135304
+      DW_F_Hair_04_Spritesheet_30: -272905326902294231
+      DW_F_Hair_04_Spritesheet_2: -1492797183760310636
+      DW_F_Hair_04_Spritesheet_27: -4157441360864823626
+      DW_F_Hair_04_Spritesheet_1: -3063593800851321866
+      DW_F_Hair_04_Spritesheet_6: 3346321272247339025
+      DW_F_Hair_04_Spritesheet_4: 4729287796947278959
+      DW_F_Hair_04_Spritesheet_23: -7324497005974432524
+      DW_F_Hair_04_Spritesheet_11: 4253827111335522399
+      DW_F_Hair_04_Spritesheet_29: -6837305096148955101
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

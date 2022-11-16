@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: e66777834a9221b4b89a31a379be5876
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6082522781178609714
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_0
+  - first:
+      213: 5684719973816714437
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_1
+  - first:
+      213: -5498447896470372844
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_2
+  - first:
+      213: 9168473904233367087
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_3
+  - first:
+      213: -6208360272853865553
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_4
+  - first:
+      213: 4135211874569429998
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_5
+  - first:
+      213: 5223072404598424915
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_6
+  - first:
+      213: 102959655217512795
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_7
+  - first:
+      213: 396562062034035048
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_8
+  - first:
+      213: -285695660732351073
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_9
+  - first:
+      213: 1309574688357884720
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_10
+  - first:
+      213: -476521490989309216
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_11
+  - first:
+      213: -843936946967095577
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_12
+  - first:
+      213: -4803506629696284478
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_13
+  - first:
+      213: 354546342138293066
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_14
+  - first:
+      213: 8987181942234547677
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_15
+  - first:
+      213: -935203797569205978
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_16
+  - first:
+      213: -117701416406633606
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_17
+  - first:
+      213: 4591684064900214145
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_18
+  - first:
+      213: -4741462215248644556
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_19
+  - first:
+      213: -5055112447939018882
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_20
+  - first:
+      213: -4980033009904929045
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_21
+  - first:
+      213: -3945339687601862837
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_22
+  - first:
+      213: -569253779663062909
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_23
+  - first:
+      213: -1657201642152997947
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_24
+  - first:
+      213: -1231208796507985006
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_25
+  - first:
+      213: 8552316691419546798
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_26
+  - first:
+      213: 6259125746582253728
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_27
+  - first:
+      213: 248173588067921099
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_28
+  - first:
+      213: 4422649849515003797
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_29
+  - first:
+      213: -7605667692441204034
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_30
+  - first:
+      213: 1818666525643319374
+    second: DW_F_Clothes_Golden_Shirt_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304f5e2e36796450800000000000000
+      internalID: 6082522781178609714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c9ee72be24ee40800000000000000
+      internalID: 5684719973816714437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb3ea25c691b3b0800000000000000
+      internalID: -5498447896470372844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c4427076fc3f70800000000000000
+      internalID: 9168473904233367087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe5e2a93977d9a0800000000000000
+      internalID: -6208360272853865553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee320b66a49336930800000000000000
+      internalID: 4135211874569429998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550c30dda41c7840800000000000000
+      internalID: 5223072404598424915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51cf6bc249cd6100800000000000000
+      internalID: 102959655217512795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616fe6281fd08500800000000000000
+      internalID: 396562062034035048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d7d2c6f41090cf0800000000000000
+      internalID: -285695660732351073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332a6a9d3b8c2210800000000000000
+      internalID: 1309574688357884720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22eb98a3e0369f0800000000000000
+      internalID: -476521490989309216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d23f61dbb944f0800000000000000
+      internalID: -843936946967095577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c818bc9b24865db0800000000000000
+      internalID: -4803506629696284478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b219b050a9be400800000000000000
+      internalID: 354546342138293066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd502be3c52e8bc70800000000000000
+      internalID: 8987181942234547677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298a4dd91d7503f0800000000000000
+      internalID: -935203797569205978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b5857f27dd5ef0800000000000000
+      internalID: -117701416406633606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de2394450f8bf30800000000000000
+      internalID: 4591684064900214145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fa209c31f23eb0800000000000000
+      internalID: -4741462215248644556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f70f00302a8d9b0800000000000000
+      internalID: -5055112447939018882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b5e2ec5e53eab0800000000000000
+      internalID: -4980033009904929045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478d3a15765f39c0800000000000000
+      internalID: -3945339687601862837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388722414ba9918f0800000000000000
+      internalID: -569253779663062909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc64ef2ef6009e0800000000000000
+      internalID: -1657201642152997947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2ecf6f1ed9eee0800000000000000
+      internalID: -1231208796507985006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c4bef7beefa670800000000000000
+      internalID: 8552316691419546798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0798944b1ecd650800000000000000
+      internalID: 6259125746582253728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2c6f3090b17300800000000000000
+      internalID: 248173588067921099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc64e1b98606d30800000000000000
+      internalID: 4422649849515003797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8060c78d337690800000000000000
+      internalID: -7605667692441204034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Golden_Shirt_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482dd1c1933d3910800000000000000
+      internalID: 1818666525643319374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_Golden_Shirt_Spritesheet_26: 8552316691419546798
+      DW_F_Clothes_Golden_Shirt_Spritesheet_31: 1818666525643319374
+      DW_F_Clothes_Golden_Shirt_Spritesheet_12: -843936946967095577
+      DW_F_Clothes_Golden_Shirt_Spritesheet_22: -3945339687601862837
+      DW_F_Clothes_Golden_Shirt_Spritesheet_27: 6259125746582253728
+      DW_F_Clothes_Golden_Shirt_Spritesheet_25: -1231208796507985006
+      DW_F_Clothes_Golden_Shirt_Spritesheet_30: -7605667692441204034
+      DW_F_Clothes_Golden_Shirt_Spritesheet_14: 354546342138293066
+      DW_F_Clothes_Golden_Shirt_Spritesheet_11: -476521490989309216
+      DW_F_Clothes_Golden_Shirt_Spritesheet_23: -569253779663062909
+      DW_F_Clothes_Golden_Shirt_Spritesheet_10: 1309574688357884720
+      DW_F_Clothes_Golden_Shirt_Spritesheet_1: 5684719973816714437
+      DW_F_Clothes_Golden_Shirt_Spritesheet_9: -285695660732351073
+      DW_F_Clothes_Golden_Shirt_Spritesheet_29: 4422649849515003797
+      DW_F_Clothes_Golden_Shirt_Spritesheet_21: -4980033009904929045
+      DW_F_Clothes_Golden_Shirt_Spritesheet_24: -1657201642152997947
+      DW_F_Clothes_Golden_Shirt_Spritesheet_7: 102959655217512795
+      DW_F_Clothes_Golden_Shirt_Spritesheet_20: -5055112447939018882
+      DW_F_Clothes_Golden_Shirt_Spritesheet_3: 9168473904233367087
+      DW_F_Clothes_Golden_Shirt_Spritesheet_4: -6208360272853865553
+      DW_F_Clothes_Golden_Shirt_Spritesheet_19: -4741462215248644556
+      DW_F_Clothes_Golden_Shirt_Spritesheet_15: 8987181942234547677
+      DW_F_Clothes_Golden_Shirt_Spritesheet_28: 248173588067921099
+      DW_F_Clothes_Golden_Shirt_Spritesheet_5: 4135211874569429998
+      DW_F_Clothes_Golden_Shirt_Spritesheet_6: 5223072404598424915
+      DW_F_Clothes_Golden_Shirt_Spritesheet_17: -117701416406633606
+      DW_F_Clothes_Golden_Shirt_Spritesheet_0: 6082522781178609714
+      DW_F_Clothes_Golden_Shirt_Spritesheet_2: -5498447896470372844
+      DW_F_Clothes_Golden_Shirt_Spritesheet_8: 396562062034035048
+      DW_F_Clothes_Golden_Shirt_Spritesheet_13: -4803506629696284478
+      DW_F_Clothes_Golden_Shirt_Spritesheet_18: 4591684064900214145
+      DW_F_Clothes_Golden_Shirt_Spritesheet_16: -935203797569205978
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

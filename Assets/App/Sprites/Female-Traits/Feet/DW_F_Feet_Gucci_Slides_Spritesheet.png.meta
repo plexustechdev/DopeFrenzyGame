@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 87a925642f2f955448edb39812f80e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8621431058897959463
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_0
+  - first:
+      213: 4353521015967371544
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_1
+  - first:
+      213: -1778780916928379657
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_2
+  - first:
+      213: 1750380290203914540
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_3
+  - first:
+      213: -2315207357991263948
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_4
+  - first:
+      213: -519720663363468222
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_5
+  - first:
+      213: 244899029406716506
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_6
+  - first:
+      213: 6939058878052815484
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_7
+  - first:
+      213: -4353388146514984785
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_8
+  - first:
+      213: 9183419142104351278
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_9
+  - first:
+      213: -162457427452566910
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_10
+  - first:
+      213: -2376449832576366226
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_11
+  - first:
+      213: -216235955902264367
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_12
+  - first:
+      213: 6485013809361719661
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_13
+  - first:
+      213: 3955867333148840174
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_14
+  - first:
+      213: -152352576539247802
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_15
+  - first:
+      213: -7647083338417871991
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_16
+  - first:
+      213: -6075516286657814428
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_17
+  - first:
+      213: -1256966014117265312
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_18
+  - first:
+      213: -942081569724251283
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_19
+  - first:
+      213: -5388834322561073
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_20
+  - first:
+      213: 8893469916921097458
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_21
+  - first:
+      213: 7377252861962997941
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_22
+  - first:
+      213: -7000980529012267333
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_23
+  - first:
+      213: 6563745349775332403
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_24
+  - first:
+      213: 6890694858047297650
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_25
+  - first:
+      213: -2510370648912219940
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_26
+  - first:
+      213: 7186912874072774554
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_27
+  - first:
+      213: 6285230317393865701
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_28
+  - first:
+      213: 5310123420963077923
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_29
+  - first:
+      213: 5230193739478893926
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_30
+  - first:
+      213: 2471792292901627196
+    second: DW_F_Feet_Gucci_Slides_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50ed651268a5880800000000000000
+      internalID: -8621431058897959463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811deee4c40da6c30800000000000000
+      internalID: 4353521015967371544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48d313e208057e0800000000000000
+      internalID: -1778780916928379657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21137b99999a4810800000000000000
+      internalID: 1750380290203914540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316f85ac2bbedfd0800000000000000
+      internalID: -2315207357991263948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444acd6fc499c8f0800000000000000
+      internalID: -519720663363468222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5210a5ae5e066300800000000000000
+      internalID: 244899029406716506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72dbdde84d7c4060800000000000000
+      internalID: 6939058878052815484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa00495cb88a593c0800000000000000
+      internalID: -4353388146514984785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2207accd0f027f70800000000000000
+      internalID: 9183419142104351278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e09994d5debdf0800000000000000
+      internalID: -162457427452566910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69cfbed777250fd0800000000000000
+      internalID: -2376449832576366226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db47c43b86cffcf0800000000000000
+      internalID: -216235955902264367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61128653b56ff950800000000000000
+      internalID: 6485013809361719661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee098e2616016e630800000000000000
+      internalID: 3955867333148840174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b33ca832cb2edf0800000000000000
+      internalID: -152352576539247802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9836bcd383a10e590800000000000000
+      internalID: -7647083338417871991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46029a2702e6faba0800000000000000
+      internalID: -6075516286657814428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604dc1e11c5e8ee0800000000000000
+      internalID: -1256966014117265312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c42fbdcd0de2f0800000000000000
+      internalID: -942081569724251283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7437c32eadceff0800000000000000
+      internalID: -5388834322561073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc64b215c3fb6b70800000000000000
+      internalID: 8893469916921097458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d98f3464416660800000000000000
+      internalID: 7377252861962997941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62cc83d4587de90800000000000000
+      internalID: -7000980529012267333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3341b719e9b171b50800000000000000
+      internalID: 6563745349775332403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781585077aa0af50800000000000000
+      internalID: 6890694858047297650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03501023f592dd0800000000000000
+      internalID: -2510370648912219940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971aca5e2b0db360800000000000000
+      internalID: 7186912874072774554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe6cf4caf993750800000000000000
+      internalID: 6285230317393865701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7cfbfd1951b940800000000000000
+      internalID: 5310123420963077923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658c1cce71659840800000000000000
+      internalID: 5230193739478893926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Slides_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3523f88ef19d4220800000000000000
+      internalID: 2471792292901627196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Gucci_Slides_Spritesheet_6: 244899029406716506
+      DW_F_Feet_Gucci_Slides_Spritesheet_24: 6563745349775332403
+      DW_F_Feet_Gucci_Slides_Spritesheet_1: 4353521015967371544
+      DW_F_Feet_Gucci_Slides_Spritesheet_15: -152352576539247802
+      DW_F_Feet_Gucci_Slides_Spritesheet_17: -6075516286657814428
+      DW_F_Feet_Gucci_Slides_Spritesheet_13: 6485013809361719661
+      DW_F_Feet_Gucci_Slides_Spritesheet_27: 7186912874072774554
+      DW_F_Feet_Gucci_Slides_Spritesheet_4: -2315207357991263948
+      DW_F_Feet_Gucci_Slides_Spritesheet_10: -162457427452566910
+      DW_F_Feet_Gucci_Slides_Spritesheet_28: 6285230317393865701
+      DW_F_Feet_Gucci_Slides_Spritesheet_9: 9183419142104351278
+      DW_F_Feet_Gucci_Slides_Spritesheet_25: 6890694858047297650
+      DW_F_Feet_Gucci_Slides_Spritesheet_22: 7377252861962997941
+      DW_F_Feet_Gucci_Slides_Spritesheet_7: 6939058878052815484
+      DW_F_Feet_Gucci_Slides_Spritesheet_31: 2471792292901627196
+      DW_F_Feet_Gucci_Slides_Spritesheet_5: -519720663363468222
+      DW_F_Feet_Gucci_Slides_Spritesheet_14: 3955867333148840174
+      DW_F_Feet_Gucci_Slides_Spritesheet_23: -7000980529012267333
+      DW_F_Feet_Gucci_Slides_Spritesheet_11: -2376449832576366226
+      DW_F_Feet_Gucci_Slides_Spritesheet_0: -8621431058897959463
+      DW_F_Feet_Gucci_Slides_Spritesheet_18: -1256966014117265312
+      DW_F_Feet_Gucci_Slides_Spritesheet_20: -5388834322561073
+      DW_F_Feet_Gucci_Slides_Spritesheet_26: -2510370648912219940
+      DW_F_Feet_Gucci_Slides_Spritesheet_16: -7647083338417871991
+      DW_F_Feet_Gucci_Slides_Spritesheet_30: 5230193739478893926
+      DW_F_Feet_Gucci_Slides_Spritesheet_29: 5310123420963077923
+      DW_F_Feet_Gucci_Slides_Spritesheet_8: -4353388146514984785
+      DW_F_Feet_Gucci_Slides_Spritesheet_3: 1750380290203914540
+      DW_F_Feet_Gucci_Slides_Spritesheet_21: 8893469916921097458
+      DW_F_Feet_Gucci_Slides_Spritesheet_12: -216235955902264367
+      DW_F_Feet_Gucci_Slides_Spritesheet_19: -942081569724251283
+      DW_F_Feet_Gucci_Slides_Spritesheet_2: -1778780916928379657
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

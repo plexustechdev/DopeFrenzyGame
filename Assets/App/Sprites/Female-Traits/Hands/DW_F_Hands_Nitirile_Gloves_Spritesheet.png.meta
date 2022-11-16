@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: ee8ff58ccecdb9041bc80cdf5501fa87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8276769623713861266
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_0
+  - first:
+      213: -4552877255012734702
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_1
+  - first:
+      213: -4930448379513829900
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_2
+  - first:
+      213: 2938112389670774060
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_3
+  - first:
+      213: 2339199234044777164
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_4
+  - first:
+      213: -2654343472565369380
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_5
+  - first:
+      213: 729058864026113633
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_6
+  - first:
+      213: -7845959765118132420
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_7
+  - first:
+      213: -5849363538477580908
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_8
+  - first:
+      213: 3252860571141890497
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_9
+  - first:
+      213: -1682894901557655974
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_10
+  - first:
+      213: 3772590500602819906
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_11
+  - first:
+      213: -3310102131505296276
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_12
+  - first:
+      213: -7195724305744302709
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_13
+  - first:
+      213: 4671201247579386862
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_14
+  - first:
+      213: -587558740268462454
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_15
+  - first:
+      213: 1398844712122562948
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_16
+  - first:
+      213: 1607975451242375585
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_17
+  - first:
+      213: 6380170334443634426
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_18
+  - first:
+      213: -3142141013413960982
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_19
+  - first:
+      213: 2403694967370588781
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_20
+  - first:
+      213: -2682221028792977546
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_21
+  - first:
+      213: 9176467348700340030
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_22
+  - first:
+      213: 7938730913639008667
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_23
+  - first:
+      213: -825116114846005281
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_24
+  - first:
+      213: 7692903542567659473
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_25
+  - first:
+      213: 5327111012180055291
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_26
+  - first:
+      213: 6151477147400283075
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_27
+  - first:
+      213: 3221515053125167980
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_28
+  - first:
+      213: -1103167865235539780
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_29
+  - first:
+      213: -5910525490393119003
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_30
+  - first:
+      213: 4306005593308936087
+    second: DW_F_Hands_Nitirile_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e453dde1efcd270800000000000000
+      internalID: 8276769623713861266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219a20d324ee0d0c0800000000000000
+      internalID: -4552877255012734702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58dab4257839bb0800000000000000
+      internalID: -4930448379513829900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c252080d6a546c820800000000000000
+      internalID: 2938112389670774060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2da1c4f41867020800000000000000
+      internalID: 2339199234044777164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54dddcca0e92bd0800000000000000
+      internalID: -2654343472565369380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16650a29c232e1a00800000000000000
+      internalID: 729058864026113633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f502ec92d8d1390800000000000000
+      internalID: -7845959765118132420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dfbee5ad2e2dea0800000000000000
+      internalID: -5849363538477580908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c169ce747b742d20800000000000000
+      internalID: 3252860571141890497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56075ed00825a8e0800000000000000
+      internalID: -1682894901557655974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b17f721fea5430800000000000000
+      internalID: 3772590500602819906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c0d5926a72012d0800000000000000
+      internalID: -3310102131505296276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d67765ed6a32c90800000000000000
+      internalID: -7195724305744302709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b45c19c073d040800000000000000
+      internalID: 4671201247579386862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4f91507298d7f0800000000000000
+      internalID: -587558740268462454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bff1bad1b96310800000000000000
+      internalID: 1398844712122562948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9a9da472da05610800000000000000
+      internalID: 1607975451242375585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7ff69d1bea8850800000000000000
+      internalID: 6380170334443634426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26645656fd464d0800000000000000
+      internalID: -3142141013413960982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a48666d3ab5120800000000000000
+      internalID: 2403694967370588781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67736b17f26d6cad0800000000000000
+      internalID: -2682221028792977546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f11444f6c595f70800000000000000
+      internalID: 9176467348700340030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998dda64b90c2e60800000000000000
+      internalID: 7938730913639008667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74724e3499c84f0800000000000000
+      internalID: -825116114846005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e612630fa2ca60800000000000000
+      internalID: 7692903542567659473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45018cd33bde940800000000000000
+      internalID: 5327111012180055291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32ab6afdf6e5550800000000000000
+      internalID: 6151477147400283075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b691c5fde15bc20800000000000000
+      internalID: 3221515053125167980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87201eba2c0b0f0800000000000000
+      internalID: -1103167865235539780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60a3db16899fda0800000000000000
+      internalID: -5910525490393119003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Nitirile_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797360ed54102cb30800000000000000
+      internalID: 4306005593308936087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_23: 7938730913639008667
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_30: -5910525490393119003
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_6: 729058864026113633
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_31: 4306005593308936087
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_3: 2938112389670774060
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_29: -1103167865235539780
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_27: 6151477147400283075
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_22: 9176467348700340030
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_13: -7195724305744302709
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_17: 1607975451242375585
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_19: -3142141013413960982
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_9: 3252860571141890497
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_20: 2403694967370588781
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_15: -587558740268462454
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_12: -3310102131505296276
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_24: -825116114846005281
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_11: 3772590500602819906
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_5: -2654343472565369380
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_28: 3221515053125167980
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_8: -5849363538477580908
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_4: 2339199234044777164
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_2: -4930448379513829900
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_16: 1398844712122562948
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_7: -7845959765118132420
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_0: 8276769623713861266
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_1: -4552877255012734702
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_21: -2682221028792977546
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_25: 7692903542567659473
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_26: 5327111012180055291
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_10: -1682894901557655974
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_18: 6380170334443634426
+      DW_F_Hands_Nitirile_Gloves_Spritesheet_14: 4671201247579386862
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

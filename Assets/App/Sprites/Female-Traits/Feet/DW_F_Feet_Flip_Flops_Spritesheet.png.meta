@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 46d1e9c68f6aa3740b090b75bc744487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7338779650007549291
+    second: DW_F_Feet_Flip_Flops_Spritesheet_0
+  - first:
+      213: 8474973379815410456
+    second: DW_F_Feet_Flip_Flops_Spritesheet_1
+  - first:
+      213: 6705024770357422419
+    second: DW_F_Feet_Flip_Flops_Spritesheet_2
+  - first:
+      213: 575358683782166186
+    second: DW_F_Feet_Flip_Flops_Spritesheet_3
+  - first:
+      213: -5124301174452499777
+    second: DW_F_Feet_Flip_Flops_Spritesheet_4
+  - first:
+      213: -6102383431181505828
+    second: DW_F_Feet_Flip_Flops_Spritesheet_5
+  - first:
+      213: -4927114642025378229
+    second: DW_F_Feet_Flip_Flops_Spritesheet_6
+  - first:
+      213: 2329143139128512701
+    second: DW_F_Feet_Flip_Flops_Spritesheet_7
+  - first:
+      213: 3346897078626789975
+    second: DW_F_Feet_Flip_Flops_Spritesheet_8
+  - first:
+      213: 5669269366991823215
+    second: DW_F_Feet_Flip_Flops_Spritesheet_9
+  - first:
+      213: 3603402315510270459
+    second: DW_F_Feet_Flip_Flops_Spritesheet_10
+  - first:
+      213: 7466115243640140893
+    second: DW_F_Feet_Flip_Flops_Spritesheet_11
+  - first:
+      213: 5967986962916618903
+    second: DW_F_Feet_Flip_Flops_Spritesheet_12
+  - first:
+      213: 5139771107941145495
+    second: DW_F_Feet_Flip_Flops_Spritesheet_13
+  - first:
+      213: 5719427809897837427
+    second: DW_F_Feet_Flip_Flops_Spritesheet_14
+  - first:
+      213: 2391275379030785874
+    second: DW_F_Feet_Flip_Flops_Spritesheet_15
+  - first:
+      213: 3205977931453549446
+    second: DW_F_Feet_Flip_Flops_Spritesheet_16
+  - first:
+      213: 6158549929636592482
+    second: DW_F_Feet_Flip_Flops_Spritesheet_17
+  - first:
+      213: 3788300550592678698
+    second: DW_F_Feet_Flip_Flops_Spritesheet_18
+  - first:
+      213: 8319510680282566871
+    second: DW_F_Feet_Flip_Flops_Spritesheet_19
+  - first:
+      213: -4856161271099671294
+    second: DW_F_Feet_Flip_Flops_Spritesheet_20
+  - first:
+      213: -5604432598090707559
+    second: DW_F_Feet_Flip_Flops_Spritesheet_21
+  - first:
+      213: 1729658737774017479
+    second: DW_F_Feet_Flip_Flops_Spritesheet_22
+  - first:
+      213: -6567285206676785785
+    second: DW_F_Feet_Flip_Flops_Spritesheet_23
+  - first:
+      213: 8496199754212183068
+    second: DW_F_Feet_Flip_Flops_Spritesheet_24
+  - first:
+      213: -679801725781885620
+    second: DW_F_Feet_Flip_Flops_Spritesheet_25
+  - first:
+      213: -8416220213512668637
+    second: DW_F_Feet_Flip_Flops_Spritesheet_26
+  - first:
+      213: 6617859012110876394
+    second: DW_F_Feet_Flip_Flops_Spritesheet_27
+  - first:
+      213: 8488494140932985319
+    second: DW_F_Feet_Flip_Flops_Spritesheet_28
+  - first:
+      213: 6931473733390170687
+    second: DW_F_Feet_Flip_Flops_Spritesheet_29
+  - first:
+      213: -1015311634776420651
+    second: DW_F_Feet_Flip_Flops_Spritesheet_30
+  - first:
+      213: 7428011044711546105
+    second: DW_F_Feet_Flip_Flops_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65c09b853598d560800000000000000
+      internalID: 7338779650007549291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0ac8f2672d9570800000000000000
+      internalID: 8474973379815410456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359695ff0880d0d50800000000000000
+      internalID: 6705024770357422419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b54daca51cf700800000000000000
+      internalID: 575358683782166186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba44a64b33d2e8b0800000000000000
+      internalID: -5124301174452499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6235e99aff4ba0800000000000000
+      internalID: -6102383431181505828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e837a865f5f9bb0800000000000000
+      internalID: -4927114642025378229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01bce3857c25020800000000000000
+      internalID: 2329143139128512701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa75f0921927e20800000000000000
+      internalID: 3346897078626789975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f612d83c37a4dae40800000000000000
+      internalID: 5669269366991823215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94fc6705bd10230800000000000000
+      internalID: 3603402315510270459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bc45c148fc9760800000000000000
+      internalID: 7466115243640140893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792bec4e58c82d250800000000000000
+      internalID: 5967986962916618903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd5ab4792245740800000000000000
+      internalID: 5139771107941145495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373737f4a4d7f5f40800000000000000
+      internalID: 5719427809897837427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7447a9448f2120800000000000000
+      internalID: 2391275379030785874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc70251fbed7c20800000000000000
+      internalID: 3205977931453549446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bfe771880977550800000000000000
+      internalID: 6158549929636592482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4e7c874fb29430800000000000000
+      internalID: 3788300550592678698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09f4392e6d47370800000000000000
+      internalID: 8319510680282566871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d38109d037b9cb0800000000000000
+      internalID: -4856161271099671294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0f2fde3e0932b0800000000000000
+      internalID: -5604432598090707559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbba7357bf00810800000000000000
+      internalID: 1729658737774017479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853a5546e05cd4a0800000000000000
+      internalID: -6567285206676785785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c049269a098e570800000000000000
+      internalID: 8496199754212183068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db211aeebd096f0800000000000000
+      internalID: -679801725781885620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7d1e8e44933b80800000000000000
+      internalID: -8416220213512668637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7c7665bb57db50800000000000000
+      internalID: 6617859012110876394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19b4c72703dc570800000000000000
+      internalID: 8488494140932985319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3afba0d2aa813060800000000000000
+      internalID: 6931473733390170687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de84d09273e8e1f0800000000000000
+      internalID: -1015311634776420651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Flip_Flops_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb5bb90b8951760800000000000000
+      internalID: 7428011044711546105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Flip_Flops_Spritesheet_4: -5124301174452499777
+      DW_F_Feet_Flip_Flops_Spritesheet_1: 8474973379815410456
+      DW_F_Feet_Flip_Flops_Spritesheet_8: 3346897078626789975
+      DW_F_Feet_Flip_Flops_Spritesheet_22: 1729658737774017479
+      DW_F_Feet_Flip_Flops_Spritesheet_28: 8488494140932985319
+      DW_F_Feet_Flip_Flops_Spritesheet_0: 7338779650007549291
+      DW_F_Feet_Flip_Flops_Spritesheet_31: 7428011044711546105
+      DW_F_Feet_Flip_Flops_Spritesheet_25: -679801725781885620
+      DW_F_Feet_Flip_Flops_Spritesheet_6: -4927114642025378229
+      DW_F_Feet_Flip_Flops_Spritesheet_17: 6158549929636592482
+      DW_F_Feet_Flip_Flops_Spritesheet_27: 6617859012110876394
+      DW_F_Feet_Flip_Flops_Spritesheet_30: -1015311634776420651
+      DW_F_Feet_Flip_Flops_Spritesheet_18: 3788300550592678698
+      DW_F_Feet_Flip_Flops_Spritesheet_9: 5669269366991823215
+      DW_F_Feet_Flip_Flops_Spritesheet_13: 5139771107941145495
+      DW_F_Feet_Flip_Flops_Spritesheet_24: 8496199754212183068
+      DW_F_Feet_Flip_Flops_Spritesheet_23: -6567285206676785785
+      DW_F_Feet_Flip_Flops_Spritesheet_21: -5604432598090707559
+      DW_F_Feet_Flip_Flops_Spritesheet_10: 3603402315510270459
+      DW_F_Feet_Flip_Flops_Spritesheet_14: 5719427809897837427
+      DW_F_Feet_Flip_Flops_Spritesheet_15: 2391275379030785874
+      DW_F_Feet_Flip_Flops_Spritesheet_26: -8416220213512668637
+      DW_F_Feet_Flip_Flops_Spritesheet_2: 6705024770357422419
+      DW_F_Feet_Flip_Flops_Spritesheet_19: 8319510680282566871
+      DW_F_Feet_Flip_Flops_Spritesheet_20: -4856161271099671294
+      DW_F_Feet_Flip_Flops_Spritesheet_3: 575358683782166186
+      DW_F_Feet_Flip_Flops_Spritesheet_11: 7466115243640140893
+      DW_F_Feet_Flip_Flops_Spritesheet_16: 3205977931453549446
+      DW_F_Feet_Flip_Flops_Spritesheet_7: 2329143139128512701
+      DW_F_Feet_Flip_Flops_Spritesheet_12: 5967986962916618903
+      DW_F_Feet_Flip_Flops_Spritesheet_5: -6102383431181505828
+      DW_F_Feet_Flip_Flops_Spritesheet_29: 6931473733390170687
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

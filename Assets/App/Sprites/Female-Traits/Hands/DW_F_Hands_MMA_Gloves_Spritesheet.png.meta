@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: f9b5b0a5a6c3ef24c9bb33bed567c3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1085953467557802295
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_0
+  - first:
+      213: -8277102180300536652
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_1
+  - first:
+      213: 1678332605573732278
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_2
+  - first:
+      213: -4304078044959370008
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_3
+  - first:
+      213: -4035665911887278615
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_4
+  - first:
+      213: 5960182172389258478
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_5
+  - first:
+      213: -1097409112824475683
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_6
+  - first:
+      213: -4091406198052716241
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_7
+  - first:
+      213: 4018653235416604351
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_8
+  - first:
+      213: 3033898600190592342
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_9
+  - first:
+      213: -125671347385740062
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_10
+  - first:
+      213: 4991640036471087345
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_11
+  - first:
+      213: -6846612005799575806
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_12
+  - first:
+      213: 4336736516493563551
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_13
+  - first:
+      213: -4693995652914234113
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_14
+  - first:
+      213: 9145377525711295700
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_15
+  - first:
+      213: -4253759042472271963
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_16
+  - first:
+      213: 3771868073165749916
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_17
+  - first:
+      213: 4052113182527109128
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_18
+  - first:
+      213: -8971568692834192966
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_19
+  - first:
+      213: -2685637963885812749
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_20
+  - first:
+      213: 1024475797434316378
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_21
+  - first:
+      213: -4099938642139424269
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_22
+  - first:
+      213: 7791773704489842829
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_23
+  - first:
+      213: 5719801595515107277
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_24
+  - first:
+      213: -711846612677256726
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_25
+  - first:
+      213: 6382215371074590668
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_26
+  - first:
+      213: 6117486886392645477
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_27
+  - first:
+      213: 425464395403031668
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_28
+  - first:
+      213: 729137984696507317
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_29
+  - first:
+      213: 7051267690544265086
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_30
+  - first:
+      213: 4065078488397613692
+    second: DW_F_Hands_MMA_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f264dce4121f00800000000000000
+      internalID: 1085953467557802295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44395cb63d12d80800000000000000
+      internalID: -8277102180300536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b79d22dc92aa4710800000000000000
+      internalID: 1678332605573732278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e493a472d7d444c0800000000000000
+      internalID: -4304078044959370008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4ec92c3f6ef7c0800000000000000
+      internalID: -4035665911887278615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b0ed7b12d6b250800000000000000
+      internalID: 5960182172389258478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf02d8e93835c0f0800000000000000
+      internalID: -1097409112824475683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218c357db76837c0800000000000000
+      internalID: -4091406198052716241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1b7c63df15c730800000000000000
+      internalID: 4018653235416604351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554aecd3b29a1a20800000000000000
+      internalID: 3033898600190592342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d0ac4396814ef0800000000000000
+      internalID: -125671347385740062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02a749a2ed54540800000000000000
+      internalID: 4991640036471087345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3467d7a2fbf0a0800000000000000
+      internalID: -6846612005799575806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96501e72ee2f2c30800000000000000
+      internalID: 4336736516493563551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb1d2d2d39bdeb0800000000000000
+      internalID: -4693995652914234113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4dcd4c768eaee70800000000000000
+      internalID: 9145377525711295700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af955130bc97f4c0800000000000000
+      internalID: -4253759042472271963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7ea0470e585430800000000000000
+      internalID: 3771868073165749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b432787ffb3830800000000000000
+      internalID: 4052113182527109128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13a99aec59e7380800000000000000
+      internalID: -8971568692834192966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3684f3082babad0800000000000000
+      internalID: -2685637963885812749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56be035f4ba73e00800000000000000
+      internalID: 1024475797434316378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d16207871a17c0800000000000000
+      internalID: -4099938642139424269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b852d6e0f12c60800000000000000
+      internalID: 7791773704489842829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f36e0f31d06f40800000000000000
+      internalID: 5719801595515107277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99eccf6430f16f0800000000000000
+      internalID: -711846612677256726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc750f8c01f229850800000000000000
+      internalID: 6382215371074590668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674b8d49eda5e450800000000000000
+      internalID: 6117486886392645477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f2980d9d87e500800000000000000
+      internalID: 425464395403031668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb541a422b6e1a00800000000000000
+      internalID: 729137984696507317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777417fa922bd160800000000000000
+      internalID: 7051267690544265086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_MMA_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8505f85f0a6830800000000000000
+      internalID: 4065078488397613692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_MMA_Gloves_Spritesheet_21: 1024475797434316378
+      DW_F_Hands_MMA_Gloves_Spritesheet_22: -4099938642139424269
+      DW_F_Hands_MMA_Gloves_Spritesheet_16: -4253759042472271963
+      DW_F_Hands_MMA_Gloves_Spritesheet_12: -6846612005799575806
+      DW_F_Hands_MMA_Gloves_Spritesheet_19: -8971568692834192966
+      DW_F_Hands_MMA_Gloves_Spritesheet_29: 729137984696507317
+      DW_F_Hands_MMA_Gloves_Spritesheet_26: 6382215371074590668
+      DW_F_Hands_MMA_Gloves_Spritesheet_31: 4065078488397613692
+      DW_F_Hands_MMA_Gloves_Spritesheet_9: 3033898600190592342
+      DW_F_Hands_MMA_Gloves_Spritesheet_6: -1097409112824475683
+      DW_F_Hands_MMA_Gloves_Spritesheet_14: -4693995652914234113
+      DW_F_Hands_MMA_Gloves_Spritesheet_30: 7051267690544265086
+      DW_F_Hands_MMA_Gloves_Spritesheet_2: 1678332605573732278
+      DW_F_Hands_MMA_Gloves_Spritesheet_5: 5960182172389258478
+      DW_F_Hands_MMA_Gloves_Spritesheet_24: 5719801595515107277
+      DW_F_Hands_MMA_Gloves_Spritesheet_23: 7791773704489842829
+      DW_F_Hands_MMA_Gloves_Spritesheet_15: 9145377525711295700
+      DW_F_Hands_MMA_Gloves_Spritesheet_7: -4091406198052716241
+      DW_F_Hands_MMA_Gloves_Spritesheet_3: -4304078044959370008
+      DW_F_Hands_MMA_Gloves_Spritesheet_17: 3771868073165749916
+      DW_F_Hands_MMA_Gloves_Spritesheet_18: 4052113182527109128
+      DW_F_Hands_MMA_Gloves_Spritesheet_28: 425464395403031668
+      DW_F_Hands_MMA_Gloves_Spritesheet_13: 4336736516493563551
+      DW_F_Hands_MMA_Gloves_Spritesheet_1: -8277102180300536652
+      DW_F_Hands_MMA_Gloves_Spritesheet_8: 4018653235416604351
+      DW_F_Hands_MMA_Gloves_Spritesheet_0: 1085953467557802295
+      DW_F_Hands_MMA_Gloves_Spritesheet_4: -4035665911887278615
+      DW_F_Hands_MMA_Gloves_Spritesheet_11: 4991640036471087345
+      DW_F_Hands_MMA_Gloves_Spritesheet_10: -125671347385740062
+      DW_F_Hands_MMA_Gloves_Spritesheet_25: -711846612677256726
+      DW_F_Hands_MMA_Gloves_Spritesheet_27: 6117486886392645477
+      DW_F_Hands_MMA_Gloves_Spritesheet_20: -2685637963885812749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

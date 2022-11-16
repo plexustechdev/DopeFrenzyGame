@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: b2aa0228470f6a5458bfac2ad0c6d330
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5663310649553609776
+    second: DW_F_Weapon_Police_Baton_Spritesheet_0
+  - first:
+      213: 5363567093751794606
+    second: DW_F_Weapon_Police_Baton_Spritesheet_1
+  - first:
+      213: 2420978682538957810
+    second: DW_F_Weapon_Police_Baton_Spritesheet_2
+  - first:
+      213: -6022567895869678522
+    second: DW_F_Weapon_Police_Baton_Spritesheet_3
+  - first:
+      213: -3704342751814812949
+    second: DW_F_Weapon_Police_Baton_Spritesheet_4
+  - first:
+      213: -2770966498993731547
+    second: DW_F_Weapon_Police_Baton_Spritesheet_5
+  - first:
+      213: -3691310403705081213
+    second: DW_F_Weapon_Police_Baton_Spritesheet_6
+  - first:
+      213: -5783984142948669020
+    second: DW_F_Weapon_Police_Baton_Spritesheet_7
+  - first:
+      213: 5308152924413999653
+    second: DW_F_Weapon_Police_Baton_Spritesheet_8
+  - first:
+      213: 254061173667308492
+    second: DW_F_Weapon_Police_Baton_Spritesheet_9
+  - first:
+      213: 5346974854343959934
+    second: DW_F_Weapon_Police_Baton_Spritesheet_10
+  - first:
+      213: 7631371342455207656
+    second: DW_F_Weapon_Police_Baton_Spritesheet_11
+  - first:
+      213: 5404610300718457704
+    second: DW_F_Weapon_Police_Baton_Spritesheet_12
+  - first:
+      213: 7815242557846242358
+    second: DW_F_Weapon_Police_Baton_Spritesheet_13
+  - first:
+      213: -119255122357177685
+    second: DW_F_Weapon_Police_Baton_Spritesheet_14
+  - first:
+      213: 2312245447307384888
+    second: DW_F_Weapon_Police_Baton_Spritesheet_15
+  - first:
+      213: -6899457866230411882
+    second: DW_F_Weapon_Police_Baton_Spritesheet_16
+  - first:
+      213: -7204424243646911921
+    second: DW_F_Weapon_Police_Baton_Spritesheet_17
+  - first:
+      213: 8127926892135214235
+    second: DW_F_Weapon_Police_Baton_Spritesheet_18
+  - first:
+      213: -6725248545788377018
+    second: DW_F_Weapon_Police_Baton_Spritesheet_19
+  - first:
+      213: -5451309136809751958
+    second: DW_F_Weapon_Police_Baton_Spritesheet_20
+  - first:
+      213: -5118553557281608121
+    second: DW_F_Weapon_Police_Baton_Spritesheet_21
+  - first:
+      213: 7040386409502431932
+    second: DW_F_Weapon_Police_Baton_Spritesheet_22
+  - first:
+      213: 7055219243370178847
+    second: DW_F_Weapon_Police_Baton_Spritesheet_23
+  - first:
+      213: 7481979064213935689
+    second: DW_F_Weapon_Police_Baton_Spritesheet_24
+  - first:
+      213: -6947453329690454536
+    second: DW_F_Weapon_Police_Baton_Spritesheet_25
+  - first:
+      213: 8274998814085477885
+    second: DW_F_Weapon_Police_Baton_Spritesheet_26
+  - first:
+      213: 4849149451097356350
+    second: DW_F_Weapon_Police_Baton_Spritesheet_27
+  - first:
+      213: 7834689208030051727
+    second: DW_F_Weapon_Police_Baton_Spritesheet_28
+  - first:
+      213: -1480500359940139469
+    second: DW_F_Weapon_Police_Baton_Spritesheet_29
+  - first:
+      213: -4588036653444236042
+    second: DW_F_Weapon_Police_Baton_Spritesheet_30
+  - first:
+      213: -1691846579080799865
+    second: DW_F_Weapon_Police_Baton_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034645fb70f189e40800000000000000
+      internalID: 5663310649553609776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabcc08bad73f6a40800000000000000
+      internalID: 5363567093751794606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb178de84b099120800000000000000
+      internalID: 2420978682538957810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c140b586a8b6ca0800000000000000
+      internalID: -6022567895869678522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf8c7c4e7879cc0800000000000000
+      internalID: -3704342751814812949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52888fe76ac8b89d0800000000000000
+      internalID: -2770966498993731547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827477ceb4d5ccc0800000000000000
+      internalID: -3691310403705081213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96d0d11192bbfa0800000000000000
+      internalID: -5783984142948669020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab52106f85aa940800000000000000
+      internalID: 5308152924413999653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a8a79a4b968300800000000000000
+      internalID: 254061173667308492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752e10fc45443a40800000000000000
+      internalID: 5346974854343959934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67320adc318e960800000000000000
+      internalID: 7631371342455207656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863adb30f68010b40800000000000000
+      internalID: 5404610300718457704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c0fd03b1557c60800000000000000
+      internalID: 7815242557846242358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2314a1912585ef0800000000000000
+      internalID: -119255122357177685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385548cbfeb61020800000000000000
+      internalID: 2312245447307384888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dcf8420a33040a0800000000000000
+      internalID: -6899457866230411882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa632325eb40c90800000000000000
+      internalID: -7204424243646911921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c601ed1723cc070800000000000000
+      internalID: 8127926892135214235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648421a541e1ba2a0800000000000000
+      internalID: -6725248545788377018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a0d9be83f0954b0800000000000000
+      internalID: -5451309136809751958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eea6ea8ae37f8b0800000000000000
+      internalID: -5118553557281608121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba51eb432a74b160800000000000000
+      internalID: 7040386409502431932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19649d858c29e160800000000000000
+      internalID: 7055219243370178847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9469163515455d760800000000000000
+      internalID: 7481979064213935689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5123e7100b59f90800000000000000
+      internalID: -6947453329690454536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f75e1493b6d270800000000000000
+      internalID: 8274998814085477885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38307fdbb3ab4340800000000000000
+      internalID: 4849149451097356350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db73223586abc60800000000000000
+      internalID: 7834689208030051727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361ee344c4347be0800000000000000
+      internalID: -1480500359940139469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcfbfed8f40450c0800000000000000
+      internalID: -4588036653444236042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Police_Baton_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789dd67008a5588e0800000000000000
+      internalID: -1691846579080799865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Police_Baton_Spritesheet_27: 4849149451097356350
+      DW_F_Weapon_Police_Baton_Spritesheet_6: -3691310403705081213
+      DW_F_Weapon_Police_Baton_Spritesheet_19: -6725248545788377018
+      DW_F_Weapon_Police_Baton_Spritesheet_28: 7834689208030051727
+      DW_F_Weapon_Police_Baton_Spritesheet_24: 7481979064213935689
+      DW_F_Weapon_Police_Baton_Spritesheet_10: 5346974854343959934
+      DW_F_Weapon_Police_Baton_Spritesheet_18: 8127926892135214235
+      DW_F_Weapon_Police_Baton_Spritesheet_3: -6022567895869678522
+      DW_F_Weapon_Police_Baton_Spritesheet_26: 8274998814085477885
+      DW_F_Weapon_Police_Baton_Spritesheet_25: -6947453329690454536
+      DW_F_Weapon_Police_Baton_Spritesheet_30: -4588036653444236042
+      DW_F_Weapon_Police_Baton_Spritesheet_31: -1691846579080799865
+      DW_F_Weapon_Police_Baton_Spritesheet_23: 7055219243370178847
+      DW_F_Weapon_Police_Baton_Spritesheet_1: 5363567093751794606
+      DW_F_Weapon_Police_Baton_Spritesheet_7: -5783984142948669020
+      DW_F_Weapon_Police_Baton_Spritesheet_17: -7204424243646911921
+      DW_F_Weapon_Police_Baton_Spritesheet_21: -5118553557281608121
+      DW_F_Weapon_Police_Baton_Spritesheet_22: 7040386409502431932
+      DW_F_Weapon_Police_Baton_Spritesheet_8: 5308152924413999653
+      DW_F_Weapon_Police_Baton_Spritesheet_16: -6899457866230411882
+      DW_F_Weapon_Police_Baton_Spritesheet_15: 2312245447307384888
+      DW_F_Weapon_Police_Baton_Spritesheet_29: -1480500359940139469
+      DW_F_Weapon_Police_Baton_Spritesheet_13: 7815242557846242358
+      DW_F_Weapon_Police_Baton_Spritesheet_9: 254061173667308492
+      DW_F_Weapon_Police_Baton_Spritesheet_12: 5404610300718457704
+      DW_F_Weapon_Police_Baton_Spritesheet_2: 2420978682538957810
+      DW_F_Weapon_Police_Baton_Spritesheet_5: -2770966498993731547
+      DW_F_Weapon_Police_Baton_Spritesheet_4: -3704342751814812949
+      DW_F_Weapon_Police_Baton_Spritesheet_11: 7631371342455207656
+      DW_F_Weapon_Police_Baton_Spritesheet_14: -119255122357177685
+      DW_F_Weapon_Police_Baton_Spritesheet_0: 5663310649553609776
+      DW_F_Weapon_Police_Baton_Spritesheet_20: -5451309136809751958
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

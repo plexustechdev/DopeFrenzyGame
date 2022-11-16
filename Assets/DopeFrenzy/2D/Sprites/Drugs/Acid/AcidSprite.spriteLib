@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 2081823275
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Drug_0
+      m_Hash: -1399151030
+      m_Sprite: {fileID: 456340047, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 456340047, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_1
+      m_Hash: -610429220
+      m_Sprite: {fileID: 1096731108, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1096731108, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_2
+      m_Hash: 1117046630
+      m_Sprite: {fileID: -1406187325, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1406187325, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_3
+      m_Hash: 898889712
+      m_Sprite: {fileID: 2127789080, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2127789080, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_4
+      m_Hash: -1409850797
+      m_Sprite: {fileID: -451446930, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -451446930, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_5
+      m_Hash: -588229947
+      m_Sprite: {fileID: -542436290, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -542436290, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_6
+      m_Hash: 1173947263
+      m_Sprite: {fileID: -1612133692, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1612133692, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    - m_Name: Drug_7
+      m_Hash: 855520233
+      m_Sprite: {fileID: 2074832051, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2074832051, guid: da67e17b02b77e040a8c7f6c7dbc15cc, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

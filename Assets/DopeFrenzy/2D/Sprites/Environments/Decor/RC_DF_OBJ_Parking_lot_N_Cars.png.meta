@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 596f5a7cb2b9dbd4ebecf0fce3d201a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 536
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d26ab615cce464897227efe9bcd388
+      internalID: -176269136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 536
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db187941cc74ec4fb4cbc888598d35d
+      internalID: 377205822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 629
+        width: 125
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a09070ecdb7f49b865c9828e5147a
+      internalID: 794595998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 629
+        width: 111
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ea54b520d78aa42829a1c4d11c09b5
+      internalID: 1096875792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 525
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b63272a1e806d4895dd03461f0eff3
+      internalID: -1994674610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 525
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943954cfb83c5845a6ecf58595bd985
+      internalID: -1293502014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 525
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c344328c08fab45893557657b32203
+      internalID: 1388466024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 525
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a60990a03647041a57b40a87a0a7cc
+      internalID: 739382959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 144
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87230adf9a66fd4fbde41d89291c555
+      internalID: -689694882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 422
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c02cfdb35c8e74ebafb3a907859da4
+      internalID: -709854330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 422
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601982247428c684ca4b4cc43aabaea9
+      internalID: -1348722266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 423
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7fa3c7dfb3b354bb3333e860742cf0
+      internalID: 316700892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 423
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bed7221634312429718b09dda04801
+      internalID: -1774136023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 422
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c98fb46d528e74aa598601a5c019fb
+      internalID: -1941202080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a7457d752b9042af004c87011d8e8
+      internalID: -561457099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53276ba55db2c459fb6acf563588d0
+      internalID: -1647366633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821126d8cc8ce24ebf282a67d3f7751
+      internalID: -774541012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 429
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6d0b1bd340074c9a3e2c0ca18d5d5
+      internalID: 95714153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 421
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb447f00b75d2b4cb89a55b10a22680
+      internalID: 1863289940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 296
+        width: 124
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247607d1b24b4b4eb62b1284848e914
+      internalID: -742923196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 339
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a80e2177ebcf4ebf7b8cd291aa9df
+      internalID: -287971251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 339
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675eb4d49131a65468a7e52b6d7a891e
+      internalID: 1344627407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 322
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9227f0c843534582441522cfcaa2b
+      internalID: 735634546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c3229334ab6a4c9eb1e2e7bee27b0
+      internalID: 753660321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 278
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf077d908b99ee419216696fc280054
+      internalID: 255647804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 226
+        width: 111
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03481d5a18f796d43b759855b1a8261e
+      internalID: 1550380205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82008664951c52498cb80cec119a316
+      internalID: -1355513022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 195
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1d89651e78c04cb96cb4a82c415c8
+      internalID: -856053594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f57de3a90bb9458901ea28b975d00
+      internalID: 769366062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321defc269e0f448aeca4cfd7ad44aa
+      internalID: 464514505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 121
+        width: 111
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9482740b2473ba4d80f58477f902940
+      internalID: -1012507265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_32
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 121
+        width: 111
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b627e1cfe42749be23569347efbbb
+      internalID: -633416404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 193
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0a760c59598846b8b075e27ab892a
+      internalID: 1814903206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 123
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e79112a95e76f40b6606dae5f1bda4
+      internalID: 2094486240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Parking_lot_N_Cars_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 48
+        width: 123
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0eeb052a404bd4f83fbecf441cf956
+      internalID: -1260060255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_OBJ_Parking_lot_N_Cars_30: 464514505
+      RC_DF_OBJ_Parking_lot_N_Cars_17: 95714153
+      RC_DF_OBJ_Parking_lot_N_Cars_1: 377205822
+      RC_DF_OBJ_Parking_lot_N_Cars_8: -689694882
+      RC_DF_OBJ_Parking_lot_N_Cars_15: -1647366633
+      RC_DF_OBJ_Parking_lot_N_Cars_0: -176269136
+      RC_DF_OBJ_Parking_lot_N_Cars_9: -709854330
+      RC_DF_OBJ_Parking_lot_N_Cars_33: 1814903206
+      RC_DF_OBJ_Parking_lot_N_Cars_11: 316700892
+      RC_DF_OBJ_Parking_lot_N_Cars_27: -1355513022
+      RC_DF_OBJ_Parking_lot_N_Cars_20: -287971251
+      RC_DF_OBJ_Parking_lot_N_Cars_34: 2094486240
+      RC_DF_OBJ_Parking_lot_N_Cars_35: -1260060255
+      RC_DF_OBJ_Parking_lot_N_Cars_13: -1941202080
+      RC_DF_OBJ_Parking_lot_N_Cars_10: -1348722266
+      RC_DF_OBJ_Parking_lot_N_Cars_23: -628659718
+      RC_DF_OBJ_Parking_lot_N_Cars_3: 1096875792
+      RC_DF_OBJ_Parking_lot_N_Cars_29: 769366062
+      RC_DF_OBJ_Parking_lot_N_Cars_7: 739382959
+      RC_DF_OBJ_Parking_lot_N_Cars_25: 255647804
+      RC_DF_OBJ_Parking_lot_N_Cars_21: 1344627407
+      RC_DF_OBJ_Parking_lot_N_Cars_22: 735634546
+      RC_DF_OBJ_Parking_lot_N_Cars_2: 794595998
+      RC_DF_OBJ_Parking_lot_N_Cars_5: -1293502014
+      RC_DF_OBJ_Parking_lot_N_Cars_26: 1550380205
+      RC_DF_OBJ_Parking_lot_N_Cars_32: -633416404
+      RC_DF_OBJ_Parking_lot_N_Cars_12: -1774136023
+      RC_DF_OBJ_Parking_lot_N_Cars_28: -856053594
+      RC_DF_OBJ_Parking_lot_N_Cars_18: 1863289940
+      RC_DF_OBJ_Parking_lot_N_Cars_31: -1012507265
+      RC_DF_OBJ_Parking_lot_N_Cars_16: -774541012
+      RC_DF_OBJ_Parking_lot_N_Cars_14: -561457099
+      RC_DF_OBJ_Parking_lot_N_Cars_4: -1994674610
+      RC_DF_OBJ_Parking_lot_N_Cars_19: -742923196
+      RC_DF_OBJ_Parking_lot_N_Cars_6: 1388466024
+      RC_DF_OBJ_Parking_lot_N_Cars_24: 753660321
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

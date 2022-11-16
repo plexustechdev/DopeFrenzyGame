@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: e266d9118a196304595e231006dfc52d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -770098148319636212
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_0
+  - first:
+      213: -4645856250312665676
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_1
+  - first:
+      213: -1029253348016415181
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_2
+  - first:
+      213: 8285790172921412082
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_3
+  - first:
+      213: -6847344532105896554
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_4
+  - first:
+      213: 7411237242009449614
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_5
+  - first:
+      213: -8123482093346618354
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_6
+  - first:
+      213: -6435770946307451850
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_7
+  - first:
+      213: -7643311786289016478
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_8
+  - first:
+      213: 3911902761275649104
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_9
+  - first:
+      213: -6351528496135433372
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_10
+  - first:
+      213: -5757198801655920435
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_11
+  - first:
+      213: 3170489461546772511
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_12
+  - first:
+      213: 6598098657843208693
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_13
+  - first:
+      213: -3572958283432698630
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_14
+  - first:
+      213: -3643902340258092268
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_15
+  - first:
+      213: 2316251623261767217
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_16
+  - first:
+      213: -463296028942856030
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_17
+  - first:
+      213: -3848665443571108732
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_18
+  - first:
+      213: -2603374856014600254
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_19
+  - first:
+      213: -8019228360374687552
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_20
+  - first:
+      213: 8730712228773183047
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_21
+  - first:
+      213: 2872039353983693325
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_22
+  - first:
+      213: -7275028147067956101
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_23
+  - first:
+      213: 6990151420077795945
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_24
+  - first:
+      213: -1274116954249655156
+    second: DW_F_Weapon_Pepper_Spray_Spritesheet_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d83370df0055f0800000000000000
+      internalID: -770098148319636212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d59aea5a968fb0800000000000000
+      internalID: -4645856250312665676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e999f788b57b1f0800000000000000
+      internalID: -1029253348016415181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93764234a0df270800000000000000
+      internalID: 8285790172921412082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d5d154d6859f0a0800000000000000
+      internalID: -6847344532105896554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e847e1451010ad660800000000000000
+      internalID: 7411237242009449614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0404de7318934f80800000000000000
+      internalID: -8123482093346618354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63490992c6c8fa6a0800000000000000
+      internalID: -6435770946307451850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261dfa62d608de590800000000000000
+      internalID: -7643311786289016478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c64b1d5ded94630800000000000000
+      internalID: 3911902761275649104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463931f0c76dad7a0800000000000000
+      internalID: -6351528496135433372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88efd51325a10b0800000000000000
+      internalID: -5757198801655920435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186d970e57dffb20800000000000000
+      internalID: 3170489461546772511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e9b565c7219b50800000000000000
+      internalID: 6598098657843208693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc54be1f5d4a6ec0800000000000000
+      internalID: -3572958283432698630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba3b4b0224e6dc0800000000000000
+      internalID: -3643902340258092268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13680fe449af42020800000000000000
+      internalID: 2316251623261767217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0130167ba0299f0800000000000000
+      internalID: -463296028942856030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847f909b2bc69ac0800000000000000
+      internalID: -3848665443571108732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e01a9c54fedbd0800000000000000
+      internalID: -2603374856014600254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e02f3b4af5b090800000000000000
+      internalID: -8019228360374687552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3f28c388b92970800000000000000
+      internalID: 8730712228773183047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f32363988bd720800000000000000
+      internalID: 2872039353983693325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74db0be178e90b90800000000000000
+      internalID: -7275028147067956101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aedef5ea1020160800000000000000
+      internalID: 6990151420077795945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pepper_Spray_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c85a3716d615ee0800000000000000
+      internalID: -1274116954249655156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Pepper_Spray_Spritesheet_19: -2603374856014600254
+      DW_F_Weapon_Pepper_Spray_Spritesheet_11: -5757198801655920435
+      DW_F_Weapon_Pepper_Spray_Spritesheet_8: -7643311786289016478
+      DW_F_Weapon_Pepper_Spray_Spritesheet_13: 6598098657843208693
+      DW_F_Weapon_Pepper_Spray_Spritesheet_6: -8123482093346618354
+      DW_F_Weapon_Pepper_Spray_Spritesheet_9: 3911902761275649104
+      DW_F_Weapon_Pepper_Spray_Spritesheet_22: 2872039353983693325
+      DW_F_Weapon_Pepper_Spray_Spritesheet_25: -1274116954249655156
+      DW_F_Weapon_Pepper_Spray_Spritesheet_2: -1029253348016415181
+      DW_F_Weapon_Pepper_Spray_Spritesheet_1: -4645856250312665676
+      DW_F_Weapon_Pepper_Spray_Spritesheet_21: 8730712228773183047
+      DW_F_Weapon_Pepper_Spray_Spritesheet_16: 2316251623261767217
+      DW_F_Weapon_Pepper_Spray_Spritesheet_15: -3643902340258092268
+      DW_F_Weapon_Pepper_Spray_Spritesheet_23: -7275028147067956101
+      DW_F_Weapon_Pepper_Spray_Spritesheet_10: -6351528496135433372
+      DW_F_Weapon_Pepper_Spray_Spritesheet_5: 7411237242009449614
+      DW_F_Weapon_Pepper_Spray_Spritesheet_14: -3572958283432698630
+      DW_F_Weapon_Pepper_Spray_Spritesheet_12: 3170489461546772511
+      DW_F_Weapon_Pepper_Spray_Spritesheet_20: -8019228360374687552
+      DW_F_Weapon_Pepper_Spray_Spritesheet_4: -6847344532105896554
+      DW_F_Weapon_Pepper_Spray_Spritesheet_17: -463296028942856030
+      DW_F_Weapon_Pepper_Spray_Spritesheet_3: 8285790172921412082
+      DW_F_Weapon_Pepper_Spray_Spritesheet_7: -6435770946307451850
+      DW_F_Weapon_Pepper_Spray_Spritesheet_24: 6990151420077795945
+      DW_F_Weapon_Pepper_Spray_Spritesheet_0: -770098148319636212
+      DW_F_Weapon_Pepper_Spray_Spritesheet_18: -3848665443571108732
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

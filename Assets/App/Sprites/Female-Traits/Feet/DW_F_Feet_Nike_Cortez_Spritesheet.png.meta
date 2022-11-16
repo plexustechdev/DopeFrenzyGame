@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 78e841dfe691ea14f88370855b623a0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431592972892899541
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_0
+  - first:
+      213: 5500372458048387206
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_1
+  - first:
+      213: 2035437509181655256
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_2
+  - first:
+      213: -4171501501668930439
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_3
+  - first:
+      213: 6467947636221370392
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_4
+  - first:
+      213: -4015003792643433425
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_5
+  - first:
+      213: 5425546704995789175
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_6
+  - first:
+      213: 2449707202804974550
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_7
+  - first:
+      213: 1732690769831643294
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_8
+  - first:
+      213: 2015593301556376075
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_9
+  - first:
+      213: 6784885503498673096
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_10
+  - first:
+      213: 6789676085216431479
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_11
+  - first:
+      213: 3609982667590317293
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_12
+  - first:
+      213: -2249933541393184592
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_13
+  - first:
+      213: -1208349012542531976
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_14
+  - first:
+      213: -1967020066207004705
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_15
+  - first:
+      213: 3004240786667857986
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_16
+  - first:
+      213: 2901757993987679738
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_17
+  - first:
+      213: -3761933247707049323
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_18
+  - first:
+      213: 723702143818340293
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_19
+  - first:
+      213: -6540592119408587622
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_20
+  - first:
+      213: 4758363002343362868
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_21
+  - first:
+      213: 5645334585638323066
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_22
+  - first:
+      213: 1217365472099865422
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_23
+  - first:
+      213: 4416685355838691753
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_24
+  - first:
+      213: -444120458904976464
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_25
+  - first:
+      213: 4963821726862473386
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_26
+  - first:
+      213: -8077345392690128998
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_27
+  - first:
+      213: 5493518960704937854
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_28
+  - first:
+      213: 699682108858152786
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_29
+  - first:
+      213: -6657169440690395275
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_30
+  - first:
+      213: 4965510900716544540
+    second: DW_F_Feet_Nike_Cortez_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80203a0a77f9f20800000000000000
+      internalID: 3431592972892899541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f05ebb9f355c40800000000000000
+      internalID: 5500372458048387206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8474161a35f3c10800000000000000
+      internalID: 2035437509181655256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc30d5c79db16c0800000000000000
+      internalID: -4171501501668930439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106dc24b14c2c950800000000000000
+      internalID: 6467947636221370392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c54afa257d748c0800000000000000
+      internalID: -4015003792643433425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a09f7bf96b4b40800000000000000
+      internalID: 5425546704995789175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d308eac8bb1ff120800000000000000
+      internalID: 2449707202804974550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c9613311cb0810800000000000000
+      internalID: 1732690769831643294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bceebd63d8fb10800000000000000
+      internalID: 2015593301556376075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb5cb5ea61c82e50800000000000000
+      internalID: 6784885503498673096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4a4f1d66c93e50800000000000000
+      internalID: 6789676085216431479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b9031c1c391230800000000000000
+      internalID: 3609982667590317293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c5016d51a6c0e0800000000000000
+      internalID: -2249933541393184592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87655b6a9f41b3fe0800000000000000
+      internalID: -1208349012542531976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78aa7ebadb3b4e0800000000000000
+      internalID: -1967020066207004705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e31d041531b920800000000000000
+      internalID: 3004240786667857986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af529c7758d154820800000000000000
+      internalID: 2901757993987679738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59290bd84adeacbc0800000000000000
+      internalID: -3761933247707049323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71b75f34b1b0a00800000000000000
+      internalID: 723702143818340293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8ee5fe162b35a0800000000000000
+      internalID: -6540592119408587622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431990390f9190240800000000000000
+      internalID: 4758363002343362868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73033735e1485e40800000000000000
+      internalID: 5645334585638323066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43965e6273f4e010800000000000000
+      internalID: 1217365472099865422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95f673ee73b4d30800000000000000
+      internalID: 4416685355838691753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34c71bbca26d9f0800000000000000
+      internalID: -444120458904976464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f006af8903e440800000000000000
+      internalID: 4963821726862473386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971194392187ef80800000000000000
+      internalID: -8077345392690128998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd0bb8366ec3c40800000000000000
+      internalID: 5493518960704937854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257bf22cb25c5b900800000000000000
+      internalID: 699682108858152786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57720163aabfc93a0800000000000000
+      internalID: -6657169440690395275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Nike_Cortez_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122a851bd909e440800000000000000
+      internalID: 4965510900716544540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Nike_Cortez_Spritesheet_28: 5493518960704937854
+      DW_F_Feet_Nike_Cortez_Spritesheet_10: 6784885503498673096
+      DW_F_Feet_Nike_Cortez_Spritesheet_18: -3761933247707049323
+      DW_F_Feet_Nike_Cortez_Spritesheet_19: 723702143818340293
+      DW_F_Feet_Nike_Cortez_Spritesheet_3: -4171501501668930439
+      DW_F_Feet_Nike_Cortez_Spritesheet_4: 6467947636221370392
+      DW_F_Feet_Nike_Cortez_Spritesheet_29: 699682108858152786
+      DW_F_Feet_Nike_Cortez_Spritesheet_11: 6789676085216431479
+      DW_F_Feet_Nike_Cortez_Spritesheet_1: 5500372458048387206
+      DW_F_Feet_Nike_Cortez_Spritesheet_24: 4416685355838691753
+      DW_F_Feet_Nike_Cortez_Spritesheet_17: 2901757993987679738
+      DW_F_Feet_Nike_Cortez_Spritesheet_22: 5645334585638323066
+      DW_F_Feet_Nike_Cortez_Spritesheet_12: 3609982667590317293
+      DW_F_Feet_Nike_Cortez_Spritesheet_30: -6657169440690395275
+      DW_F_Feet_Nike_Cortez_Spritesheet_21: 4758363002343362868
+      DW_F_Feet_Nike_Cortez_Spritesheet_20: -6540592119408587622
+      DW_F_Feet_Nike_Cortez_Spritesheet_8: 1732690769831643294
+      DW_F_Feet_Nike_Cortez_Spritesheet_16: 3004240786667857986
+      DW_F_Feet_Nike_Cortez_Spritesheet_25: -444120458904976464
+      DW_F_Feet_Nike_Cortez_Spritesheet_13: -2249933541393184592
+      DW_F_Feet_Nike_Cortez_Spritesheet_23: 1217365472099865422
+      DW_F_Feet_Nike_Cortez_Spritesheet_7: 2449707202804974550
+      DW_F_Feet_Nike_Cortez_Spritesheet_9: 2015593301556376075
+      DW_F_Feet_Nike_Cortez_Spritesheet_31: 4965510900716544540
+      DW_F_Feet_Nike_Cortez_Spritesheet_15: -1967020066207004705
+      DW_F_Feet_Nike_Cortez_Spritesheet_27: -8077345392690128998
+      DW_F_Feet_Nike_Cortez_Spritesheet_6: 5425546704995789175
+      DW_F_Feet_Nike_Cortez_Spritesheet_5: -4015003792643433425
+      DW_F_Feet_Nike_Cortez_Spritesheet_14: -1208349012542531976
+      DW_F_Feet_Nike_Cortez_Spritesheet_26: 4963821726862473386
+      DW_F_Feet_Nike_Cortez_Spritesheet_0: 3431592972892899541
+      DW_F_Feet_Nike_Cortez_Spritesheet_2: 2035437509181655256
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

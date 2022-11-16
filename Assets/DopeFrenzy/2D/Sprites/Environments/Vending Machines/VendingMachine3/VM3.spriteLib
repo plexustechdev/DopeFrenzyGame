@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Damaged
+    m_Hash: 326473335
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: VendingMachine_0
+      m_Hash: 2096954808
+      m_Sprite: {fileID: 1554511393, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1554511393, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_1
+      m_Hash: 201051438
+      m_Sprite: {fileID: -1801915340, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1801915340, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_2
+      m_Hash: -1829593964
+      m_Sprite: {fileID: 1254969563, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1254969563, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_3
+      m_Hash: -436884478
+      m_Sprite: {fileID: -1902771354, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1902771354, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_4
+      m_Hash: 2073115041
+      m_Sprite: {fileID: 1673523562, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1673523562, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_5
+      m_Hash: 211159351
+      m_Sprite: {fileID: -906033772, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -906033772, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_6
+      m_Hash: -1784719219
+      m_Sprite: {fileID: -1131062557, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1131062557, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_7
+      m_Hash: -493328357
+      m_Sprite: {fileID: 870655409, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 870655409, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_8
+      m_Hash: 1915188618
+      m_Sprite: {fileID: -572995784, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -572995784, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_9
+      m_Hash: 86000924
+      m_Sprite: {fileID: -883989596, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -883989596, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_10
+      m_Hash: 671492387
+      m_Sprite: {fileID: -1263779109, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1263779109, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_11
+      m_Hash: 1593907637
+      m_Sprite: {fileID: -1787399051, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1787399051, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_12
+      m_Hash: -972535793
+      m_Sprite: {fileID: -1657287762, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1657287762, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_13
+      m_Hash: -1324386151
+      m_Sprite: {fileID: -1154537211, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1154537211, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_14
+      m_Hash: 795602234
+      m_Sprite: {fileID: -478362323, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -478362323, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_15
+      m_Hash: 1483529644
+      m_Sprite: {fileID: -1904490222, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1904490222, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_16
+      m_Hash: -1050309610
+      m_Sprite: {fileID: 1302448886, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1302448886, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_17
+      m_Hash: -1235043200
+      m_Sprite: {fileID: 1691997378, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1691997378, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_18
+      m_Hash: 652058897
+      m_Sprite: {fileID: -1741281911, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1741281911, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 19
+  - m_Name: Destroyed
+    m_Hash: 1500336285
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: VendingMachine_19
+      m_Hash: 1373278599
+      m_Sprite: {fileID: -225292667, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -225292667, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_20
+      m_Hash: 53181152
+      m_Sprite: {fileID: 2007350024, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2007350024, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_21
+      m_Hash: 1949059702
+      m_Sprite: {fileID: -951962634, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -951962634, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_22
+      m_Hash: -316335156
+      m_Sprite: {fileID: 1250546994, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1250546994, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_23
+      m_Hash: -1709036710
+      m_Sprite: {fileID: -103509554, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -103509554, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_24
+      m_Hash: 71745273
+      m_Sprite: {fileID: 268269223, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 268269223, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_25
+      m_Hash: 1933676143
+      m_Sprite: {fileID: 348857767, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 348857767, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_26
+      m_Hash: -364322859
+      m_Sprite: {fileID: -651415108, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -651415108, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_27
+      m_Hash: -1655705789
+      m_Sprite: {fileID: 1341522681, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1341522681, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_28
+      m_Hash: 233894610
+      m_Sprite: {fileID: 1162212491, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1162212491, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_29
+      m_Hash: 2063057476
+      m_Sprite: {fileID: -67581627, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -67581627, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_30
+      m_Hash: 439372705
+      m_Sprite: {fileID: -1371762328, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1371762328, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    - m_Name: VendingMachine_31
+      m_Hash: 1832352567
+      m_Sprite: {fileID: -1216298789, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1216298789, guid: 60f60fb00fe5dd34b9d38bb9494a7ac4, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 13
+  m_PrimaryLibraryGUID: 

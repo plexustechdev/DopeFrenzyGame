@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: c5352b57f864b8d44b2a70370982b2b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8557492848385293994
+    second: DW_F_Hands_Black_Gloves_Spritesheet_0
+  - first:
+      213: 7089031461752475236
+    second: DW_F_Hands_Black_Gloves_Spritesheet_1
+  - first:
+      213: -9108295896485722535
+    second: DW_F_Hands_Black_Gloves_Spritesheet_2
+  - first:
+      213: 6079212270711563451
+    second: DW_F_Hands_Black_Gloves_Spritesheet_3
+  - first:
+      213: 3240991239838918461
+    second: DW_F_Hands_Black_Gloves_Spritesheet_4
+  - first:
+      213: 3084502572212288006
+    second: DW_F_Hands_Black_Gloves_Spritesheet_5
+  - first:
+      213: -1619244490496806724
+    second: DW_F_Hands_Black_Gloves_Spritesheet_6
+  - first:
+      213: 453354703652874501
+    second: DW_F_Hands_Black_Gloves_Spritesheet_7
+  - first:
+      213: 1639571565156394325
+    second: DW_F_Hands_Black_Gloves_Spritesheet_8
+  - first:
+      213: 8222741190164215808
+    second: DW_F_Hands_Black_Gloves_Spritesheet_9
+  - first:
+      213: -6316372689451663978
+    second: DW_F_Hands_Black_Gloves_Spritesheet_10
+  - first:
+      213: 1152914970726359756
+    second: DW_F_Hands_Black_Gloves_Spritesheet_11
+  - first:
+      213: 7476693278357096070
+    second: DW_F_Hands_Black_Gloves_Spritesheet_12
+  - first:
+      213: 1433107713926375849
+    second: DW_F_Hands_Black_Gloves_Spritesheet_13
+  - first:
+      213: 8548999667573275378
+    second: DW_F_Hands_Black_Gloves_Spritesheet_14
+  - first:
+      213: 8353810170701981864
+    second: DW_F_Hands_Black_Gloves_Spritesheet_15
+  - first:
+      213: 6634535984009337962
+    second: DW_F_Hands_Black_Gloves_Spritesheet_16
+  - first:
+      213: -4891166651267408198
+    second: DW_F_Hands_Black_Gloves_Spritesheet_17
+  - first:
+      213: -8887630764295902047
+    second: DW_F_Hands_Black_Gloves_Spritesheet_18
+  - first:
+      213: 3790026169355089245
+    second: DW_F_Hands_Black_Gloves_Spritesheet_19
+  - first:
+      213: 6871171894295355627
+    second: DW_F_Hands_Black_Gloves_Spritesheet_20
+  - first:
+      213: -4297330417615893178
+    second: DW_F_Hands_Black_Gloves_Spritesheet_21
+  - first:
+      213: -6433200492010202820
+    second: DW_F_Hands_Black_Gloves_Spritesheet_22
+  - first:
+      213: 5102075986132517918
+    second: DW_F_Hands_Black_Gloves_Spritesheet_23
+  - first:
+      213: -5905162115997019929
+    second: DW_F_Hands_Black_Gloves_Spritesheet_24
+  - first:
+      213: -3138943356705229215
+    second: DW_F_Hands_Black_Gloves_Spritesheet_25
+  - first:
+      213: -2073285811825462056
+    second: DW_F_Hands_Black_Gloves_Spritesheet_26
+  - first:
+      213: -4627085650860701222
+    second: DW_F_Hands_Black_Gloves_Spritesheet_27
+  - first:
+      213: -6583103076520347975
+    second: DW_F_Hands_Black_Gloves_Spritesheet_28
+  - first:
+      213: 8995797962740700967
+    second: DW_F_Hands_Black_Gloves_Spritesheet_29
+  - first:
+      213: -6367012922211921491
+    second: DW_F_Hands_Black_Gloves_Spritesheet_30
+  - first:
+      213: -7662065090958963403
+    second: DW_F_Hands_Black_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae73f3f76252c670800000000000000
+      internalID: 8557492848385293994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e035f1e8c416260800000000000000
+      internalID: 7089031461752475236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95602d4d325d89180800000000000000
+      internalID: -9108295896485722535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb465f5e953bd5450800000000000000
+      internalID: 6079212270711563451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3760c27c505afc20800000000000000
+      internalID: 3240991239838918461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afd7d3fba5eca20800000000000000
+      internalID: 3084502572212288006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0fd6b07b94789e0800000000000000
+      internalID: -1619244490496806724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096b7473b3aa4600800000000000000
+      internalID: 453354703652874501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556af4d6ade0c610800000000000000
+      internalID: 1639571565156394325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f5b7eb8b0d1270800000000000000
+      internalID: 8222741190164215808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3148218cb758a0800000000000000
+      internalID: -6316372689451663978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ef56be0affff00800000000000000
+      internalID: 1152914970726359756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68686076cec82c760800000000000000
+      internalID: 7476693278357096070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a924757fdb63e310800000000000000
+      internalID: 1433107713926375849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa33a237e524a670800000000000000
+      internalID: 8548999667573275378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8acb10712bee370800000000000000
+      internalID: 8353810170701981864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5c60835b921c50800000000000000
+      internalID: 6634535984009337962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe18fd58d51f1cb0800000000000000
+      internalID: -4891166651267408198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2f4798eac8a480800000000000000
+      internalID: -8887630764295902047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5538d978b0e89430800000000000000
+      internalID: 3790026169355089245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06f1ece6e4b5f50800000000000000
+      internalID: 6871171894295355627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d068fd0c0dc54c0800000000000000
+      internalID: -4297330417615893178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391dd0bc3ea8b6a0800000000000000
+      internalID: -6433200492010202820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ca72d3173ec640800000000000000
+      internalID: 5102075986132517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e057e6a756ac0ea0800000000000000
+      internalID: -5905162115997019929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166338dd5ab3074d0800000000000000
+      internalID: -3138943356705229215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d43944f9853a33e0800000000000000
+      internalID: -2073285811825462056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9042bad1a49cfb0800000000000000
+      internalID: -4627085650860701222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6393471ae14a4a0800000000000000
+      internalID: -6583103076520347975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7279758d59e77dc70800000000000000
+      internalID: 8995797962740700967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19c3b2b73d3a7a0800000000000000
+      internalID: -6367012922211921491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Black_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d48772560eaa590800000000000000
+      internalID: -7662065090958963403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_Black_Gloves_Spritesheet_24: -5905162115997019929
+      DW_F_Hands_Black_Gloves_Spritesheet_17: -4891166651267408198
+      DW_F_Hands_Black_Gloves_Spritesheet_30: -6367012922211921491
+      DW_F_Hands_Black_Gloves_Spritesheet_11: 1152914970726359756
+      DW_F_Hands_Black_Gloves_Spritesheet_20: 6871171894295355627
+      DW_F_Hands_Black_Gloves_Spritesheet_29: 8995797962740700967
+      DW_F_Hands_Black_Gloves_Spritesheet_28: -6583103076520347975
+      DW_F_Hands_Black_Gloves_Spritesheet_14: 8548999667573275378
+      DW_F_Hands_Black_Gloves_Spritesheet_18: -8887630764295902047
+      DW_F_Hands_Black_Gloves_Spritesheet_1: 7089031461752475236
+      DW_F_Hands_Black_Gloves_Spritesheet_10: -6316372689451663978
+      DW_F_Hands_Black_Gloves_Spritesheet_22: -6433200492010202820
+      DW_F_Hands_Black_Gloves_Spritesheet_12: 7476693278357096070
+      DW_F_Hands_Black_Gloves_Spritesheet_5: 3084502572212288006
+      DW_F_Hands_Black_Gloves_Spritesheet_19: 3790026169355089245
+      DW_F_Hands_Black_Gloves_Spritesheet_8: 1639571565156394325
+      DW_F_Hands_Black_Gloves_Spritesheet_16: 6634535984009337962
+      DW_F_Hands_Black_Gloves_Spritesheet_26: -2073285811825462056
+      DW_F_Hands_Black_Gloves_Spritesheet_7: 453354703652874501
+      DW_F_Hands_Black_Gloves_Spritesheet_6: -1619244490496806724
+      DW_F_Hands_Black_Gloves_Spritesheet_23: 5102075986132517918
+      DW_F_Hands_Black_Gloves_Spritesheet_25: -3138943356705229215
+      DW_F_Hands_Black_Gloves_Spritesheet_27: -4627085650860701222
+      DW_F_Hands_Black_Gloves_Spritesheet_3: 6079212270711563451
+      DW_F_Hands_Black_Gloves_Spritesheet_0: 8557492848385293994
+      DW_F_Hands_Black_Gloves_Spritesheet_31: -7662065090958963403
+      DW_F_Hands_Black_Gloves_Spritesheet_2: -9108295896485722535
+      DW_F_Hands_Black_Gloves_Spritesheet_13: 1433107713926375849
+      DW_F_Hands_Black_Gloves_Spritesheet_4: 3240991239838918461
+      DW_F_Hands_Black_Gloves_Spritesheet_15: 8353810170701981864
+      DW_F_Hands_Black_Gloves_Spritesheet_21: -4297330417615893178
+      DW_F_Hands_Black_Gloves_Spritesheet_9: 8222741190164215808
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

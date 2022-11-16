@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: cc609ebfb0eaa174ca297cb179a063be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5061283018769602245
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_0
+  - first:
+      213: 6234287081769941905
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_1
+  - first:
+      213: -7287338854008997817
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_2
+  - first:
+      213: -6309174576605931429
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_3
+  - first:
+      213: -3459725741235922508
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_4
+  - first:
+      213: 3294441870100033759
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_5
+  - first:
+      213: -7063069479165276255
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_6
+  - first:
+      213: 5277412281041698370
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_7
+  - first:
+      213: 859723122269931170
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_8
+  - first:
+      213: -341211966035591350
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_9
+  - first:
+      213: 1653344776091732963
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_10
+  - first:
+      213: 6813791590343628566
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_11
+  - first:
+      213: 9153613766741692709
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_12
+  - first:
+      213: 4330174381432404389
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_13
+  - first:
+      213: 4892588739763978369
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_14
+  - first:
+      213: 3869653458997813976
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_15
+  - first:
+      213: 5338992466704555510
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_16
+  - first:
+      213: -6537854854488802682
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_17
+  - first:
+      213: 1120532690018347320
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_18
+  - first:
+      213: 4306421213789014297
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_19
+  - first:
+      213: -1673384664158628956
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_20
+  - first:
+      213: -8609052394636473553
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_21
+  - first:
+      213: 4055175499935228395
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_22
+  - first:
+      213: 675833550830760148
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_23
+  - first:
+      213: 4096758162193296138
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_24
+  - first:
+      213: 3079097318515156658
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_25
+  - first:
+      213: 9157495119016637943
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_26
+  - first:
+      213: -8367951558319763428
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_27
+  - first:
+      213: -6642948468547291778
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_28
+  - first:
+      213: -5208065473458637285
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_29
+  - first:
+      213: 4381539176055715383
+    second: DW_F_Clothes_Black_Tanktop_Spritesheet_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69a79f61a4d3640800000000000000
+      internalID: 5061283018769602245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b34b8f113a48650800000000000000
+      internalID: 6234287081769941905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74834e81ceb2eda90800000000000000
+      internalID: -7287338854008997817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585a77662f4178a0800000000000000
+      internalID: -6309174576605931429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99b5dc4c59cffc0800000000000000
+      internalID: -3459725741235922508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07c781d6538bd20800000000000000
+      internalID: 3294441870100033759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af437efabfeafd90800000000000000
+      internalID: -7063069479165276255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e36c832822d3940800000000000000
+      internalID: 5277412281041698370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c61cef995eeb00800000000000000
+      internalID: 859723122269931170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff5535685c34bf0800000000000000
+      internalID: -341211966035591350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0236605cd1f610800000000000000
+      internalID: 1653344776091732963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d9f3b9537f8e50800000000000000
+      internalID: 6813791590343628566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52193c1193b280f70800000000000000
+      internalID: 9153613766741692709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a976cc58aed71c30800000000000000
+      internalID: 4330174381432404389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18045b96987f5e340800000000000000
+      internalID: 4892588739763978369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d22d639155c3b530800000000000000
+      internalID: 3869653458997813976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd596c7c59e71a40800000000000000
+      internalID: 5338992466704555510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab12d16afd445a0800000000000000
+      internalID: -6537854854488802682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839a1c37b8eec8f00800000000000000
+      internalID: 1120532690018347320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c91d074b73cb30800000000000000
+      internalID: 4306421213789014297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31d309381f6c8e0800000000000000
+      internalID: -1673384664158628956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b87f4b570868880800000000000000
+      internalID: -8609052394636473553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a187c1a0e64830800000000000000
+      internalID: 4055175499935228395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0fe84a80b016900800000000000000
+      internalID: 675833550830760148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba63cc7db9ad830800000000000000
+      internalID: 4096758162193296138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b624fa82b62bba20800000000000000
+      internalID: 3079097318515156658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f53c51da45f51f70800000000000000
+      internalID: 9157495119016637943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109cac94601fdb80800000000000000
+      internalID: -8367951558319763428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75730f40918fc3a0800000000000000
+      internalID: -6642948468547291778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16758f9b0c39b7b0800000000000000
+      internalID: -5208065473458637285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Black_Tanktop_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736324e8aaa5ecc30800000000000000
+      internalID: 4381539176055715383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_Black_Tanktop_Spritesheet_27: -8367951558319763428
+      DW_F_Clothes_Black_Tanktop_Spritesheet_1: 6234287081769941905
+      DW_F_Clothes_Black_Tanktop_Spritesheet_12: 9153613766741692709
+      DW_F_Clothes_Black_Tanktop_Spritesheet_23: 675833550830760148
+      DW_F_Clothes_Black_Tanktop_Spritesheet_17: -6537854854488802682
+      DW_F_Clothes_Black_Tanktop_Spritesheet_3: -6309174576605931429
+      DW_F_Clothes_Black_Tanktop_Spritesheet_22: 4055175499935228395
+      DW_F_Clothes_Black_Tanktop_Spritesheet_24: 4096758162193296138
+      DW_F_Clothes_Black_Tanktop_Spritesheet_10: 1653344776091732963
+      DW_F_Clothes_Black_Tanktop_Spritesheet_14: 4892588739763978369
+      DW_F_Clothes_Black_Tanktop_Spritesheet_28: -6642948468547291778
+      DW_F_Clothes_Black_Tanktop_Spritesheet_30: 4381539176055715383
+      DW_F_Clothes_Black_Tanktop_Spritesheet_26: 9157495119016637943
+      DW_F_Clothes_Black_Tanktop_Spritesheet_21: -8609052394636473553
+      DW_F_Clothes_Black_Tanktop_Spritesheet_13: 4330174381432404389
+      DW_F_Clothes_Black_Tanktop_Spritesheet_8: 859723122269931170
+      DW_F_Clothes_Black_Tanktop_Spritesheet_4: -3459725741235922508
+      DW_F_Clothes_Black_Tanktop_Spritesheet_0: 5061283018769602245
+      DW_F_Clothes_Black_Tanktop_Spritesheet_5: 3294441870100033759
+      DW_F_Clothes_Black_Tanktop_Spritesheet_2: -7287338854008997817
+      DW_F_Clothes_Black_Tanktop_Spritesheet_7: 5277412281041698370
+      DW_F_Clothes_Black_Tanktop_Spritesheet_18: 1120532690018347320
+      DW_F_Clothes_Black_Tanktop_Spritesheet_29: -5208065473458637285
+      DW_F_Clothes_Black_Tanktop_Spritesheet_16: 5338992466704555510
+      DW_F_Clothes_Black_Tanktop_Spritesheet_15: 3869653458997813976
+      DW_F_Clothes_Black_Tanktop_Spritesheet_9: -341211966035591350
+      DW_F_Clothes_Black_Tanktop_Spritesheet_11: 6813791590343628566
+      DW_F_Clothes_Black_Tanktop_Spritesheet_19: 4306421213789014297
+      DW_F_Clothes_Black_Tanktop_Spritesheet_20: -1673384664158628956
+      DW_F_Clothes_Black_Tanktop_Spritesheet_6: -7063069479165276255
+      DW_F_Clothes_Black_Tanktop_Spritesheet_25: 3079097318515156658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

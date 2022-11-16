@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Left
+    m_Hash: -631945130
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_0
+      m_Hash: 1512018034
+      m_Sprite: {fileID: 909250840, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 909250840, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_4
+      m_Hash: 1567773803
+      m_Sprite: {fileID: -1693841272, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1693841272, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_8
+      m_Hash: 1422137408
+      m_Sprite: {fileID: -939684897, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -939684897, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_12
+      m_Hash: -1113620276
+      m_Sprite: {fileID: -963358220, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -963358220, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_16
+      m_Hash: -1158527787
+      m_Sprite: {fileID: 20358528, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 20358528, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_20
+      m_Hash: 2025632291
+      m_Sprite: {fileID: 1857056470, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1857056470, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_24
+      m_Hash: 2144433722
+      m_Sprite: {fileID: 1591313862, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1591313862, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_28
+      m_Hash: 1986476561
+      m_Sprite: {fileID: -948395693, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -948395693, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Right
+    m_Hash: 1963678224
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_1
+      m_Hash: 756588772
+      m_Sprite: {fileID: 265917567, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 265917567, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_5
+      m_Hash: 712336637
+      m_Sprite: {fileID: -330639835, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -330639835, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_9
+      m_Hash: 599992534
+      m_Sprite: {fileID: 1599295826, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1599295826, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_13
+      m_Hash: -895963046
+      m_Sprite: {fileID: -1349722176, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1349722176, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_17
+      m_Hash: -839551933
+      m_Sprite: {fileID: -1428875327, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1428875327, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_21
+      m_Hash: 263946933
+      m_Sprite: {fileID: 191827634, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 191827634, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_25
+      m_Hash: 148260524
+      m_Sprite: {fileID: -1109070884, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1109070884, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_29
+      m_Hash: 23071367
+      m_Sprite: {fileID: -477372646, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -477372646, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Down
+    m_Hash: -1127399675
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_2
+      m_Hash: -1273892514
+      m_Sprite: {fileID: 862193367, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 862193367, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_6
+      m_Hash: -1283705529
+      m_Sprite: {fileID: 114470317, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 114470317, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_10
+      m_Hash: 1402069472
+      m_Sprite: {fileID: 1989326078, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1989326078, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_14
+      m_Hash: 1425810937
+      m_Sprite: {fileID: -1050796529, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1050796529, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_18
+      m_Hash: 1565157842
+      m_Sprite: {fileID: 627972066, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 627972066, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_22
+      m_Hash: -1766665457
+      m_Sprite: {fileID: -120395550, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -120395550, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_26
+      m_Hash: -1847650538
+      m_Sprite: {fileID: 1793912769, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1793912769, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_30
+      m_Hash: 1638368098
+      m_Sprite: {fileID: 893839870, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 893839870, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Up
+    m_Hash: -703542574
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_3
+      m_Hash: -1021918776
+      m_Sprite: {fileID: -1459406737, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1459406737, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_7
+      m_Hash: -998570543
+      m_Sprite: {fileID: 548422250, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 548422250, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_11
+      m_Hash: 613863798
+      m_Sprite: {fileID: -237738317, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -237738317, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_15
+      m_Hash: 603657583
+      m_Sprite: {fileID: -651068512, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -651068512, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_19
+      m_Hash: 709712196
+      m_Sprite: {fileID: -118763379, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -118763379, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_23
+      m_Hash: -508173415
+      m_Sprite: {fileID: -1501223762, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1501223762, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_27
+      m_Hash: -422041728
+      m_Sprite: {fileID: 589762738, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 589762738, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    - m_Name: RC_DF_Steroid_Menk_Anim_Walk_31
+      m_Hash: 379630580
+      m_Sprite: {fileID: -878067599, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -878067599, guid: de09dce8b77eb934fad4da520c5040ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

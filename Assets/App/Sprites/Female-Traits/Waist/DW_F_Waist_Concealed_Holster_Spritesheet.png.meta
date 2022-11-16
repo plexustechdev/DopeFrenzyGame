@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 411994d10fbd1de48af94689ad0d8bbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 422059471239960784
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_0
+  - first:
+      213: 8170044378457813994
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_1
+  - first:
+      213: 2850064171090060922
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_2
+  - first:
+      213: 8030845266493675670
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_3
+  - first:
+      213: 7340044552744472790
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_4
+  - first:
+      213: 1069913063827747842
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_5
+  - first:
+      213: 9209446348681604153
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_6
+  - first:
+      213: -3157151035771506626
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_7
+  - first:
+      213: -8635659406012159920
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_8
+  - first:
+      213: 80246492001500921
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_9
+  - first:
+      213: -2742459487649279546
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_10
+  - first:
+      213: 5820635749698421996
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_11
+  - first:
+      213: 2893808879092154156
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_12
+  - first:
+      213: 2520339405485740235
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_13
+  - first:
+      213: 5097657205430968406
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_14
+  - first:
+      213: -3764977867066969463
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_15
+  - first:
+      213: -5393525070770038492
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_16
+  - first:
+      213: -4184477251244862755
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_17
+  - first:
+      213: 3786745390131973769
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_18
+  - first:
+      213: 2028122074056447362
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_19
+  - first:
+      213: -4133172396430137558
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_20
+  - first:
+      213: 5917338893948872058
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_21
+  - first:
+      213: 5801379946732357451
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_22
+  - first:
+      213: 4851177026403569843
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_23
+  - first:
+      213: 5191150571363571109
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_24
+  - first:
+      213: -4267642555332835336
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_25
+  - first:
+      213: -5742062633331205057
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_26
+  - first:
+      213: 25823043234010336
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_27
+  - first:
+      213: -7592413284166383514
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_28
+  - first:
+      213: -6975471289360759211
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_29
+  - first:
+      213: -3602155908343648999
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_30
+  - first:
+      213: 7918502063708353969
+    second: DW_F_Waist_Concealed_Holster_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d8595ad47bd500800000000000000
+      internalID: 422059471239960784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b7215314d16170800000000000000
+      internalID: 8170044378457813994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7624e863467d8720800000000000000
+      internalID: 2850064171090060922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989b7b783b437f60800000000000000
+      internalID: 8030845266493675670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d010e9a1a31dd560800000000000000
+      internalID: 7340044552744472790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b00e434819de00800000000000000
+      internalID: 1069913063827747842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6f2f09a68ecf70800000000000000
+      internalID: 9209446348681604153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30359a3cdb8f24d0800000000000000
+      internalID: -3157151035771506626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058626f1689f72880800000000000000
+      internalID: -8635659406012159920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe783262c71d1100800000000000000
+      internalID: 80246492001500921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d3cb40a3d0f9d0800000000000000
+      internalID: -2742459487649279546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c6b3106d07c050800000000000000
+      internalID: 5820635749698421996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb82ee7dfd82820800000000000000
+      internalID: 2893808879092154156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc09561065b0af220800000000000000
+      internalID: 2520339405485740235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6506c6448348eb640800000000000000
+      internalID: 5097657205430968406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f34ed39c10cbc0800000000000000
+      internalID: -3764977867066969463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429969536895625b0800000000000000
+      internalID: -5393525070770038492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d8dc3c10cde5c0800000000000000
+      internalID: -4184477251244862755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0aa98ed83d8430800000000000000
+      internalID: 3786745390131973769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855349e746552c10800000000000000
+      internalID: 2028122074056447362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e45b9a9504a6c0800000000000000
+      internalID: -4133172396430137558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ec656f5c9e1250800000000000000
+      internalID: 5917338893948872058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478e041354a28050800000000000000
+      internalID: 5801379946732357451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b012598dc7d25340800000000000000
+      internalID: 4851177026403569843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a511b5d0fbaa0840800000000000000
+      internalID: 5191150571363571109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7cb05f4b946c4c0800000000000000
+      internalID: -4267642555332835336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdf3e25781050b0800000000000000
+      internalID: -5742062633331205057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49bf6cbedbb5000800000000000000
+      internalID: 25823043234010336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684e49285452a690800000000000000
+      internalID: -7592413284166383514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55647b8e1d5223f90800000000000000
+      internalID: -6975471289360759211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d2a915942920ec0800000000000000
+      internalID: -3602155908343648999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Concealed_Holster_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b8844cab24ed60800000000000000
+      internalID: 7918502063708353969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Waist_Concealed_Holster_Spritesheet_10: -2742459487649279546
+      DW_F_Waist_Concealed_Holster_Spritesheet_29: -6975471289360759211
+      DW_F_Waist_Concealed_Holster_Spritesheet_17: -4184477251244862755
+      DW_F_Waist_Concealed_Holster_Spritesheet_28: -7592413284166383514
+      DW_F_Waist_Concealed_Holster_Spritesheet_23: 4851177026403569843
+      DW_F_Waist_Concealed_Holster_Spritesheet_2: 2850064171090060922
+      DW_F_Waist_Concealed_Holster_Spritesheet_26: -5742062633331205057
+      DW_F_Waist_Concealed_Holster_Spritesheet_1: 8170044378457813994
+      DW_F_Waist_Concealed_Holster_Spritesheet_18: 3786745390131973769
+      DW_F_Waist_Concealed_Holster_Spritesheet_20: -4133172396430137558
+      DW_F_Waist_Concealed_Holster_Spritesheet_14: 5097657205430968406
+      DW_F_Waist_Concealed_Holster_Spritesheet_6: 9209446348681604153
+      DW_F_Waist_Concealed_Holster_Spritesheet_11: 5820635749698421996
+      DW_F_Waist_Concealed_Holster_Spritesheet_15: -3764977867066969463
+      DW_F_Waist_Concealed_Holster_Spritesheet_27: 25823043234010336
+      DW_F_Waist_Concealed_Holster_Spritesheet_0: 422059471239960784
+      DW_F_Waist_Concealed_Holster_Spritesheet_7: -3157151035771506626
+      DW_F_Waist_Concealed_Holster_Spritesheet_16: -5393525070770038492
+      DW_F_Waist_Concealed_Holster_Spritesheet_19: 2028122074056447362
+      DW_F_Waist_Concealed_Holster_Spritesheet_30: -3602155908343648999
+      DW_F_Waist_Concealed_Holster_Spritesheet_31: 7918502063708353969
+      DW_F_Waist_Concealed_Holster_Spritesheet_3: 8030845266493675670
+      DW_F_Waist_Concealed_Holster_Spritesheet_4: 7340044552744472790
+      DW_F_Waist_Concealed_Holster_Spritesheet_5: 1069913063827747842
+      DW_F_Waist_Concealed_Holster_Spritesheet_13: 2520339405485740235
+      DW_F_Waist_Concealed_Holster_Spritesheet_22: 5801379946732357451
+      DW_F_Waist_Concealed_Holster_Spritesheet_24: 5191150571363571109
+      DW_F_Waist_Concealed_Holster_Spritesheet_8: -8635659406012159920
+      DW_F_Waist_Concealed_Holster_Spritesheet_25: -4267642555332835336
+      DW_F_Waist_Concealed_Holster_Spritesheet_12: 2893808879092154156
+      DW_F_Waist_Concealed_Holster_Spritesheet_9: 80246492001500921
+      DW_F_Waist_Concealed_Holster_Spritesheet_21: 5917338893948872058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

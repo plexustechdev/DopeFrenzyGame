@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: c3a390632f9b2814a8d92d8fe6d1c88e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2822384354831593404
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_0
+  - first:
+      213: -6684672308028036510
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_1
+  - first:
+      213: 2700232805707559000
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_2
+  - first:
+      213: -5050069076459644493
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_3
+  - first:
+      213: 6751543772163488073
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_4
+  - first:
+      213: -1968229083173951943
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_5
+  - first:
+      213: -2827040995450432504
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_6
+  - first:
+      213: -7308727664211606330
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_7
+  - first:
+      213: -696718834154007342
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_8
+  - first:
+      213: 8072912475530300573
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_9
+  - first:
+      213: -2279200411332179778
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_10
+  - first:
+      213: 6087395129657177491
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_11
+  - first:
+      213: 3853086801771104908
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_12
+  - first:
+      213: 2289680678352971829
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_13
+  - first:
+      213: 6556952447220137097
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_14
+  - first:
+      213: -1274129945915580444
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_15
+  - first:
+      213: 1120102754513288031
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_16
+  - first:
+      213: 973085140507769373
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_17
+  - first:
+      213: 6201331548227329685
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_18
+  - first:
+      213: 6604600588638091028
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_19
+  - first:
+      213: 3176987810355221389
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_20
+  - first:
+      213: 46310407935122815
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_21
+  - first:
+      213: 3436658847732191078
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_22
+  - first:
+      213: 1641947333976492529
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_23
+  - first:
+      213: 2648625893223318927
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_24
+  - first:
+      213: -7275679415553504809
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_25
+  - first:
+      213: -4225133172132243915
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_26
+  - first:
+      213: -2703200165128056188
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_27
+  - first:
+      213: -1002289276135717344
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_28
+  - first:
+      213: -2096655150155668441
+    second: DW_F_Weapon_Razor_Blade_Spritesheet_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6b59fd9f1b2720800000000000000
+      internalID: 2822384354831593404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2918e3f54b33a0800000000000000
+      internalID: -6684672308028036510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503e0b2e67297520800000000000000
+      internalID: 2700232805707559000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9107e6eec8ae9b0800000000000000
+      internalID: -5050069076459644493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493e412a4d42bd50800000000000000
+      internalID: 6751543772163488073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936e2d4b3127fa4e0800000000000000
+      internalID: -1968229083173951943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d5b4613554c8d0800000000000000
+      internalID: -2827040995450432504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c896a9ee229a90800000000000000
+      internalID: -7308727664211606330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41de569e1c456f0800000000000000
+      internalID: -696718834154007342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8dc6df1fb80070800000000000000
+      internalID: 8072912475530300573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80f963d47ae50e0800000000000000
+      internalID: -2279200411332179778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b8a63e95ca7450800000000000000
+      internalID: 6087395129657177491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a005c180ae87530800000000000000
+      internalID: 3853086801771104908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ed4a127496cf10800000000000000
+      internalID: 2289680678352971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3fa1b289fefa50800000000000000
+      internalID: 6556952447220137097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef93089091615ee0800000000000000
+      internalID: -1274129945915580444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b73ba45876b8f00800000000000000
+      internalID: 1120102754513288031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a3d2897c7118d00800000000000000
+      internalID: 973085140507769373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5382ef2e8f0650800000000000000
+      internalID: 6201331548227329685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417fb112e3148ab50800000000000000
+      internalID: 6604600588638091028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8318f3c49de61c20800000000000000
+      internalID: 3176987810355221389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5066121784a000800000000000000
+      internalID: 46310407935122815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc749830771bf20800000000000000
+      internalID: 3436658847732191078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9819d966e59c610800000000000000
+      internalID: 1641947333976492529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f854a74873fc1c420800000000000000
+      internalID: 2648625893223318927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cf48ae18970b90800000000000000
+      internalID: -7275679415553504809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536965204cf4d55c0800000000000000
+      internalID: -4225133172132243915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d3c0a5cd4c7ad0800000000000000
+      internalID: -2703200165128056188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264fb5b6372712f0800000000000000
+      internalID: -1002289276135717344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Razor_Blade_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246a7edf3f27e2e0800000000000000
+      internalID: -2096655150155668441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Razor_Blade_Spritesheet_26: -4225133172132243915
+      DW_F_Weapon_Razor_Blade_Spritesheet_23: 1641947333976492529
+      DW_F_Weapon_Razor_Blade_Spritesheet_8: -696718834154007342
+      DW_F_Weapon_Razor_Blade_Spritesheet_4: 6751543772163488073
+      DW_F_Weapon_Razor_Blade_Spritesheet_9: 8072912475530300573
+      DW_F_Weapon_Razor_Blade_Spritesheet_17: 973085140507769373
+      DW_F_Weapon_Razor_Blade_Spritesheet_3: -5050069076459644493
+      DW_F_Weapon_Razor_Blade_Spritesheet_5: -1968229083173951943
+      DW_F_Weapon_Razor_Blade_Spritesheet_24: 2648625893223318927
+      DW_F_Weapon_Razor_Blade_Spritesheet_2: 2700232805707559000
+      DW_F_Weapon_Razor_Blade_Spritesheet_10: -2279200411332179778
+      DW_F_Weapon_Razor_Blade_Spritesheet_13: 2289680678352971829
+      DW_F_Weapon_Razor_Blade_Spritesheet_28: -1002289276135717344
+      DW_F_Weapon_Razor_Blade_Spritesheet_20: 3176987810355221389
+      DW_F_Weapon_Razor_Blade_Spritesheet_27: -2703200165128056188
+      DW_F_Weapon_Razor_Blade_Spritesheet_0: 2822384354831593404
+      DW_F_Weapon_Razor_Blade_Spritesheet_21: 46310407935122815
+      DW_F_Weapon_Razor_Blade_Spritesheet_25: -7275679415553504809
+      DW_F_Weapon_Razor_Blade_Spritesheet_29: -2096655150155668441
+      DW_F_Weapon_Razor_Blade_Spritesheet_7: -7308727664211606330
+      DW_F_Weapon_Razor_Blade_Spritesheet_12: 3853086801771104908
+      DW_F_Weapon_Razor_Blade_Spritesheet_16: 1120102754513288031
+      DW_F_Weapon_Razor_Blade_Spritesheet_18: 6201331548227329685
+      DW_F_Weapon_Razor_Blade_Spritesheet_11: 6087395129657177491
+      DW_F_Weapon_Razor_Blade_Spritesheet_14: 6556952447220137097
+      DW_F_Weapon_Razor_Blade_Spritesheet_22: 3436658847732191078
+      DW_F_Weapon_Razor_Blade_Spritesheet_15: -1274129945915580444
+      DW_F_Weapon_Razor_Blade_Spritesheet_19: 6604600588638091028
+      DW_F_Weapon_Razor_Blade_Spritesheet_6: -2827040995450432504
+      DW_F_Weapon_Razor_Blade_Spritesheet_1: -6684672308028036510
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

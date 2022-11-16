@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 6c45140e0b2982844b2888c47f6e70c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -672500402542140666
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_0
+  - first:
+      213: 1332404270037090149
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_1
+  - first:
+      213: 8235065145215825728
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_2
+  - first:
+      213: 501598869809023203
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_3
+  - first:
+      213: -8956380111963648365
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_4
+  - first:
+      213: 5838820983402481039
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_5
+  - first:
+      213: -5493619484594452292
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_6
+  - first:
+      213: 6271970904332106995
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_7
+  - first:
+      213: -7741519286991756579
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_8
+  - first:
+      213: -1353530870210495702
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_9
+  - first:
+      213: -5335740408408788079
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_10
+  - first:
+      213: -8541825327851813386
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_11
+  - first:
+      213: -2618401388750888805
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_12
+  - first:
+      213: -2639235954180785549
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_13
+  - first:
+      213: 764634722464936773
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_14
+  - first:
+      213: -7901885191078404856
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_15
+  - first:
+      213: 2757034808992431979
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_16
+  - first:
+      213: -7317679122781462780
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_17
+  - first:
+      213: -2505812452001457997
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_18
+  - first:
+      213: -483884473778763297
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_19
+  - first:
+      213: 2387829195596963885
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_20
+  - first:
+      213: 6753029938012587848
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_21
+  - first:
+      213: 4733033921565300329
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_22
+  - first:
+      213: 5563161444611158967
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_23
+  - first:
+      213: 5919117674098179840
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_24
+  - first:
+      213: -8752241601025487429
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_25
+  - first:
+      213: -366834660400383066
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_26
+  - first:
+      213: 4530148165022145406
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_27
+  - first:
+      213: 3414028478064665639
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_28
+  - first:
+      213: 1074871177809478663
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_29
+  - first:
+      213: -167565584010403540
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_30
+  - first:
+      213: 7404867591679588711
+    second: DW_F_Waist_Fanny_Pack_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032b2b627ccaa6f0800000000000000
+      internalID: -672500402542140666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f36cccf96ad7210800000000000000
+      internalID: 1332404270037090149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473aca4e14d84270800000000000000
+      internalID: 8235065145215825728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e844b6b38906f600800000000000000
+      internalID: 501598869809023203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8809bdbb84b380800000000000000
+      internalID: -8956380111963648365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f854dcebfb8a70150800000000000000
+      internalID: 5838820983402481039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb845996f2eb2c3b0800000000000000
+      internalID: -5493619484594452292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcfc42ae448a0750800000000000000
+      internalID: 6271970904332106995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2650d8939909490800000000000000
+      internalID: -7741519286991756579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf39848da473de0800000000000000
+      internalID: -1353530870210495702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b8175e54a3f5b0800000000000000
+      internalID: -5335740408408788079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f545ffee17557980800000000000000
+      internalID: -8541825327851813386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b902d105fc199abd0800000000000000
+      internalID: -2618401388750888805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a7d9802ec8f5bd0800000000000000
+      internalID: -2639235954180785549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b3779a378c9a00800000000000000
+      internalID: 764634722464936773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1ad1e84dd65290800000000000000
+      internalID: -7901885191078404856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f71672d84f24620800000000000000
+      internalID: 2757034808992431979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f915acb91627a90800000000000000
+      internalID: -7317679122781462780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d3bce9d0993dd0800000000000000
+      internalID: -2505812452001457997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9071482a5e849f0800000000000000
+      internalID: -483884473778763297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d202ddb8006432120800000000000000
+      internalID: 2387829195596963885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84781d413f497bd50800000000000000
+      internalID: 6753029938012587848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96616c4664d1fa140800000000000000
+      internalID: 4733033921565300329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37236ebd1543d40800000000000000
+      internalID: 5563161444611158967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbb5ce92ee42250800000000000000
+      internalID: 5919117674098179840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdca7e92aac98680800000000000000
+      internalID: -8752241601025487429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb887e1ddb8eaf0800000000000000
+      internalID: -366834660400383066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b580c11c15ede30800000000000000
+      internalID: 4530148165022145406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ac1000d0116f20800000000000000
+      internalID: 3414028478064665639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c3ac24a5baee00800000000000000
+      internalID: 1074871177809478663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aa783dffacadf0800000000000000
+      internalID: -167565584010403540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Fanny_Pack_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693dda87df53c660800000000000000
+      internalID: 7404867591679588711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Waist_Fanny_Pack_Spritesheet_31: 7404867591679588711
+      DW_F_Waist_Fanny_Pack_Spritesheet_11: -8541825327851813386
+      DW_F_Waist_Fanny_Pack_Spritesheet_18: -2505812452001457997
+      DW_F_Waist_Fanny_Pack_Spritesheet_22: 4733033921565300329
+      DW_F_Waist_Fanny_Pack_Spritesheet_28: 3414028478064665639
+      DW_F_Waist_Fanny_Pack_Spritesheet_2: 8235065145215825728
+      DW_F_Waist_Fanny_Pack_Spritesheet_9: -1353530870210495702
+      DW_F_Waist_Fanny_Pack_Spritesheet_14: 764634722464936773
+      DW_F_Waist_Fanny_Pack_Spritesheet_25: -8752241601025487429
+      DW_F_Waist_Fanny_Pack_Spritesheet_8: -7741519286991756579
+      DW_F_Waist_Fanny_Pack_Spritesheet_10: -5335740408408788079
+      DW_F_Waist_Fanny_Pack_Spritesheet_27: 4530148165022145406
+      DW_F_Waist_Fanny_Pack_Spritesheet_29: 1074871177809478663
+      DW_F_Waist_Fanny_Pack_Spritesheet_15: -7901885191078404856
+      DW_F_Waist_Fanny_Pack_Spritesheet_7: 6271970904332106995
+      DW_F_Waist_Fanny_Pack_Spritesheet_30: -167565584010403540
+      DW_F_Waist_Fanny_Pack_Spritesheet_4: -8956380111963648365
+      DW_F_Waist_Fanny_Pack_Spritesheet_20: 2387829195596963885
+      DW_F_Waist_Fanny_Pack_Spritesheet_21: 6753029938012587848
+      DW_F_Waist_Fanny_Pack_Spritesheet_13: -2639235954180785549
+      DW_F_Waist_Fanny_Pack_Spritesheet_24: 5919117674098179840
+      DW_F_Waist_Fanny_Pack_Spritesheet_17: -7317679122781462780
+      DW_F_Waist_Fanny_Pack_Spritesheet_16: 2757034808992431979
+      DW_F_Waist_Fanny_Pack_Spritesheet_0: -672500402542140666
+      DW_F_Waist_Fanny_Pack_Spritesheet_5: 5838820983402481039
+      DW_F_Waist_Fanny_Pack_Spritesheet_26: -366834660400383066
+      DW_F_Waist_Fanny_Pack_Spritesheet_6: -5493619484594452292
+      DW_F_Waist_Fanny_Pack_Spritesheet_23: 5563161444611158967
+      DW_F_Waist_Fanny_Pack_Spritesheet_3: 501598869809023203
+      DW_F_Waist_Fanny_Pack_Spritesheet_19: -483884473778763297
+      DW_F_Waist_Fanny_Pack_Spritesheet_1: 1332404270037090149
+      DW_F_Waist_Fanny_Pack_Spritesheet_12: -2618401388750888805
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

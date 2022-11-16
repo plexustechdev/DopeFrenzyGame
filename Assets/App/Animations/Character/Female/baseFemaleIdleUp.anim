@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: baseFemaleIdleUp
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: -1313541856511764184, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -8677939506417978890, guid: d5482b034fca189438bd6c9cbebe869d, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Chlotes
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -6590426358508842335, guid: 16553e3041c7aaf4bbca38b8e6e34e45, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon1
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 8429889586280282929, guid: 8a17ac7fcd88de345a46dd4ea6906b35, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon3
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -2236687553665234743, guid: 96df893da1c01834fbd976a295c8b1c3, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon2
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -2852510127791071716, guid: cd97dab483079e84da81bd6315475e11, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon4
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 87782828754191661, guid: 5bfd59565a2b23d45bb5748476ec4955, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon5
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -5945968780930350386, guid: 7cdf7b25825447f4aa5a822b55a71282, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon6
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 5393067114105975462, guid: d338ff2e4ea0f2b4494ee0fdc2a81167, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon7
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -6524681464426796667, guid: 8c4f7177047eeae4e8b1ea9cfc7f6064, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon8
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 6598098657843208693, guid: e266d9118a196304595e231006dfc52d, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon9
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 4436971424141089604, guid: 62fcca34305a7d84ab142500c9a41c1b, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon10
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -6899457866230411882, guid: b2aa0228470f6a5458bfac2ad0c6d330, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon11
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -1274129945915580444, guid: c3a390632f9b2814a8d92d8fe6d1c88e, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon12
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -3652063073523838607, guid: ea42eb62a97ca3645ab43d120235e5c3, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon13
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -1205806057972570153, guid: 29065dc9d0b44dd4caab4d57074b7948, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon14
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -8872229875386079049, guid: 678c800ec18fadc4facf2cb201d6004a, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon15
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -758061475639317822, guid: 0c61daa68d69d31408126ac9394b4164, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon16
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: -5183721998134723790, guid: fbd2fc4952d616243b6e579c37fcc53d, type: 3}
+    attribute: m_Sprite
+    path: Equipment/Weapon/Weapon17
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 1
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1163482073
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3974658842
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 48634422
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1977690784
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2625802133
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3951410947
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1921838777
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 93052463
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2503263166
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3795055400
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 156618272
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2119368374
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3881545484
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2421989274
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 238553657
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2034186927
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3761662741
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2536594307
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: -1313541856511764184, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+    - {fileID: -8677939506417978890, guid: d5482b034fca189438bd6c9cbebe869d, type: 3}
+    - {fileID: -6590426358508842335, guid: 16553e3041c7aaf4bbca38b8e6e34e45, type: 3}
+    - {fileID: 8429889586280282929, guid: 8a17ac7fcd88de345a46dd4ea6906b35, type: 3}
+    - {fileID: -2236687553665234743, guid: 96df893da1c01834fbd976a295c8b1c3, type: 3}
+    - {fileID: -2852510127791071716, guid: cd97dab483079e84da81bd6315475e11, type: 3}
+    - {fileID: 87782828754191661, guid: 5bfd59565a2b23d45bb5748476ec4955, type: 3}
+    - {fileID: -5945968780930350386, guid: 7cdf7b25825447f4aa5a822b55a71282, type: 3}
+    - {fileID: 5393067114105975462, guid: d338ff2e4ea0f2b4494ee0fdc2a81167, type: 3}
+    - {fileID: -6524681464426796667, guid: 8c4f7177047eeae4e8b1ea9cfc7f6064, type: 3}
+    - {fileID: 6598098657843208693, guid: e266d9118a196304595e231006dfc52d, type: 3}
+    - {fileID: 4436971424141089604, guid: 62fcca34305a7d84ab142500c9a41c1b, type: 3}
+    - {fileID: -6899457866230411882, guid: b2aa0228470f6a5458bfac2ad0c6d330, type: 3}
+    - {fileID: -1274129945915580444, guid: c3a390632f9b2814a8d92d8fe6d1c88e, type: 3}
+    - {fileID: -3652063073523838607, guid: ea42eb62a97ca3645ab43d120235e5c3, type: 3}
+    - {fileID: -1205806057972570153, guid: 29065dc9d0b44dd4caab4d57074b7948, type: 3}
+    - {fileID: -8872229875386079049, guid: 678c800ec18fadc4facf2cb201d6004a, type: 3}
+    - {fileID: -758061475639317822, guid: 0c61daa68d69d31408126ac9394b4164, type: 3}
+    - {fileID: -5183721998134723790, guid: fbd2fc4952d616243b6e579c37fcc53d, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

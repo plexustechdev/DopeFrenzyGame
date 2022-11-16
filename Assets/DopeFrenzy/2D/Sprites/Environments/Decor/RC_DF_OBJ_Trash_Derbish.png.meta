@@ -1,0 +1,2677 @@
+fileFormatVersion: 2
+guid: 6017ba2c0c48af64a97052996e1a2363
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 326
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e3f75607838542b4970022e7de94b
+      internalID: -24713766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d607b5e65cf942b941e52e29371ea
+      internalID: 2050108283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 325
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4574727731054e98b606f5d48f336
+      internalID: 1868399821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 313
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53c4a733eb36842acf80778b192eed
+      internalID: -1756027475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 317
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68139d798ab482243b8a413a9706f2cb
+      internalID: 1859645440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 315
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea829fe1ce87fe4b9d6ea27d00f7a3b
+      internalID: -154003466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 294
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49658b3853e687b429d6482ecdd36ea9
+      internalID: 594382207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 294
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924811fe8f55cbc43a56ccf19aeb26c4
+      internalID: 1877372683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392ffc979c44654690a850d2c214314
+      internalID: 1475288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 285
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd67e186713c6c409418d63b889110d
+      internalID: 739067235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 280
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42651ac0fc7299c4aa3f05efd199932d
+      internalID: 1251535980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 282
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baee2ace05c08640961269e20b978f0
+      internalID: -1893695803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 261
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc54e787949d8459bea8d546809e22
+      internalID: 730681881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f103470db5c21428cc5cc0ae62d193
+      internalID: 1316247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 262
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81fc76c37db1ec47ade492891a31aba
+      internalID: 1414207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 245
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12a0baed9501f40b44b0d716d2dae5
+      internalID: -1074516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 245
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32fa2a0396aed4484dc24077f22ad7
+      internalID: -292680919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 243
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f324f1252e0f64c95dd7ed2462551f
+      internalID: 1658080298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 244
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c33780e75d744f950bcb5fa070b30
+      internalID: -574977329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 244
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2cc25f73be0d4ab0c599d42259f4b
+      internalID: 2107037290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4fbac6d8df494d878bd2220898d54
+      internalID: 410720330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 244
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854a97a3366f22488ca3e1c2e3b3375
+      internalID: -2036499821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7023495a82bed45a45a0a8496c565a
+      internalID: 2117564311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 249
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fa792848f6ec449c6331dede77dc2
+      internalID: 412761160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 232
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf0e0fe70c18b4b9dd6b6ca7301a7f
+      internalID: -598113576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b7edf8daa1a74e821553d67c38b8a
+      internalID: 1081925132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 233
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472c954ce60bfb45a68ed68cb96d702
+      internalID: -1906498911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d8d959e9687e4597009749c85268f
+      internalID: 184857129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 215
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d00e6fc5ddf2c43878388a9c92ced6
+      internalID: -1257481596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 211
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8b778ee1661f45857a36cbbf870a5
+      internalID: -1127300699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363beb2a3922d04a82685200e71e1b7
+      internalID: -1831555949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 217
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c268e9aab7e7d408fa3292e2bb8397
+      internalID: -740165143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 213
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94793b1bfcacf4b9572d4524c89f74
+      internalID: -1747417321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc19e9ad30d2f4988f0445bb63ebe7
+      internalID: -1837676899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 215
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdded202dbf4e4cbad3cb62ef1642b
+      internalID: 162837615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 202
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea066e131673f0848875a75e66a7b821
+      internalID: -1039801471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 183
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028f9360b25ed544a85b4f4e24156f2
+      internalID: 1763340037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 184
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7024bc2fb9f95e4f97219692d2026a9
+      internalID: 1064837185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 155
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af0d40584202342a600fdb9f02f140
+      internalID: -631157273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 164
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4a081ba9bc6e445a28c6a3ff77f1a2
+      internalID: 1850117976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 133
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0d4047c94ec04c8496f97c2ec38d3
+      internalID: 744875768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62126b7db82c234894e48c42116316b
+      internalID: -687157437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 125
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3ab8345c432d47875ea5387461d42
+      internalID: -1948596127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322657e973d14924ea3b3c891bd3441b
+      internalID: 1060737591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 158
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23056e2f380ce245b6938556987c32c
+      internalID: -1479176777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 143
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3f3e0f8de8344889c2aa5ab6f17b4
+      internalID: -1863071045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdc1a060477a5408d75a995ba2f24f
+      internalID: 563699035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380645052d8d4d84186dc7eb950130d3
+      internalID: -1926893079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 116
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77874661e6df084396f3edece69ea13
+      internalID: 836033464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce51fad5dcd054a988a9aaab7d91a8
+      internalID: -419801343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 102
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598dcfeb081f7d2409ace68a0e16cbe0
+      internalID: 74785417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 116
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d49c1d82b15bd4f90c4acb306d3e4c
+      internalID: -2141543093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f826ae96d18840b3d4f9d3bee546b
+      internalID: -1453676207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 115
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbf5121e8c6fca419d37dc6f79b7f11
+      internalID: 1101066457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 125
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7a99ccd95cc14b8aab2f60916b0c4
+      internalID: -37007900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bea5dbe555e6a44beda6b913a3b747
+      internalID: 698663457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb1e35b7562d5c4f84fde296f141c57
+      internalID: 1424419528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d33073a339bf43a106f584b8f150e
+      internalID: 452665213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 149
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17c3ee79647054da6edd243aa00df7
+      internalID: 1415813338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 135
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d9e20b3ec3594c946e81072447b24
+      internalID: 1800481884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 117
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d3aa790157f04084795fb358470b8
+      internalID: -57571172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 150
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864742329e080d144808c4d9763e6898
+      internalID: -634334478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 117
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46447d1c85e07c24a9f66c01154b23fc
+      internalID: 670679519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 102
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2348b8d795164cb17b967d60244bc
+      internalID: -1498533025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec1bc76e8e17a4499a626ad1bde2a7c
+      internalID: 2060622925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a881381fbffe49a8d3c104e56d314
+      internalID: -1114547087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 151
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d9d1d8f900bf4d8cad6f8d1c82bad
+      internalID: -1025736137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_67
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 134
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daded80d6bcf7443a0b4dab3a3c8a05
+      internalID: 1928881531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7c58edca9fb043ba98095e7197cac
+      internalID: -424675823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 102
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d41a9506a1cc44598499185f03631e
+      internalID: 1055598420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 135
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ceb95ea91ca6442950719aa4ca1983
+      internalID: 2101481991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b02c935decdf4198f3ed2cce5ef72
+      internalID: -12307687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_72
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 119
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0affbe490692db458a10db2697782cb
+      internalID: 1706455060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df5d1f9ac1433489a009eab3a4ea96
+      internalID: 236889814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdc3298516f53147afe67a03421a8bc
+      internalID: 326824080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_75
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 118
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c645baba695d84187c1489b76f8610
+      internalID: -367863784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3012b280e0184f97481da433ad1f2
+      internalID: 886392498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_77
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 119
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758afa3bf4bd47740a22b17544b4ba6d
+      internalID: 2093860896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 103
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5fe791866c3349ac8d3e7ffd797ca
+      internalID: -1400656110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb6aea11f381ae44a2b35acc60f0729
+      internalID: 239704628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_80
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 151
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6ab83fa5a38c47aca686ff9941a29
+      internalID: 752839527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a20b17ff5babd84fa2b3df8b7f21702
+      internalID: 1363158159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_82
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 133
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2d57102efbc64c9a51181de23d812
+      internalID: 832341276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_83
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 135
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716a70a96006f7468973d9a361ee82c
+      internalID: -828223973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_84
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ab2dd6a01da14fb3f7ad943a80046
+      internalID: -1186847721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 86
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ddb856d130a34e92e4926fc1f6d64
+      internalID: 57437634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce902626e158b04999b009d74068860
+      internalID: -1666932184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 86
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387751b4afa30348b37d09447fb7923
+      internalID: 1154128773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_88
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 86
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee519d8d42a0e04e9f77f97f20b7b3b
+      internalID: -514260952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 86
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc259c3da83db940a925260f59fe557
+      internalID: -1518152434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acccecd90ce4874097522507790effa
+      internalID: -1447738782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 87
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78c1aea7cd16f0448ef7dbb2ee2734f
+      internalID: -212672019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d124caf515d4449812fa46c2e865f
+      internalID: 1722424681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f16febce6cc949a36d5640c05098d
+      internalID: 453130748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 71
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ca13f4046575e4588670641056dc20
+      internalID: -1214912319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6746256c585bed408ede2e7e4a966d0
+      internalID: -384198624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 71
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e7b0c8020c9964db9562539cd09fcf
+      internalID: 2044233190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d15514b83eb344bdf90ba500582ab
+      internalID: -60035433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df14d154ce2f84fb1b63bd23e31c2e
+      internalID: 1368117210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_99
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348befd92f9adb4fb68bc2e240a3677
+      internalID: -774556419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 70
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47285d4b65c2ff46963899c1ef3567c
+      internalID: -1677197864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_101
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 70
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47f1a78013d6c4b8ce06e7c11ee8be
+      internalID: 196748689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_102
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 70
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb84f010de30749a33d93bd3fdc544
+      internalID: 604226376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_103
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 46
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518baeac4b4076b48b9ccccb01217721
+      internalID: 401358485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_104
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6b9e925c75d446bb5b6d7b49183d6
+      internalID: 1637046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e18c433d968247b18eb755c656839
+      internalID: -993144378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fb430b1347c424c9eae0f7dd9d0455
+      internalID: -2105695578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b95e70359858a4880766f5649e9af5
+      internalID: 256524474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 26
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2100da4e8203a4f8dbe81a20940fee
+      internalID: -1798136768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37eefdba1e4ccc41b6c50dc8e6379f2
+      internalID: -2003707827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 5
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c92f4c11be50344b385957a0d0bc08
+      internalID: -71822269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 327
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1fd2ff0b42e74eb54626b63b0e015
+      internalID: 1417392325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 300
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0f3a9df50e09428e00d1c9322f5d1
+      internalID: 1651539289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 297
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d238fdd36dba64fa00dfb90007a20f
+      internalID: 1711869862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Trash_Derbish_114
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 183
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe1e5c150feab4f900d3cd58c81bd3
+      internalID: -1144150256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_OBJ_Trash_Derbish_18: -574977329
+      RC_DF_OBJ_Trash_Derbish_40: 744875768
+      RC_DF_OBJ_Trash_Derbish_63: -1498533025
+      RC_DF_OBJ_Trash_Derbish_9: 739067235
+      RC_DF_OBJ_Trash_Derbish_85: 57437634
+      RC_DF_OBJ_Trash_Derbish_55: 698663457
+      RC_DF_OBJ_Trash_Derbish_77: 2093860896
+      RC_DF_OBJ_Trash_Derbish_97: -60035433
+      RC_DF_OBJ_Trash_Derbish_105: -993144378
+      RC_DF_OBJ_Trash_Derbish_60: -57571172
+      RC_DF_OBJ_Trash_Derbish_67: 1928881531
+      RC_DF_OBJ_Trash_Derbish_94: -1214912319
+      RC_DF_OBJ_Trash_Derbish_32: -1747417321
+      RC_DF_OBJ_Trash_Derbish_27: 184857129
+      RC_DF_OBJ_Trash_Derbish_59: 1800481884
+      RC_DF_OBJ_Trash_Derbish_114: -1144150256
+      RC_DF_OBJ_Trash_Derbish_100: -1677197864
+      RC_DF_OBJ_Trash_Derbish_84: -1186847721
+      RC_DF_OBJ_Trash_Derbish_38: -631157273
+      RC_DF_OBJ_Trash_Derbish_101: 196748689
+      RC_DF_OBJ_Trash_Derbish_110: -71822269
+      RC_DF_OBJ_Trash_Derbish_41: -687157437
+      RC_DF_OBJ_Trash_Derbish_33: -1837676899
+      RC_DF_OBJ_Trash_Derbish_19: 2107037290
+      RC_DF_OBJ_Trash_Derbish_7: 1877372683
+      RC_DF_OBJ_Trash_Derbish_31: -740165143
+      RC_DF_OBJ_Trash_Derbish_62: 670679519
+      RC_DF_OBJ_Trash_Derbish_86: -1666932184
+      RC_DF_OBJ_Trash_Derbish_30: -1831555949
+      RC_DF_OBJ_Trash_Derbish_54: -37007900
+      RC_DF_OBJ_Trash_Derbish_36: 1763340037
+      RC_DF_OBJ_Trash_Derbish_45: -1863071045
+      RC_DF_OBJ_Trash_Derbish_72: 1706455060
+      RC_DF_OBJ_Trash_Derbish_78: -1400656110
+      RC_DF_OBJ_Trash_Derbish_89: -1518152434
+      RC_DF_OBJ_Trash_Derbish_58: 1415813338
+      RC_DF_OBJ_Trash_Derbish_98: 1368117210
+      RC_DF_OBJ_Trash_Derbish_20: 410720330
+      RC_DF_OBJ_Trash_Derbish_51: -2141543093
+      RC_DF_OBJ_Trash_Derbish_26: -1906498911
+      RC_DF_OBJ_Trash_Derbish_56: 1424419528
+      RC_DF_OBJ_Trash_Derbish_25: 1081925132
+      RC_DF_OBJ_Trash_Derbish_39: 1850117976
+      RC_DF_OBJ_Trash_Derbish_10: 1251535980
+      RC_DF_OBJ_Trash_Derbish_71: -12307687
+      RC_DF_OBJ_Trash_Derbish_107: 256524474
+      RC_DF_OBJ_Trash_Derbish_103: 401358485
+      RC_DF_OBJ_Trash_Derbish_52: -1453676207
+      RC_DF_OBJ_Trash_Derbish_104: 1637046
+      RC_DF_OBJ_Trash_Derbish_73: 236889814
+      RC_DF_OBJ_Trash_Derbish_21: -2036499821
+      RC_DF_OBJ_Trash_Derbish_13: 1316247199
+      RC_DF_OBJ_Trash_Derbish_83: -828223973
+      RC_DF_OBJ_Trash_Derbish_82: 832341276
+      RC_DF_OBJ_Trash_Derbish_3: -1756027475
+      RC_DF_OBJ_Trash_Derbish_44: -1479176777
+      RC_DF_OBJ_Trash_Derbish_80: 752839527
+      RC_DF_OBJ_Trash_Derbish_109: -2003707827
+      RC_DF_OBJ_Trash_Derbish_43: 1060737591
+      RC_DF_OBJ_Trash_Derbish_6: 594382207
+      RC_DF_OBJ_Trash_Derbish_93: 453130748
+      RC_DF_OBJ_Trash_Derbish_5: -154003466
+      RC_DF_OBJ_Trash_Derbish_113: 1711869862
+      RC_DF_OBJ_Trash_Derbish_16: -292680919
+      RC_DF_OBJ_Trash_Derbish_47: -1926893079
+      RC_DF_OBJ_Trash_Derbish_22: 2117564311
+      RC_DF_OBJ_Trash_Derbish_99: -774556419
+      RC_DF_OBJ_Trash_Derbish_92: 1722424681
+      RC_DF_OBJ_Trash_Derbish_111: 1417392325
+      RC_DF_OBJ_Trash_Derbish_106: -2105695578
+      RC_DF_OBJ_Trash_Derbish_95: -384198624
+      RC_DF_OBJ_Trash_Derbish_102: 604226376
+      RC_DF_OBJ_Trash_Derbish_91: -212672019
+      RC_DF_OBJ_Trash_Derbish_65: -1114547087
+      RC_DF_OBJ_Trash_Derbish_74: 326824080
+      RC_DF_OBJ_Trash_Derbish_69: 1055598420
+      RC_DF_OBJ_Trash_Derbish_68: -424675823
+      RC_DF_OBJ_Trash_Derbish_70: 2101481991
+      RC_DF_OBJ_Trash_Derbish_49: -419801343
+      RC_DF_OBJ_Trash_Derbish_11: -1893695803
+      RC_DF_OBJ_Trash_Derbish_108: -1798136768
+      RC_DF_OBJ_Trash_Derbish_46: 563699035
+      RC_DF_OBJ_Trash_Derbish_24: -598113576
+      RC_DF_OBJ_Trash_Derbish_0: -24713766
+      RC_DF_OBJ_Trash_Derbish_8: 1475288046
+      RC_DF_OBJ_Trash_Derbish_64: 2060622925
+      RC_DF_OBJ_Trash_Derbish_90: -1447738782
+      RC_DF_OBJ_Trash_Derbish_66: -1025736137
+      RC_DF_OBJ_Trash_Derbish_112: 1651539289
+      RC_DF_OBJ_Trash_Derbish_35: -1039801471
+      RC_DF_OBJ_Trash_Derbish_29: -1127300699
+      RC_DF_OBJ_Trash_Derbish_50: 74785417
+      RC_DF_OBJ_Trash_Derbish_53: 1101066457
+      RC_DF_OBJ_Trash_Derbish_88: -514260952
+      RC_DF_OBJ_Trash_Derbish_4: 1859645440
+      RC_DF_OBJ_Trash_Derbish_1: 2050108283
+      RC_DF_OBJ_Trash_Derbish_48: 836033464
+      RC_DF_OBJ_Trash_Derbish_12: 730681881
+      RC_DF_OBJ_Trash_Derbish_2: 1868399821
+      RC_DF_OBJ_Trash_Derbish_34: 162837615
+      RC_DF_OBJ_Trash_Derbish_28: -1257481596
+      RC_DF_OBJ_Trash_Derbish_23: 412761160
+      RC_DF_OBJ_Trash_Derbish_79: 239704628
+      RC_DF_OBJ_Trash_Derbish_42: -1948596127
+      RC_DF_OBJ_Trash_Derbish_37: 1064837185
+      RC_DF_OBJ_Trash_Derbish_76: 886392498
+      RC_DF_OBJ_Trash_Derbish_14: 1414207990
+      RC_DF_OBJ_Trash_Derbish_75: -367863784
+      RC_DF_OBJ_Trash_Derbish_17: 1658080298
+      RC_DF_OBJ_Trash_Derbish_87: 1154128773
+      RC_DF_OBJ_Trash_Derbish_61: -634334478
+      RC_DF_OBJ_Trash_Derbish_57: 452665213
+      RC_DF_OBJ_Trash_Derbish_81: 1363158159
+      RC_DF_OBJ_Trash_Derbish_15: -1074516323
+      RC_DF_OBJ_Trash_Derbish_96: 2044233190
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

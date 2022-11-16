@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 072f54d7120ac8140983206e58c6658a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7429812269379994456
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_0
+  - first:
+      213: -7645123010002227281
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_1
+  - first:
+      213: 9156474475046168259
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_2
+  - first:
+      213: -7650868706422147570
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_3
+  - first:
+      213: -2398384531096442254
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_4
+  - first:
+      213: 897921865649563899
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_5
+  - first:
+      213: -2312307879641565429
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_6
+  - first:
+      213: 2134110111945449656
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_7
+  - first:
+      213: 7727336766696510008
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_8
+  - first:
+      213: -5915671060594753263
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_9
+  - first:
+      213: 4597496624926275420
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_10
+  - first:
+      213: 4352791953777859737
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_11
+  - first:
+      213: -2783283832394904612
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_12
+  - first:
+      213: 886681989626328453
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_13
+  - first:
+      213: 5687637885805213882
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_14
+  - first:
+      213: 7896015241276061893
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_15
+  - first:
+      213: 6796167558496370048
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_16
+  - first:
+      213: -3634477117087388024
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_17
+  - first:
+      213: 6217630698615345991
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_18
+  - first:
+      213: -1201036401795959478
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_19
+  - first:
+      213: 377657715331561656
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_20
+  - first:
+      213: -4784222208253826585
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_21
+  - first:
+      213: -7579180269977054187
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_22
+  - first:
+      213: -1709928818562940748
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_23
+  - first:
+      213: 2431255815137294413
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_24
+  - first:
+      213: 3836427395372153617
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_25
+  - first:
+      213: -8431159836737135983
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_26
+  - first:
+      213: 3587210720514864389
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_27
+  - first:
+      213: 7990084375297287193
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_28
+  - first:
+      213: -4466152294763979798
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_29
+  - first:
+      213: -6177116456303062076
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_30
+  - first:
+      213: -7879414566742087969
+    second: DW_F_Hands_Kevlart_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac34c71b1104e890800000000000000
+      internalID: -7429812269379994456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe6a4c02117e590800000000000000
+      internalID: -7645123010002227281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ee00a505521f70800000000000000
+      internalID: 9156474475046168259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e063e829277a2d590800000000000000
+      internalID: -7650868706422147570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6435e9f937bed0800000000000000
+      internalID: -2398384531096442254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8291eed2f067c00800000000000000
+      internalID: 897921865649563899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b0ae0c3809efd0800000000000000
+      internalID: -2312307879641565429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e31ef6d1ed9d10800000000000000
+      internalID: 2134110111945449656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d2ce19d30d3b60800000000000000
+      internalID: 7727336766696510008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110131538057eda0800000000000000
+      internalID: -5915671060594753263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b9c062d69dcf30800000000000000
+      internalID: 4597496624926275420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9b1a4839386c30800000000000000
+      internalID: 4352791953777859737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb8305d91acf59d0800000000000000
+      internalID: -2783283832394904612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f96c52902e4c00800000000000000
+      internalID: 886681989626328453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83972d58c8eee40800000000000000
+      internalID: 5687637885805213882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8745de608449d60800000000000000
+      internalID: 7896015241276061893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db5360366d05e50800000000000000
+      internalID: 6796167558496370048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e68bb715ebf8dc0800000000000000
+      internalID: -3634477117087388024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743188f8d26794650800000000000000
+      internalID: 6217630698615345991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4573a481cf055fe0800000000000000
+      internalID: -1201036401795959478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f501f0b5bd3500800000000000000
+      internalID: 377657715331561656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ee7edf370b9db0800000000000000
+      internalID: -4784222208253826585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145e5f53b751d690800000000000000
+      internalID: -7579180269977054187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b04a529ccc1548e0800000000000000
+      internalID: -1709928818562940748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487c53584e8db120800000000000000
+      internalID: 2431255815137294413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfbbbc36abd3530800000000000000
+      internalID: 3836427395372153617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1eb67cc08efa80800000000000000
+      internalID: -8431159836737135983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f2caf42558c130800000000000000
+      internalID: 3587210720514864389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9146ef2f76b72ee60800000000000000
+      internalID: 7990084375297287193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1ccd862a0502c0800000000000000
+      internalID: -4466152294763979798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c316dd8f49764aa0800000000000000
+      internalID: -6177116456303062076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Kevlart_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ac4fc232b6a290800000000000000
+      internalID: -7879414566742087969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_30: -6177116456303062076
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_25: 3836427395372153617
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_19: -1201036401795959478
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_24: 2431255815137294413
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_0: -7429812269379994456
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_31: -7879414566742087969
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_18: 6217630698615345991
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_14: 5687637885805213882
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_22: -7579180269977054187
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_9: -5915671060594753263
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_16: 6796167558496370048
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_26: -8431159836737135983
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_23: -1709928818562940748
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_4: -2398384531096442254
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_13: 886681989626328453
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_29: -4466152294763979798
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_20: 377657715331561656
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_1: -7645123010002227281
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_28: 7990084375297287193
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_15: 7896015241276061893
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_5: 897921865649563899
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_10: 4597496624926275420
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_7: 2134110111945449656
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_3: -7650868706422147570
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_8: 7727336766696510008
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_11: 4352791953777859737
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_17: -3634477117087388024
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_21: -4784222208253826585
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_27: 3587210720514864389
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_2: 9156474475046168259
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_6: -2312307879641565429
+      DW_F_Hands_Kevlart_Gloves_Spritesheet_12: -2783283832394904612
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

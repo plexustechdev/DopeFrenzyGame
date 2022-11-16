@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: a1270500dc3d7614997e5ee4b1d1e0ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9113057308253515767
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_0
+  - first:
+      213: -1012620286577441907
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_1
+  - first:
+      213: 75372161026412550
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_2
+  - first:
+      213: -4942962496514098471
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_3
+  - first:
+      213: 2082211656641425530
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_4
+  - first:
+      213: 2777395687622596201
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_5
+  - first:
+      213: 4576874901973840963
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_6
+  - first:
+      213: -3132322302676865952
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_7
+  - first:
+      213: 633363184713462601
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_8
+  - first:
+      213: -1095115022327501776
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_9
+  - first:
+      213: -4569147612052105046
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_10
+  - first:
+      213: 8133729359336012610
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_11
+  - first:
+      213: 1188086717868935207
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_12
+  - first:
+      213: -728007511251966353
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_13
+  - first:
+      213: 4217826895725356730
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_14
+  - first:
+      213: 5866136109743589614
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_15
+  - first:
+      213: 5853148007875336041
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_16
+  - first:
+      213: -7239935931226688361
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_17
+  - first:
+      213: 6036778153295156850
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_18
+  - first:
+      213: 8253678142404519438
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_19
+  - first:
+      213: 2582130145411137466
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_20
+  - first:
+      213: 6797966797790876802
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_21
+  - first:
+      213: -9172849043875719788
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_22
+  - first:
+      213: -9220485785720783017
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_23
+  - first:
+      213: 8106287206845498929
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_24
+  - first:
+      213: 2853008016392407448
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_25
+  - first:
+      213: -6755152252836509306
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_26
+  - first:
+      213: 435156287155998438
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_27
+  - first:
+      213: 236015008909349631
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_28
+  - first:
+      213: -4033384360320524855
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_29
+  - first:
+      213: -8144049668235367631
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_30
+  - first:
+      213: -3282244819289316708
+    second: DW_F_Clothes_Trenchcoat_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff6a3cb655187e70800000000000000
+      internalID: 9113057308253515767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838236e63372f1f0800000000000000
+      internalID: -1012620286577441907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600dee3c496cb0100800000000000000
+      internalID: 75372161026412550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf2316cc1176bb0800000000000000
+      internalID: -4942962496514098471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703a4d387085ec10800000000000000
+      internalID: 2082211656641425530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9665271a9aa4b8620800000000000000
+      internalID: 2777395687622596201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3443d895973548f30800000000000000
+      internalID: 4576874901973840963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c69e22671c784d0800000000000000
+      internalID: -3132322302676865952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f7a6f5782ac800800000000000000
+      internalID: 633363184713462601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca9f970be5dc0f0800000000000000
+      internalID: -1095115022327501776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa85f4984702790c0800000000000000
+      internalID: -4569147612052105046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b736a02cfc0e070800000000000000
+      internalID: 8133729359336012610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72800fc339eec7010800000000000000
+      internalID: 1188086717868935207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a202960995e5f0800000000000000
+      internalID: -728007511251966353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66cc3f63bb88a30800000000000000
+      internalID: 4217826895725356730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8cb5136b3b86150800000000000000
+      internalID: 5866136109743589614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d1331a1f8a3150800000000000000
+      internalID: 5853148007875336041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79475ae11a4968b90800000000000000
+      internalID: -7239935931226688361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761ff60fb1f6c350800000000000000
+      internalID: 6036778153295156850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e066d686a84fa8270800000000000000
+      internalID: 8253678142404519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffe01cfa195d320800000000000000
+      internalID: 2582130145411137466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284993119ca375e50800000000000000
+      internalID: 6797966797790876802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959189f46e73b080800000000000000
+      internalID: -9172849043875719788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff295b7014a0080800000000000000
+      internalID: -9220485785720783017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c15304415f7070800000000000000
+      internalID: 8106287206845498929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899496eccabe79720800000000000000
+      internalID: 2853008016392407448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689000ef0d0e042a0800000000000000
+      internalID: -6755152252836509306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee06bd665cf90600800000000000000
+      internalID: 435156287155998438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d3bf666e764300800000000000000
+      internalID: 236015008909349631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9a784b4a8608c0800000000000000
+      internalID: -4033384360320524855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b61bbc9f58afe80800000000000000
+      internalID: -8144049668235367631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Trenchcoat_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e4681abf1372d0800000000000000
+      internalID: -3282244819289316708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_Trenchcoat_Spritesheet_30: -8144049668235367631
+      DW_F_Clothes_Trenchcoat_Spritesheet_5: 2777395687622596201
+      DW_F_Clothes_Trenchcoat_Spritesheet_6: 4576874901973840963
+      DW_F_Clothes_Trenchcoat_Spritesheet_10: -4569147612052105046
+      DW_F_Clothes_Trenchcoat_Spritesheet_9: -1095115022327501776
+      DW_F_Clothes_Trenchcoat_Spritesheet_1: -1012620286577441907
+      DW_F_Clothes_Trenchcoat_Spritesheet_26: -6755152252836509306
+      DW_F_Clothes_Trenchcoat_Spritesheet_4: 2082211656641425530
+      DW_F_Clothes_Trenchcoat_Spritesheet_24: 8106287206845498929
+      DW_F_Clothes_Trenchcoat_Spritesheet_17: -7239935931226688361
+      DW_F_Clothes_Trenchcoat_Spritesheet_23: -9220485785720783017
+      DW_F_Clothes_Trenchcoat_Spritesheet_19: 8253678142404519438
+      DW_F_Clothes_Trenchcoat_Spritesheet_31: -3282244819289316708
+      DW_F_Clothes_Trenchcoat_Spritesheet_7: -3132322302676865952
+      DW_F_Clothes_Trenchcoat_Spritesheet_2: 75372161026412550
+      DW_F_Clothes_Trenchcoat_Spritesheet_21: 6797966797790876802
+      DW_F_Clothes_Trenchcoat_Spritesheet_8: 633363184713462601
+      DW_F_Clothes_Trenchcoat_Spritesheet_20: 2582130145411137466
+      DW_F_Clothes_Trenchcoat_Spritesheet_27: 435156287155998438
+      DW_F_Clothes_Trenchcoat_Spritesheet_16: 5853148007875336041
+      DW_F_Clothes_Trenchcoat_Spritesheet_22: -9172849043875719788
+      DW_F_Clothes_Trenchcoat_Spritesheet_0: 9113057308253515767
+      DW_F_Clothes_Trenchcoat_Spritesheet_15: 5866136109743589614
+      DW_F_Clothes_Trenchcoat_Spritesheet_11: 8133729359336012610
+      DW_F_Clothes_Trenchcoat_Spritesheet_14: 4217826895725356730
+      DW_F_Clothes_Trenchcoat_Spritesheet_3: -4942962496514098471
+      DW_F_Clothes_Trenchcoat_Spritesheet_13: -728007511251966353
+      DW_F_Clothes_Trenchcoat_Spritesheet_29: -4033384360320524855
+      DW_F_Clothes_Trenchcoat_Spritesheet_28: 236015008909349631
+      DW_F_Clothes_Trenchcoat_Spritesheet_18: 6036778153295156850
+      DW_F_Clothes_Trenchcoat_Spritesheet_12: 1188086717868935207
+      DW_F_Clothes_Trenchcoat_Spritesheet_25: 2853008016392407448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

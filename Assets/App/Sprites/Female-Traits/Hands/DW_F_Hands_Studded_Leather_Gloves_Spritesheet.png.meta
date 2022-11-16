@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: ee0678d2e28a5a44bbb090180e21b620
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7192974487981634738
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_0
+  - first:
+      213: -8499597601307377936
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_1
+  - first:
+      213: 5114948135612201276
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_2
+  - first:
+      213: -5569389645096183284
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_3
+  - first:
+      213: 2002780232937208625
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_4
+  - first:
+      213: -6726754795662336373
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_5
+  - first:
+      213: -5918972995538162201
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_6
+  - first:
+      213: -753834738794536278
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_7
+  - first:
+      213: 8684138823130458428
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_8
+  - first:
+      213: -6686916572591356479
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_9
+  - first:
+      213: -7101518493721880489
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_10
+  - first:
+      213: -3039966954414033704
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_11
+  - first:
+      213: 1464365196945214979
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_12
+  - first:
+      213: 329960471744761551
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_13
+  - first:
+      213: 1861371247968246407
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_14
+  - first:
+      213: -8678063609898904070
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_15
+  - first:
+      213: -9071375238037084471
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_16
+  - first:
+      213: -3035643604164418098
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_17
+  - first:
+      213: 5498590081785063061
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_18
+  - first:
+      213: -3957810942246576599
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_19
+  - first:
+      213: 5007157866983701147
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_20
+  - first:
+      213: 8571301311889635733
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_21
+  - first:
+      213: 7935882800397988075
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_22
+  - first:
+      213: 8084782879686178373
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_23
+  - first:
+      213: 5200223778209881020
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_24
+  - first:
+      213: -2507098189724595259
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_25
+  - first:
+      213: 995440615334055658
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_26
+  - first:
+      213: -5030650682792841499
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_27
+  - first:
+      213: 3282128141924673751
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_28
+  - first:
+      213: -4537085318638646069
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_29
+  - first:
+      213: -2495404093818832231
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_30
+  - first:
+      213: 8865073639639693130
+    second: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b486d20db6d2c90800000000000000
+      internalID: -7192974487981634738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febf40b30d5b0a80800000000000000
+      internalID: -8499597601307377936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3936bbaa32fbf640800000000000000
+      internalID: 5114948135612201276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a9d4c20ad85b2b0800000000000000
+      internalID: -5569389645096183284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b756bb20e4bcb10800000000000000
+      internalID: 2002780232937208625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e14693724c5a2a0800000000000000
+      internalID: -6726754795662336373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed61ddab659bdda0800000000000000
+      internalID: -5918972995538162201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26dce8c47d985f0800000000000000
+      internalID: -753834738794536278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39aed4cf32448870800000000000000
+      internalID: 8684138823130458428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c505085ecc4333a0800000000000000
+      internalID: -6686916572591356479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75817df2e86527d90800000000000000
+      internalID: -7101518493721880489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b931592edfc5d0800000000000000
+      internalID: -3039966954414033704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4d595368725410800000000000000
+      internalID: 1464365196945214979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce44440d41449400800000000000000
+      internalID: 329960471744761551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad54eb94be4d910800000000000000
+      internalID: 1861371247968246407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55bb90023519780800000000000000
+      internalID: -8678063609898904070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6668088400c1280800000000000000
+      internalID: -9071375238037084471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e71db93a3fd5d0800000000000000
+      internalID: -3035643604164418098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e84eeb8aee4c40800000000000000
+      internalID: 5498590081785063061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1d3bdae70319c0800000000000000
+      internalID: -3957810942246576599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9abddb0d8ffc7540800000000000000
+      internalID: 5007157866983701147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997506612163f670800000000000000
+      internalID: 8571301311889635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bad06c5be12e60800000000000000
+      internalID: 7935882800397988075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546badda13be23070800000000000000
+      internalID: 8084782879686178373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5dbc69f7ea2840800000000000000
+      internalID: 5200223778209881020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc078ca7ff43dd0800000000000000
+      internalID: -2507098189724595259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee8bff27f380dd00800000000000000
+      internalID: 995440615334055658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6e078bd98f2ab0800000000000000
+      internalID: -5030650682792841499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8abb6d7267c8d20800000000000000
+      internalID: 3282128141924673751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc47e2f0f80901c0800000000000000
+      internalID: -4537085318638646069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a7fd8a23b8e5dd0800000000000000
+      internalID: -2495404093818832231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Studded_Leather_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47376e8181170b70800000000000000
+      internalID: 8865073639639693130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_26: 995440615334055658
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_4: 2002780232937208625
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_17: -3035643604164418098
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_25: -2507098189724595259
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_13: 329960471744761551
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_28: 3282128141924673751
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_21: 8571301311889635733
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_5: -6726754795662336373
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_24: 5200223778209881020
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_0: -7192974487981634738
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_19: -3957810942246576599
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_14: 1861371247968246407
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_2: 5114948135612201276
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_8: 8684138823130458428
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_23: 8084782879686178373
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_9: -6686916572591356479
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_27: -5030650682792841499
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_29: -4537085318638646069
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_31: 8865073639639693130
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_18: 5498590081785063061
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_30: -2495404093818832231
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_20: 5007157866983701147
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_3: -5569389645096183284
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_1: -8499597601307377936
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_22: 7935882800397988075
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_7: -753834738794536278
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_6: -5918972995538162201
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_10: -7101518493721880489
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_11: -3039966954414033704
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_16: -9071375238037084471
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_15: -8678063609898904070
+      DW_F_Hands_Studded_Leather_Gloves_Spritesheet_12: 1464365196945214979
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

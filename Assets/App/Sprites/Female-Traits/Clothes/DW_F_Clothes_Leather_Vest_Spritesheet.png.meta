@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: b0d3a27dbbb826a41aaeeda9e5b1fa90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9184527231950351252
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_0
+  - first:
+      213: -3944544052709736102
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_1
+  - first:
+      213: 1328100345789149902
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_2
+  - first:
+      213: -2119006600560571587
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_3
+  - first:
+      213: 2559708650626232212
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_4
+  - first:
+      213: 3687039267068371857
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_5
+  - first:
+      213: -4663164873147122138
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_6
+  - first:
+      213: -5891566421247346633
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_7
+  - first:
+      213: -6684732141180077032
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_8
+  - first:
+      213: -1748224983087437864
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_9
+  - first:
+      213: -6616683925036409151
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_10
+  - first:
+      213: 8450177599665485921
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_11
+  - first:
+      213: 1784632189445840097
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_12
+  - first:
+      213: -8788759722346527696
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_13
+  - first:
+      213: -2826311806987792978
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_14
+  - first:
+      213: 2892318141366167705
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_15
+  - first:
+      213: 8990021451944121868
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_16
+  - first:
+      213: -1595924198614610393
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_17
+  - first:
+      213: -1004173449642264380
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_18
+  - first:
+      213: -8518562887264263701
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_19
+  - first:
+      213: -2623742857510502039
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_20
+  - first:
+      213: 6870845641332463901
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_21
+  - first:
+      213: -8402016531995881420
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_22
+  - first:
+      213: 7912661538288886371
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_23
+  - first:
+      213: -2429475526173689577
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_24
+  - first:
+      213: -3972349357919953007
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_25
+  - first:
+      213: 5983247363054647857
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_26
+  - first:
+      213: 8487336837238994381
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_27
+  - first:
+      213: -6658442372220508834
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_28
+  - first:
+      213: -985143658407461859
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_29
+  - first:
+      213: -5466933793622136021
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_30
+  - first:
+      213: -7750554416812995641
+    second: DW_F_Clothes_Leather_Vest_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6492bde4210a8080800000000000000
+      internalID: -9184527231950351252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514b59451a2249c0800000000000000
+      internalID: -3944544052709736102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f5d85a3c5e6210800000000000000
+      internalID: 1328100345789149902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b01e849b6c792e0800000000000000
+      internalID: -2119006600560571587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2211b479e58320800000000000000
+      internalID: 2559708650626232212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e68abdaefa2330800000000000000
+      internalID: 3687039267068371857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7cfe114c194fb0800000000000000
+      internalID: -4663164873147122138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bee20e83fc3ea0800000000000000
+      internalID: -5891566421247346633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c335ae88f0b33a0800000000000000
+      internalID: -6684732141180077032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72c9fe3ae0db7e0800000000000000
+      internalID: -1748224983087437864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceda21e601dc24a0800000000000000
+      internalID: -6616683925036409151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168360581cf054570800000000000000
+      internalID: 8450177599665485921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec95aa558944c810800000000000000
+      internalID: 1784632189445840097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034464de89d080680800000000000000
+      internalID: -8788759722346527696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0000d26ce6c8d0800000000000000
+      internalID: -2826311806987792978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9986c818604932820800000000000000
+      internalID: 2892318141366167705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06554e11e8f2cc70800000000000000
+      internalID: 8990021451944121868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e402d95632ad9e0800000000000000
+      internalID: -1595924198614610393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b13161957012f0800000000000000
+      internalID: -1004173449642264380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a9c3ff2cf7c980800000000000000
+      internalID: -8518562887264263701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614e14b5c7969bd0800000000000000
+      internalID: -2623742857510502039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19992e15b52a5f50800000000000000
+      internalID: 6870845641332463901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301d6dda7a066b80800000000000000
+      internalID: -8402016531995881420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ea99febb6fcd60800000000000000
+      internalID: 7912661538288886371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71979ef71e4c84ed0800000000000000
+      internalID: -2429475526173689577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1e6d2e416fd8c0800000000000000
+      internalID: -3972349357919953007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3a2ea6c3c80350800000000000000
+      internalID: 5983247363054647857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b7b8b2e319c570800000000000000
+      internalID: 8487336837238994381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55236eb0f57893a0800000000000000
+      internalID: -6658442372220508834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf4ebef011452f0800000000000000
+      internalID: -985143658407461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be2940eac8124b0800000000000000
+      internalID: -5466933793622136021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Leather_Vest_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc68572df707490800000000000000
+      internalID: -7750554416812995641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_Leather_Vest_Spritesheet_26: 5983247363054647857
+      DW_F_Clothes_Leather_Vest_Spritesheet_18: -1004173449642264380
+      DW_F_Clothes_Leather_Vest_Spritesheet_27: 8487336837238994381
+      DW_F_Clothes_Leather_Vest_Spritesheet_1: -3944544052709736102
+      DW_F_Clothes_Leather_Vest_Spritesheet_17: -1595924198614610393
+      DW_F_Clothes_Leather_Vest_Spritesheet_29: -985143658407461859
+      DW_F_Clothes_Leather_Vest_Spritesheet_4: 2559708650626232212
+      DW_F_Clothes_Leather_Vest_Spritesheet_13: -8788759722346527696
+      DW_F_Clothes_Leather_Vest_Spritesheet_7: -5891566421247346633
+      DW_F_Clothes_Leather_Vest_Spritesheet_30: -5466933793622136021
+      DW_F_Clothes_Leather_Vest_Spritesheet_21: 6870845641332463901
+      DW_F_Clothes_Leather_Vest_Spritesheet_23: 7912661538288886371
+      DW_F_Clothes_Leather_Vest_Spritesheet_11: 8450177599665485921
+      DW_F_Clothes_Leather_Vest_Spritesheet_3: -2119006600560571587
+      DW_F_Clothes_Leather_Vest_Spritesheet_25: -3972349357919953007
+      DW_F_Clothes_Leather_Vest_Spritesheet_6: -4663164873147122138
+      DW_F_Clothes_Leather_Vest_Spritesheet_20: -2623742857510502039
+      DW_F_Clothes_Leather_Vest_Spritesheet_0: -9184527231950351252
+      DW_F_Clothes_Leather_Vest_Spritesheet_22: -8402016531995881420
+      DW_F_Clothes_Leather_Vest_Spritesheet_5: 3687039267068371857
+      DW_F_Clothes_Leather_Vest_Spritesheet_14: -2826311806987792978
+      DW_F_Clothes_Leather_Vest_Spritesheet_15: 2892318141366167705
+      DW_F_Clothes_Leather_Vest_Spritesheet_24: -2429475526173689577
+      DW_F_Clothes_Leather_Vest_Spritesheet_19: -8518562887264263701
+      DW_F_Clothes_Leather_Vest_Spritesheet_8: -6684732141180077032
+      DW_F_Clothes_Leather_Vest_Spritesheet_31: -7750554416812995641
+      DW_F_Clothes_Leather_Vest_Spritesheet_2: 1328100345789149902
+      DW_F_Clothes_Leather_Vest_Spritesheet_16: 8990021451944121868
+      DW_F_Clothes_Leather_Vest_Spritesheet_10: -6616683925036409151
+      DW_F_Clothes_Leather_Vest_Spritesheet_28: -6658442372220508834
+      DW_F_Clothes_Leather_Vest_Spritesheet_9: -1748224983087437864
+      DW_F_Clothes_Leather_Vest_Spritesheet_12: 1784632189445840097
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

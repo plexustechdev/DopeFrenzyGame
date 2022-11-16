@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 0d226e7e7adf05741a44f5e483393ff1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6798292336934140987
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_0
+  - first:
+      213: -8484948628294755395
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_1
+  - first:
+      213: 7593945850776539108
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_2
+  - first:
+      213: -4162921461959734208
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_3
+  - first:
+      213: -1341285668550647456
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_4
+  - first:
+      213: 7691139144766040717
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_5
+  - first:
+      213: -2849877592801143870
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_6
+  - first:
+      213: 8161255160960697046
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_7
+  - first:
+      213: 2684513161359222103
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_8
+  - first:
+      213: 7651322033901501859
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_9
+  - first:
+      213: -5210968549623520277
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_10
+  - first:
+      213: -3336959751449847145
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_11
+  - first:
+      213: 6085289271254747931
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_12
+  - first:
+      213: 8551345428499114179
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_13
+  - first:
+      213: 3492767607765032234
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_14
+  - first:
+      213: 8452252173034808599
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_15
+  - first:
+      213: -5819077452959069002
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_16
+  - first:
+      213: 4818042834200108915
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_17
+  - first:
+      213: -539215092227650113
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_18
+  - first:
+      213: 1448675929244258007
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_19
+  - first:
+      213: 6090039077295703098
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_20
+  - first:
+      213: 7486013503425458046
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_21
+  - first:
+      213: -1486259786948320593
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_22
+  - first:
+      213: -8739553464369633038
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_23
+  - first:
+      213: 5262656979324493887
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_24
+  - first:
+      213: -207254208715444191
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_25
+  - first:
+      213: 1231574070121137339
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_26
+  - first:
+      213: -4975249210533018567
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_27
+  - first:
+      213: -7549002698543523447
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_28
+  - first:
+      213: 3498459203531608200
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_29
+  - first:
+      213: -4636831645167410394
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_30
+  - first:
+      213: -9119380788610014544
+    second: DW_F_Waist_Pistol_Holster_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c383e8cd2685e50800000000000000
+      internalID: 6798292336934140987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb9d018d286f3a80800000000000000
+      internalID: -8484948628294755395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef461f448d136960800000000000000
+      internalID: 7593945850776539108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c4a088cf45a36c0800000000000000
+      internalID: -4162921461959734208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06167b77acbc26de0800000000000000
+      internalID: -1341285668550647456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa1e18d4a6cba60800000000000000
+      internalID: 7691139144766040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c31ebbbd633378d0800000000000000
+      internalID: -2849877592801143870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c266245a924170800000000000000
+      internalID: 8161255160960697046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556da14f7e414520800000000000000
+      internalID: 2684513161359222103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad71d4f9d4fe2a60800000000000000
+      internalID: 7651322033901501859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be325f786bbeea7b0800000000000000
+      internalID: -5210968549623520277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a5e0939ccb0b1d0800000000000000
+      internalID: -3336959751449847145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b82a8d95a437450800000000000000
+      internalID: 6085289271254747931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a9593c5b7ca670800000000000000
+      internalID: 8551345428499114179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d53df32adc87030800000000000000
+      internalID: 3492767607765032234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71563c5c19e6c4570800000000000000
+      internalID: 8452252173034808599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc3e723eb7e3fa0800000000000000
+      internalID: -5819077452959069002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1d1d3e602dd240800000000000000
+      internalID: 4818042834200108915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdcd320bb25488f0800000000000000
+      internalID: -539215092227650113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de434d051bba1410800000000000000
+      internalID: 1448675929244258007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34457e364a248450800000000000000
+      internalID: 6090039077295703098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa3776e99a3e760800000000000000
+      internalID: 7486013503425458046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26ffa299ebf5be0800000000000000
+      internalID: -1486259786948320593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a6b4ad6ed6b680800000000000000
+      internalID: -8739553464369633038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ed53d3a6b80940800000000000000
+      internalID: 5262656979324493887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120bf4f256faf1df0800000000000000
+      internalID: -207254208715444191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40724771e671110800000000000000
+      internalID: 1231574070121137339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340329f33d54fab0800000000000000
+      internalID: -4975249210533018567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98919d0ca0e8c3790800000000000000
+      internalID: -7549002698543523447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88092b72c160d8030800000000000000
+      internalID: 3498459203531608200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a18a8f2aa6afb0800000000000000
+      internalID: -4636831645167410394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Waist_Pistol_Holster_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e0634d73717180800000000000000
+      internalID: -9119380788610014544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Waist_Pistol_Holster_Spritesheet_9: 7651322033901501859
+      DW_F_Waist_Pistol_Holster_Spritesheet_10: -5210968549623520277
+      DW_F_Waist_Pistol_Holster_Spritesheet_14: 3492767607765032234
+      DW_F_Waist_Pistol_Holster_Spritesheet_16: -5819077452959069002
+      DW_F_Waist_Pistol_Holster_Spritesheet_18: -539215092227650113
+      DW_F_Waist_Pistol_Holster_Spritesheet_7: 8161255160960697046
+      DW_F_Waist_Pistol_Holster_Spritesheet_12: 6085289271254747931
+      DW_F_Waist_Pistol_Holster_Spritesheet_19: 1448675929244258007
+      DW_F_Waist_Pistol_Holster_Spritesheet_22: -1486259786948320593
+      DW_F_Waist_Pistol_Holster_Spritesheet_28: -7549002698543523447
+      DW_F_Waist_Pistol_Holster_Spritesheet_4: -1341285668550647456
+      DW_F_Waist_Pistol_Holster_Spritesheet_29: 3498459203531608200
+      DW_F_Waist_Pistol_Holster_Spritesheet_21: 7486013503425458046
+      DW_F_Waist_Pistol_Holster_Spritesheet_24: 5262656979324493887
+      DW_F_Waist_Pistol_Holster_Spritesheet_13: 8551345428499114179
+      DW_F_Waist_Pistol_Holster_Spritesheet_2: 7593945850776539108
+      DW_F_Waist_Pistol_Holster_Spritesheet_5: 7691139144766040717
+      DW_F_Waist_Pistol_Holster_Spritesheet_8: 2684513161359222103
+      DW_F_Waist_Pistol_Holster_Spritesheet_25: -207254208715444191
+      DW_F_Waist_Pistol_Holster_Spritesheet_23: -8739553464369633038
+      DW_F_Waist_Pistol_Holster_Spritesheet_26: 1231574070121137339
+      DW_F_Waist_Pistol_Holster_Spritesheet_30: -4636831645167410394
+      DW_F_Waist_Pistol_Holster_Spritesheet_6: -2849877592801143870
+      DW_F_Waist_Pistol_Holster_Spritesheet_17: 4818042834200108915
+      DW_F_Waist_Pistol_Holster_Spritesheet_31: -9119380788610014544
+      DW_F_Waist_Pistol_Holster_Spritesheet_27: -4975249210533018567
+      DW_F_Waist_Pistol_Holster_Spritesheet_11: -3336959751449847145
+      DW_F_Waist_Pistol_Holster_Spritesheet_15: 8452252173034808599
+      DW_F_Waist_Pistol_Holster_Spritesheet_3: -4162921461959734208
+      DW_F_Waist_Pistol_Holster_Spritesheet_0: 6798292336934140987
+      DW_F_Waist_Pistol_Holster_Spritesheet_1: -8484948628294755395
+      DW_F_Waist_Pistol_Holster_Spritesheet_20: 6090039077295703098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

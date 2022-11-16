@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: c2045f99f9c06b340b6574ee5426b7e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10663ba79b05c8418d4bdf4cd346cd6
+      internalID: 831107312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd2044b04c766448718a1f8ef7ff2e
+      internalID: -489284512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b755095cc7557c4ab1ec3ea5ce019ca
+      internalID: 962045921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eadf35194d4d94d845ce3822befd15
+      internalID: -2103435661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcea163f273be348ba7dc4e09981296
+      internalID: 820077050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8221f0b8fb31f644b5027bd643ca1ce
+      internalID: -1194858615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37799099bcc8b224ab7d361c36796009
+      internalID: 1989221693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6013e495497f6044f900c9725cbd292e
+      internalID: -1791900052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636e084ca03bb744a2300dd8274db4f
+      internalID: 1104343268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42c407c847c1b46a749ba408672115
+      internalID: -631786719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db96b1011165d4479f2a7ebffe4d8aa
+      internalID: 1393643400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60213f02a55db408b21ad8bbf1ac34
+      internalID: 823835881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab5af76f30352459367e479a2c8f62
+      internalID: 1015242541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1b2ba829d24b49a3078d7377f2278
+      internalID: 837904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745908a0bdb6b14dad1fbcb99690824
+      internalID: -1504678958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7795044023b73f47acba2e32fa19c46
+      internalID: -1471258725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be1c582b5a59ad4e875602d59cd229e
+      internalID: 2146292086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cbe5697fec160479481cf801a01376
+      internalID: -2035753241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423e640c3ff7314e9cdeb948913a18d
+      internalID: -700936410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9effac591e8144bce25cf43315468
+      internalID: 1810589331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72806f65fa3fe479fe8c5d05b419b9
+      internalID: 1503424499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576faf44eb82d284ea7ceadd53c6bd29
+      internalID: -256758916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec27a0755a5beb4b91644c387868157
+      internalID: 184689256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1fc400e161ee642adbc2adc64c26c2
+      internalID: 1187215171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f3ac3aa61eda84996cd1f274555c45
+      internalID: -1092248497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b16aa0a4bc6bf4dbe99977df714137
+      internalID: 1275211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Anim_Vehicle_side_Damaged_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc4621e78a7eb40b94f291146ce1e8
+      internalID: 444160424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_Anim_Vehicle_side_Damaged_4: 820077050
+      RC_DF_Anim_Vehicle_side_Damaged_13: 837904506
+      RC_DF_Anim_Vehicle_side_Damaged_24: -1092248497
+      RC_DF_Anim_Vehicle_side_Damaged_7: -1791900052
+      RC_DF_Anim_Vehicle_side_Damaged_23: 1187215171
+      RC_DF_Anim_Vehicle_side_Damaged_18: -700936410
+      RC_DF_Anim_Vehicle_side_Damaged_12: 1015242541
+      RC_DF_Anim_Vehicle_side_Damaged_19: 1810589331
+      RC_DF_Anim_Vehicle_side_Damaged_9: -631786719
+      RC_DF_Anim_Vehicle_side_Damaged_14: -1504678958
+      RC_DF_Anim_Vehicle_side_Damaged_6: 1989221693
+      RC_DF_Anim_Vehicle_side_Damaged_3: -2103435661
+      RC_DF_Anim_Vehicle_side_Damaged_16: 2146292086
+      RC_DF_Anim_Vehicle_side_Damaged_22: 184689256
+      RC_DF_Anim_Vehicle_side_Damaged_0: 831107312
+      RC_DF_Anim_Vehicle_side_Damaged_5: -1194858615
+      RC_DF_Anim_Vehicle_side_Damaged_2: 962045921
+      RC_DF_Anim_Vehicle_side_Damaged_20: 1503424499
+      RC_DF_Anim_Vehicle_side_Damaged_26: 444160424
+      RC_DF_Anim_Vehicle_side_Damaged_17: -2035753241
+      RC_DF_Anim_Vehicle_side_Damaged_15: -1471258725
+      RC_DF_Anim_Vehicle_side_Damaged_11: 823835881
+      RC_DF_Anim_Vehicle_side_Damaged_1: -489284512
+      RC_DF_Anim_Vehicle_side_Damaged_25: 1275211944
+      RC_DF_Anim_Vehicle_side_Damaged_10: 1393643400
+      RC_DF_Anim_Vehicle_side_Damaged_21: -256758916
+      RC_DF_Anim_Vehicle_side_Damaged_8: 1104343268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

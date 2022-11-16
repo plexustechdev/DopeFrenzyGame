@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 747ac576596679f4ab1da7e663a1151d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 848756874021235248
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_0
+  - first:
+      213: 5596401515708681184
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_1
+  - first:
+      213: 4634944705227747155
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_2
+  - first:
+      213: -856054453452512284
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_3
+  - first:
+      213: -9055375153754788656
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_4
+  - first:
+      213: 2937510291372631717
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_5
+  - first:
+      213: -8497130841341114740
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_6
+  - first:
+      213: -8894794107105251473
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_7
+  - first:
+      213: -3368533546477478628
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_8
+  - first:
+      213: -6427075572398563001
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_9
+  - first:
+      213: -728159326670158852
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_10
+  - first:
+      213: -7420526444523150226
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_11
+  - first:
+      213: -5962246699383853973
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_12
+  - first:
+      213: 8870302733834597358
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_13
+  - first:
+      213: 2837397794891638828
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_14
+  - first:
+      213: 1495813834630125318
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_15
+  - first:
+      213: 1228460020384143698
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_16
+  - first:
+      213: -6987918054304690184
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_17
+  - first:
+      213: 1284437408948762001
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_18
+  - first:
+      213: 2902441592395499829
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_19
+  - first:
+      213: -8456861796790657074
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_20
+  - first:
+      213: -5250895538653067065
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_21
+  - first:
+      213: 4856936120720679120
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_22
+  - first:
+      213: 8220662934031548943
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_23
+  - first:
+      213: 1970620509005145417
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_24
+  - first:
+      213: -2657662223348869049
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_25
+  - first:
+      213: 7386011517927562424
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_26
+  - first:
+      213: -2067071208955518197
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_27
+  - first:
+      213: -3713715077319219090
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_28
+  - first:
+      213: 1987205582402627230
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_29
+  - first:
+      213: 5043869887462549730
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_30
+  - first:
+      213: 8615882184552319415
+    second: DW_F_Clothes_White_Hoodie_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae4b841e367cb00800000000000000
+      internalID: 848756874021235248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb064c07896aad40800000000000000
+      internalID: 5596401515708681184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6da407a1a25040800000000000000
+      internalID: 4634944705227747155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36299920fae14f0800000000000000
+      internalID: -856054453452512284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2c8c6648d45280800000000000000
+      internalID: -9055375153754788656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e151eb0224c820800000000000000
+      internalID: 2937510291372631717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86c8dff480241a80800000000000000
+      internalID: -8497130841341114740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe0cfd2e75f8480800000000000000
+      internalID: -8894794107105251473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d193436909041d0800000000000000
+      internalID: -3368533546477478628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e79aa1d07ec6a0800000000000000
+      internalID: -6427075572398563001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf300f943fe05e5f0800000000000000
+      internalID: -728159326670158852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642ecba38ef40990800000000000000
+      internalID: -7420526444523150226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ceafb5738d14da0800000000000000
+      internalID: -5962246699383853973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3336ce655a91b70800000000000000
+      internalID: 8870302733834597358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282ef2e246706720800000000000000
+      internalID: 2837397794891638828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075e37e1c232c410800000000000000
+      internalID: 1495813834630125318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25914cf31ed5c0110800000000000000
+      internalID: 1228460020384143698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff41ad9d8de50f90800000000000000
+      internalID: -6987918054304690184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953d98a40d33d110800000000000000
+      internalID: 1284437408948762001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398d00204b874820800000000000000
+      internalID: 2902441592395499829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf98bf800133aa80800000000000000
+      internalID: -8456861796790657074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c886e9f3521127b0800000000000000
+      internalID: -5250895538653067065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e15c2bad476340800000000000000
+      internalID: 4856936120720679120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02cb213269a51270800000000000000
+      internalID: 8220662934031548943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e95289ec095b10800000000000000
+      internalID: 1970620509005145417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d05ce9461e1bd0800000000000000
+      internalID: -2657662223348869049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1401c752608660800000000000000
+      internalID: 7386011517927562424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e4c0ffa94053e0800000000000000
+      internalID: -2067071208955518197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68206330db367cc0800000000000000
+      internalID: -3713715077319219090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9628c2d2f8f39b10800000000000000
+      internalID: 1987205582402627230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ae7760fc6ff540800000000000000
+      internalID: 5043869887462549730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Hoodie_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98bdca233c19770800000000000000
+      internalID: 8615882184552319415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_White_Hoodie_Spritesheet_31: 8615882184552319415
+      DW_F_Clothes_White_Hoodie_Spritesheet_24: 1970620509005145417
+      DW_F_Clothes_White_Hoodie_Spritesheet_18: 1284437408948762001
+      DW_F_Clothes_White_Hoodie_Spritesheet_14: 2837397794891638828
+      DW_F_Clothes_White_Hoodie_Spritesheet_3: -856054453452512284
+      DW_F_Clothes_White_Hoodie_Spritesheet_5: 2937510291372631717
+      DW_F_Clothes_White_Hoodie_Spritesheet_12: -5962246699383853973
+      DW_F_Clothes_White_Hoodie_Spritesheet_27: -2067071208955518197
+      DW_F_Clothes_White_Hoodie_Spritesheet_16: 1228460020384143698
+      DW_F_Clothes_White_Hoodie_Spritesheet_19: 2902441592395499829
+      DW_F_Clothes_White_Hoodie_Spritesheet_28: -3713715077319219090
+      DW_F_Clothes_White_Hoodie_Spritesheet_15: 1495813834630125318
+      DW_F_Clothes_White_Hoodie_Spritesheet_21: -5250895538653067065
+      DW_F_Clothes_White_Hoodie_Spritesheet_1: 5596401515708681184
+      DW_F_Clothes_White_Hoodie_Spritesheet_30: 5043869887462549730
+      DW_F_Clothes_White_Hoodie_Spritesheet_0: 848756874021235248
+      DW_F_Clothes_White_Hoodie_Spritesheet_4: -9055375153754788656
+      DW_F_Clothes_White_Hoodie_Spritesheet_7: -8894794107105251473
+      DW_F_Clothes_White_Hoodie_Spritesheet_29: 1987205582402627230
+      DW_F_Clothes_White_Hoodie_Spritesheet_11: -7420526444523150226
+      DW_F_Clothes_White_Hoodie_Spritesheet_10: -728159326670158852
+      DW_F_Clothes_White_Hoodie_Spritesheet_2: 4634944705227747155
+      DW_F_Clothes_White_Hoodie_Spritesheet_20: -8456861796790657074
+      DW_F_Clothes_White_Hoodie_Spritesheet_13: 8870302733834597358
+      DW_F_Clothes_White_Hoodie_Spritesheet_6: -8497130841341114740
+      DW_F_Clothes_White_Hoodie_Spritesheet_17: -6987918054304690184
+      DW_F_Clothes_White_Hoodie_Spritesheet_22: 4856936120720679120
+      DW_F_Clothes_White_Hoodie_Spritesheet_25: -2657662223348869049
+      DW_F_Clothes_White_Hoodie_Spritesheet_8: -3368533546477478628
+      DW_F_Clothes_White_Hoodie_Spritesheet_9: -6427075572398563001
+      DW_F_Clothes_White_Hoodie_Spritesheet_26: 7386011517927562424
+      DW_F_Clothes_White_Hoodie_Spritesheet_23: 8220662934031548943
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

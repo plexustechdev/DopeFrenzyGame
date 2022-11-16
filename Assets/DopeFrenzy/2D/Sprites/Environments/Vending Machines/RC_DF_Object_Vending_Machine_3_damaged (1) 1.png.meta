@@ -1,0 +1,3666 @@
+fileFormatVersion: 2
+guid: 34efae4e9ad9a1e41830580d340f29d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f06b2badb8fc944b574a1a36105891
+      internalID: 1452637739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1c5de9de7d6544b532f0acf6d6b00
+      internalID: -366007360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134d14defa120f4d91254876fd32b96
+      internalID: 913724413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d43764b4a1ca44a46bc6cd65d66da
+      internalID: -1582081122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2329c656d06284db403d1012ccd218
+      internalID: 1970210403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e6564fcc1ee94ab13c5688e985b51
+      internalID: -1682627779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f650851b6e494c241b23d89f050914b3
+      internalID: 848088608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f67bca49d6a14543b6f5ff471c987ef
+      internalID: -1726405930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa45967e1f505ab4baf3806741578a97
+      internalID: -2003211431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b06b56ab8b234e973a2af9280042b
+      internalID: 644946827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f92cab5d6941148b0d72c944b1875f
+      internalID: 1466661824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc4c934858e2d428d934867e3c247d
+      internalID: 1207413636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e4ab60447af24ea371a619aef3ed9
+      internalID: -1850837397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe455847f7da06438deab4ed178ec05
+      internalID: 881797782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc91c9d59a0b824d80c16820f81cfaf
+      internalID: -476243531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc032b3d113db941975a5bda60befc3
+      internalID: 381477654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084a2e14e184311478e3a1abe4cf51bf
+      internalID: -790755005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6172d8622a2805042ba76ac3acea9f38
+      internalID: -166489364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887e07057da2bb499ef8e9d46b6c782
+      internalID: -1587617788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440f3292d1718149b4a4dc59d4dc75c
+      internalID: 44169370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e81328de8095af49911184e622831fc
+      internalID: -17133697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0417cca1fb63e144a9985291b66380e3
+      internalID: -642269378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd1c3224c5faf24bbd93738ab0c90f7
+      internalID: -865712782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551b5c55c85d5a47874d0c2aac5cc02
+      internalID: -1973276150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332e61b541b66247889f4f26ee87e54
+      internalID: -1975004265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08b126d8b724640bc6a65d02c44849
+      internalID: 266842768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63861ff656e3f34ea662bc50245286f
+      internalID: 1114082803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe01435478e67434fb18fb011db25ab6
+      internalID: -219102146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a3affcaf153345bb8a4cbc5c5ad83
+      internalID: 559018849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73989ab1c37ab7249b83b2e88dde8f61
+      internalID: 2124586834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22d461bf89c4b4ca7f301085439b27
+      internalID: 1989246446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3000
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a63268192068f848809635cea325ec5
+      internalID: 1670413218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3000
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1214334be90a499e85041016ef835
+      internalID: -1765891317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3000
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ea353caa791f45ac89ce5450dcf6a
+      internalID: 582366204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3000
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1920ad6151b444b514fb4ca172465
+      internalID: 195188897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe6343d84239b44793a8dacad6a5945
+      internalID: -1056372136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01650c52a9a9743af695121767ce92
+      internalID: -2009645923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5e6823113cb942856b223c32b8952
+      internalID: 1993974741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c0aa31a0629b4cb132d1500e9ec50
+      internalID: -1662633268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fba46d92bc38488db126d8c138456
+      internalID: 104223160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c39818058d7e54d976bbee51ee93ca
+      internalID: -1146423333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2230f5cef46ca64dbae6221317f192c
+      internalID: -1086905421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb9490be6570344a08a2094f8a5057
+      internalID: -1276809893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fed6c91121a074794e0c771d372ac5
+      internalID: -574324893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2fa3bbf421054e8beb39c3b8b20ec
+      internalID: 270409995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1dec726f1d0c4eacb736a6594a643
+      internalID: -2014867349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a405a3f4a98445995adbd715e4469
+      internalID: -2029863748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8bb82da56b5a4cbcb0423b2d8021a
+      internalID: -1381118139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9035114547a548a26ec93db092b64
+      internalID: -1420527439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b993aa68204f6d498d3be1f5e790ea3
+      internalID: 262574196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740c4c10dd108e4e996a2897cbe4296
+      internalID: 353604435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213836ca3384b0943a0fc43de3ca7d5b
+      internalID: 904812752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb4050af0694c448903de62cbd2fb5
+      internalID: -432148411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724d855241cbdd408b134d424aa8597
+      internalID: -1061829605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c2a09efca19e4d85e21f0fa1a6a4c
+      internalID: 986343092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fab632ca80194d8d60ef20d6cbf14
+      internalID: -1096680924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc05bea05ca10499ef4964d90d13e8
+      internalID: -581642020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522becafac0726f4ab14fd9fc6f74df3
+      internalID: 1927687037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6d85a48f00654e9d9974f03c17a8e
+      internalID: -497931303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf9dc8def7da746993f68d56824734
+      internalID: -1466901297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb951ef4c604f4b4bb82102ec787f925
+      internalID: -833905949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce145a79deadf3442b6bc410165e7455
+      internalID: 1622617026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c7ef2135555f4f8b2f32ccae91d1f
+      internalID: -1039791257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e8067aea24b240a7a5c0ff4b29f12
+      internalID: 1667567181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e288e33a9dc7884409ffd2f0ceead4c0
+      internalID: 1171308891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c420835e53e747b776c9e3782a052
+      internalID: -1491608523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e507a8dfe757044a3aab15f7c9d3e0
+      internalID: -2109490902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9f8061bd4d3a4f994b8f872dd3682
+      internalID: -2111005077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3240cc8fc8d964bb35de10752f36fd
+      internalID: 1293165776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0bbfc2772121478c17e456cef27c8
+      internalID: -1035574160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ef1ec5283eb44496c3116b3762ab5
+      internalID: -121687083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2040
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdecc4509fa7d746911f63fd2c3d291
+      internalID: 62774117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2040
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe85dd508d60ea47a4ba669fb7239ac
+      internalID: 670468042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2040
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa7080d3f963224d800332ec7168fc2
+      internalID: 34754537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2040
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ec31f8f21bff4d9bbca83f91b1a48
+      internalID: -345943590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc1d362499ac404b98f904eff0da853
+      internalID: 1579290345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1920
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3750e47f22e00b42a40ce975422b8d4
+      internalID: -727208604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308a037f85748b46ad2f92ae9b203a9
+      internalID: -2144040960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1920
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df5a84fdcf79845b4e21526b57c13c
+      internalID: -361416097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1110ee85076444aa5ec59b614a63c1
+      internalID: 1881052617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211779e5fef11064fa9ad0bc116c5270
+      internalID: -1023541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1800
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50fc389b5c9d4458bef92e08af2eb3
+      internalID: 836121228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1800
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e96f6612bcc4548adb22ce006de49a
+      internalID: -282285258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd09a498ee74749ab1a6c817e68070
+      internalID: 880551058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1800
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590fae6d1c086246a3933060475af14
+      internalID: -784860488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b30a1a9dfcef4f823e2f70d97b4ee
+      internalID: -840419174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613321dc22f8bd4587e1337b74cec1c
+      internalID: -1259120272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d57020b8643f4fb2cd3f33150557b
+      internalID: 1243646931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75dc1e1cd3565246aebdbf3ca5df490
+      internalID: 835240284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13225a6797c0a124baabda86af1bd09a
+      internalID: 546594537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591f3c9fe80ec441919a142bde20ce7
+      internalID: 1765463457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95606251ae8852d45b8438cd0583efa2
+      internalID: 225664078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99aa190e4923c4e8910029f723246e
+      internalID: 572780473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5e546fc99bf24d85af9f1a2ede872
+      internalID: -654551001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665277a27a41be4ba41bb1114e8fb0c
+      internalID: 1091390194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828ed9d1011db94bb684ded6c72ce31
+      internalID: -1933969219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee389b5bbc1044896d24fb8c5660b0
+      internalID: -1286122621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48a8c137c78d54892ce57eb214764b
+      internalID: -1227210544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc640db415d4345a46a196b4e39247
+      internalID: 859261660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02840fbad81e44fbc352c9369ed834
+      internalID: 352775940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdebdaab2d3da24ea105df0a2ea396b
+      internalID: 330916114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed175918206edb4d9472c593456d906
+      internalID: 19310903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230d76fdfaa9e14ead082e4464b4c1a
+      internalID: -1066709908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fbb443e7352254eb44dce5340c18a3
+      internalID: -1275443747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1452d1f92f8256340a7ee910a1e5fb96
+      internalID: 1874270317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3182f8d14b0b01478c728cf56a3800e
+      internalID: -1451617421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66425a34d94d415409b7c920499cb855
+      internalID: -742364337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ba0b9f02b605b44b11e2526e3821b8
+      internalID: -305333678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330e959514ea02459412a347b273a73
+      internalID: 695239638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5b21027befd84c9a03502b39fd60c
+      internalID: -1401358906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0685b8d0f7312a4a99cd81b01eda8d9
+      internalID: -778580935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981a86f03478ac47baf9f1b0cb39893
+      internalID: 1127415469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8fab96a38c97543804c23a5027e61a
+      internalID: 1068709686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337162fc48361554897410326684a208
+      internalID: -911898811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a4cf989b2e5c49881a47b603346b4
+      internalID: -2137958674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19771359e75ca4ba4608efd5834bb3
+      internalID: -1842581365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe84166068494e04ba0ec8e4482f8389
+      internalID: 1593839302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d2c9c1ba6c6c48ba32b945ccd00d8
+      internalID: -691916957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ced3556f8d73942bc76298375fe882
+      internalID: 1214090050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298726d48cf963742b3e2e6779785c82
+      internalID: -1982643585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5fbab3a56b54b43b85faf1d4414497
+      internalID: -2096341901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f086c085f2e5b4a867bf2b72904926
+      internalID: 353320817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a86b9c5a72f6a49a7e371a80d3ee2c
+      internalID: 2057559693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e0a764e278ee142af5419cbf510ad2
+      internalID: -1999805668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23434fd63b1c6e47b89dd0ec6144478
+      internalID: -100768616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f182591133ea8644a1d72964736befa
+      internalID: 1341333775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0a772491b75345bf202ae57bd6fa1
+      internalID: -942218639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35476a492d218418b6279bbfd2599c
+      internalID: -1492741329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fd689423efab148886bc4b133fcdaf
+      internalID: 2097648098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616dad02965f9d428cc91686800e156
+      internalID: -1153827956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d737361736be049bd2bc16d1256778
+      internalID: -846306510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4614d257aab346a78c8be5b1a8538
+      internalID: -1290927602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee78c124900a2488117c77b26dbc77
+      internalID: -1601608975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94415997704fdcb4691a99a07a083653
+      internalID: 1103030987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179553876bde884280a129e278b5cf9
+      internalID: 1098852960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7448714eac4b74292f7ba276d08a0d
+      internalID: 1001405342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c32a920859bd64f8a541a3709d2374
+      internalID: 1112117416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959863c7b02dce943a1d69f3cef6774c
+      internalID: 499584125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac0eb7c98dda3348b52cc28d6702ee6
+      internalID: 405457862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_139
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6f9dcb75e7bb04f9e3942b362c1ddd
+      internalID: 720691409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c293877da29249a8c3de492fe7168
+      internalID: 525615561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384b284f4d19fa4d9658abd11204958
+      internalID: -600566693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184cf53be22ff4e4baf18e54cf1d550e
+      internalID: -155429632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01a3e8f9ebb5e49aedef19701658a1
+      internalID: -1482558747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0540c40af443db45b47fee3ac3a104e
+      internalID: 1556721027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb5654c44513045aa0843c9ebd6209
+      internalID: -1859443617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60e3e2820fb29449d6ac9da5626c82
+      internalID: -274363325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abf48e69683dd428903a50abd082c5
+      internalID: -967528263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e47f6965a08c42a6e810f8ce7b569
+      internalID: 1160402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c111f256d44c4b8809e1ad9dd5643
+      internalID: 1938341679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b873393c0e30d49a7f1843f38a819c
+      internalID: -2011654458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_151
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704bec7f71045dd4c96ded793a1d909a
+      internalID: 1634307171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef40e707f06ae64ca14ac14d36d9166
+      internalID: 1066846192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_153
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fcd25e9cb1f549b4f5122498c216b
+      internalID: 1231947887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e12c035b250c489de4eea1e7c58b1
+      internalID: 1041605130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9add568f9a96724b8c48c2b764fa093
+      internalID: -1663767779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e7ac35d05c0740a8b144ac2ad99a2
+      internalID: 290668923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a577319482f41a84ca7ff35b0e0b0820
+      internalID: -72174938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_158
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60484a22f4d1f0449787b10a5abd0c5
+      internalID: 1426557231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_Object_Vending_Machine_3_damaged (1)_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75adcf6b0a1504bbd0bb0df2b8eba8
+      internalID: -158612447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_Object_Vending_Machine_3_damaged (1)_125: 1341333775
+      RC_DF_Object_Vending_Machine_3_damaged (1)_64: 1171308891
+      RC_DF_Object_Vending_Machine_3_damaged (1)_137: 499584125
+      RC_DF_Object_Vending_Machine_3_damaged (1)_41: -1086905421
+      RC_DF_Object_Vending_Machine_3_damaged (1)_101: 19310903
+      RC_DF_Object_Vending_Machine_3_damaged (1)_56: -581642020
+      RC_DF_Object_Vending_Machine_3_damaged (1)_19: 44169370
+      RC_DF_Object_Vending_Machine_3_damaged (1)_145: -1859443617
+      RC_DF_Object_Vending_Machine_3_damaged (1)_113: -911898811
+      RC_DF_Object_Vending_Machine_3_damaged (1)_118: 1214090050
+      RC_DF_Object_Vending_Machine_3_damaged (1)_99: 352775940
+      RC_DF_Object_Vending_Machine_3_damaged (1)_66: -2109490902
+      RC_DF_Object_Vending_Machine_3_damaged (1)_6: 848088608
+      RC_DF_Object_Vending_Machine_3_damaged (1)_57: 1927687037
+      RC_DF_Object_Vending_Machine_3_damaged (1)_79: 1881052617
+      RC_DF_Object_Vending_Machine_3_damaged (1)_32: -1765891317
+      RC_DF_Object_Vending_Machine_3_damaged (1)_112: 1068709686
+      RC_DF_Object_Vending_Machine_3_damaged (1)_65: -1491608523
+      RC_DF_Object_Vending_Machine_3_damaged (1)_131: -1290927602
+      RC_DF_Object_Vending_Machine_3_damaged (1)_73: 34754537
+      RC_DF_Object_Vending_Machine_3_damaged (1)_36: -2009645923
+      RC_DF_Object_Vending_Machine_3_damaged (1)_47: -1381118139
+      RC_DF_Object_Vending_Machine_3_damaged (1)_55: -1096680924
+      RC_DF_Object_Vending_Machine_3_damaged (1)_5: -1682627779
+      RC_DF_Object_Vending_Machine_3_damaged (1)_152: 1066846192
+      RC_DF_Object_Vending_Machine_3_damaged (1)_81: 836121228
+      RC_DF_Object_Vending_Machine_3_damaged (1)_51: 904812752
+      RC_DF_Object_Vending_Machine_3_damaged (1)_61: 1622617026
+      RC_DF_Object_Vending_Machine_3_damaged (1)_77: -2144040960
+      RC_DF_Object_Vending_Machine_3_damaged (1)_28: 559018849
+      RC_DF_Object_Vending_Machine_3_damaged (1)_54: 986343092
+      RC_DF_Object_Vending_Machine_3_damaged (1)_49: 262574196
+      RC_DF_Object_Vending_Machine_3_damaged (1)_89: 546594537
+      RC_DF_Object_Vending_Machine_3_damaged (1)_60: -833905949
+      RC_DF_Object_Vending_Machine_3_damaged (1)_84: -784860488
+      RC_DF_Object_Vending_Machine_3_damaged (1)_85: -840419174
+      RC_DF_Object_Vending_Machine_3_damaged (1)_53: -1061829605
+      RC_DF_Object_Vending_Machine_3_damaged (1)_106: -742364337
+      RC_DF_Object_Vending_Machine_3_damaged (1)_105: -1451617421
+      RC_DF_Object_Vending_Machine_3_damaged (1)_114: -2137958674
+      RC_DF_Object_Vending_Machine_3_damaged (1)_116: 1593839302
+      RC_DF_Object_Vending_Machine_3_damaged (1)_134: 1098852960
+      RC_DF_Object_Vending_Machine_3_damaged (1)_68: 1293165776
+      RC_DF_Object_Vending_Machine_3_damaged (1)_97: -1227210544
+      RC_DF_Object_Vending_Machine_3_damaged (1)_45: -2014867349
+      RC_DF_Object_Vending_Machine_3_damaged (1)_102: -1066709908
+      RC_DF_Object_Vending_Machine_3_damaged (1)_122: 2057559693
+      RC_DF_Object_Vending_Machine_3_damaged (1)_16: -790755005
+      RC_DF_Object_Vending_Machine_3_damaged (1)_50: 353604435
+      RC_DF_Object_Vending_Machine_3_damaged (1)_119: -1982643585
+      RC_DF_Object_Vending_Machine_3_damaged (1)_109: -1401358906
+      RC_DF_Object_Vending_Machine_3_damaged (1)_100: 330916114
+      RC_DF_Object_Vending_Machine_3_damaged (1)_121: 353320817
+      RC_DF_Object_Vending_Machine_3_damaged (1)_33: 582366204
+      RC_DF_Object_Vending_Machine_3_damaged (1)_147: -967528263
+      RC_DF_Object_Vending_Machine_3_damaged (1)_108: 695239638
+      RC_DF_Object_Vending_Machine_3_damaged (1)_34: 195188897
+      RC_DF_Object_Vending_Machine_3_damaged (1)_87: 1243646931
+      RC_DF_Object_Vending_Machine_3_damaged (1)_159: -158612447
+      RC_DF_Object_Vending_Machine_3_damaged (1)_149: 1938341679
+      RC_DF_Object_Vending_Machine_3_damaged (1)_156: 290668923
+      RC_DF_Object_Vending_Machine_3_damaged (1)_40: -1146423333
+      RC_DF_Object_Vending_Machine_3_damaged (1)_24: -1975004265
+      RC_DF_Object_Vending_Machine_3_damaged (1)_135: 1001405342
+      RC_DF_Object_Vending_Machine_3_damaged (1)_1: -366007360
+      RC_DF_Object_Vending_Machine_3_damaged (1)_74: -345943590
+      RC_DF_Object_Vending_Machine_3_damaged (1)_75: 1579290345
+      RC_DF_Object_Vending_Machine_3_damaged (1)_25: 266842768
+      RC_DF_Object_Vending_Machine_3_damaged (1)_52: -432148411
+      RC_DF_Object_Vending_Machine_3_damaged (1)_104: 1874270317
+      RC_DF_Object_Vending_Machine_3_damaged (1)_143: -1482558747
+      RC_DF_Object_Vending_Machine_3_damaged (1)_140: 525615561
+      RC_DF_Object_Vending_Machine_3_damaged (1)_62: -1039791257
+      RC_DF_Object_Vending_Machine_3_damaged (1)_103: -1275443747
+      RC_DF_Object_Vending_Machine_3_damaged (1)_30: 1989246446
+      RC_DF_Object_Vending_Machine_3_damaged (1)_130: -846306510
+      RC_DF_Object_Vending_Machine_3_damaged (1)_8: -2003211431
+      RC_DF_Object_Vending_Machine_3_damaged (1)_94: 1091390194
+      RC_DF_Object_Vending_Machine_3_damaged (1)_93: -654551001
+      RC_DF_Object_Vending_Machine_3_damaged (1)_158: 1426557231
+      RC_DF_Object_Vending_Machine_3_damaged (1)_22: -865712782
+      RC_DF_Object_Vending_Machine_3_damaged (1)_35: -1056372136
+      RC_DF_Object_Vending_Machine_3_damaged (1)_107: -305333678
+      RC_DF_Object_Vending_Machine_3_damaged (1)_15: 381477654
+      RC_DF_Object_Vending_Machine_3_damaged (1)_17: -166489364
+      RC_DF_Object_Vending_Machine_3_damaged (1)_132: -1601608975
+      RC_DF_Object_Vending_Machine_3_damaged (1)_37: 1993974741
+      RC_DF_Object_Vending_Machine_3_damaged (1)_142: -155429632
+      RC_DF_Object_Vending_Machine_3_damaged (1)_136: 1112117416
+      RC_DF_Object_Vending_Machine_3_damaged (1)_67: -2111005077
+      RC_DF_Object_Vending_Machine_3_damaged (1)_154: 1041605130
+      RC_DF_Object_Vending_Machine_3_damaged (1)_123: -1999805668
+      RC_DF_Object_Vending_Machine_3_damaged (1)_82: -282285258
+      RC_DF_Object_Vending_Machine_3_damaged (1)_139: 720691409
+      RC_DF_Object_Vending_Machine_3_damaged (1)_20: -17133697
+      RC_DF_Object_Vending_Machine_3_damaged (1)_157: -72174938
+      RC_DF_Object_Vending_Machine_3_damaged (1)_70: -121687083
+      RC_DF_Object_Vending_Machine_3_damaged (1)_48: -1420527439
+      RC_DF_Object_Vending_Machine_3_damaged (1)_110: -778580935
+      RC_DF_Object_Vending_Machine_3_damaged (1)_9: 644946827
+      RC_DF_Object_Vending_Machine_3_damaged (1)_14: -476243531
+      RC_DF_Object_Vending_Machine_3_damaged (1)_72: 670468042
+      RC_DF_Object_Vending_Machine_3_damaged (1)_11: 1207413636
+      RC_DF_Object_Vending_Machine_3_damaged (1)_43: -574324893
+      RC_DF_Object_Vending_Machine_3_damaged (1)_96: -1286122621
+      RC_DF_Object_Vending_Machine_3_damaged (1)_127: -1492741329
+      RC_DF_Object_Vending_Machine_3_damaged (1)_129: -1153827956
+      RC_DF_Object_Vending_Machine_3_damaged (1)_3: -1582081122
+      RC_DF_Object_Vending_Machine_3_damaged (1)_58: -497931303
+      RC_DF_Object_Vending_Machine_3_damaged (1)_98: 859261660
+      RC_DF_Object_Vending_Machine_3_damaged (1)_90: 1765463457
+      RC_DF_Object_Vending_Machine_3_damaged (1)_23: -1973276150
+      RC_DF_Object_Vending_Machine_3_damaged (1)_31: 1670413218
+      RC_DF_Object_Vending_Machine_3_damaged (1)_71: 62774117
+      RC_DF_Object_Vending_Machine_3_damaged (1)_111: 1127415469
+      RC_DF_Object_Vending_Machine_3_damaged (1)_78: -361416097
+      RC_DF_Object_Vending_Machine_3_damaged (1)_124: -100768616
+      RC_DF_Object_Vending_Machine_3_damaged (1)_26: 1114082803
+      RC_DF_Object_Vending_Machine_3_damaged (1)_138: 405457862
+      RC_DF_Object_Vending_Machine_3_damaged (1)_12: -1850837397
+      RC_DF_Object_Vending_Machine_3_damaged (1)_39: 104223160
+      RC_DF_Object_Vending_Machine_3_damaged (1)_7: -1726405930
+      RC_DF_Object_Vending_Machine_3_damaged (1)_91: 225664078
+      RC_DF_Object_Vending_Machine_3_damaged (1)_18: -1587617788
+      RC_DF_Object_Vending_Machine_3_damaged (1)_92: 572780473
+      RC_DF_Object_Vending_Machine_3_damaged (1)_148: 1160402804
+      RC_DF_Object_Vending_Machine_3_damaged (1)_0: 1452637739
+      RC_DF_Object_Vending_Machine_3_damaged (1)_86: -1259120272
+      RC_DF_Object_Vending_Machine_3_damaged (1)_141: -600566693
+      RC_DF_Object_Vending_Machine_3_damaged (1)_42: -1276809893
+      RC_DF_Object_Vending_Machine_3_damaged (1)_2: 913724413
+      RC_DF_Object_Vending_Machine_3_damaged (1)_88: 835240284
+      RC_DF_Object_Vending_Machine_3_damaged (1)_151: 1634307171
+      RC_DF_Object_Vending_Machine_3_damaged (1)_27: -219102146
+      RC_DF_Object_Vending_Machine_3_damaged (1)_80: -1023541369
+      RC_DF_Object_Vending_Machine_3_damaged (1)_21: -642269378
+      RC_DF_Object_Vending_Machine_3_damaged (1)_13: 881797782
+      RC_DF_Object_Vending_Machine_3_damaged (1)_83: 880551058
+      RC_DF_Object_Vending_Machine_3_damaged (1)_4: 1970210403
+      RC_DF_Object_Vending_Machine_3_damaged (1)_46: -2029863748
+      RC_DF_Object_Vending_Machine_3_damaged (1)_59: -1466901297
+      RC_DF_Object_Vending_Machine_3_damaged (1)_115: -1842581365
+      RC_DF_Object_Vending_Machine_3_damaged (1)_29: 2124586834
+      RC_DF_Object_Vending_Machine_3_damaged (1)_76: -727208604
+      RC_DF_Object_Vending_Machine_3_damaged (1)_153: 1231947887
+      RC_DF_Object_Vending_Machine_3_damaged (1)_144: 1556721027
+      RC_DF_Object_Vending_Machine_3_damaged (1)_69: -1035574160
+      RC_DF_Object_Vending_Machine_3_damaged (1)_10: 1466661824
+      RC_DF_Object_Vending_Machine_3_damaged (1)_117: -691916957
+      RC_DF_Object_Vending_Machine_3_damaged (1)_133: 1103030987
+      RC_DF_Object_Vending_Machine_3_damaged (1)_120: -2096341901
+      RC_DF_Object_Vending_Machine_3_damaged (1)_63: 1667567181
+      RC_DF_Object_Vending_Machine_3_damaged (1)_128: 2097648098
+      RC_DF_Object_Vending_Machine_3_damaged (1)_126: -942218639
+      RC_DF_Object_Vending_Machine_3_damaged (1)_150: -2011654458
+      RC_DF_Object_Vending_Machine_3_damaged (1)_146: -274363325
+      RC_DF_Object_Vending_Machine_3_damaged (1)_155: -1663767779
+      RC_DF_Object_Vending_Machine_3_damaged (1)_44: 270409995
+      RC_DF_Object_Vending_Machine_3_damaged (1)_95: -1933969219
+      RC_DF_Object_Vending_Machine_3_damaged (1)_38: -1662633268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

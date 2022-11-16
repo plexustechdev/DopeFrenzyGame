@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 213f00a2c51a02747a5223aa9418ed94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4064985797329153959
+    second: dw_Props_Vegetation_0
+  - first:
+      213: 3384795589100897225
+    second: dw_Props_Vegetation_1
+  - first:
+      213: -6572456136888216381
+    second: dw_Props_Vegetation_2
+  - first:
+      213: 2958699668083385156
+    second: dw_Props_Vegetation_3
+  - first:
+      213: 5175845800054715074
+    second: dw_Props_Vegetation_4
+  - first:
+      213: -9184240218170622861
+    second: dw_Props_Vegetation_5
+  - first:
+      213: 7459572748700015922
+    second: dw_Props_Vegetation_6
+  - first:
+      213: -8305875369522032653
+    second: dw_Props_Vegetation_7
+  - first:
+      213: -7828263509682850265
+    second: dw_Props_Vegetation_8
+  - first:
+      213: 7344516548839459784
+    second: dw_Props_Vegetation_9
+  - first:
+      213: 712858953078981360
+    second: dw_Props_Vegetation_10
+  - first:
+      213: -6711681982460499756
+    second: dw_Props_Vegetation_11
+  - first:
+      213: -2847323617007654418
+    second: dw_Props_Vegetation_12
+  - first:
+      213: 2600909468489621171
+    second: dw_Props_Vegetation_13
+  - first:
+      213: -3580563275570337731
+    second: dw_Props_Vegetation_14
+  - first:
+      213: -4406087758804485710
+    second: dw_Props_Vegetation_15
+  - first:
+      213: -1740891192604520398
+    second: dw_Props_Vegetation_16
+  - first:
+      213: -1674038412267898038
+    second: dw_Props_Vegetation_17
+  - first:
+      213: 7976386888263472337
+    second: dw_Props_Vegetation_18
+  - first:
+      213: -8830910296340936285
+    second: dw_Props_Vegetation_19
+  - first:
+      213: -4882433868448915156
+    second: dw_Props_Vegetation_20
+  - first:
+      213: -3587544746672558661
+    second: dw_Props_Vegetation_21
+  - first:
+      213: 303217720818843730
+    second: dw_Props_Vegetation_22
+  - first:
+      213: 7632936703922022239
+    second: dw_Props_Vegetation_23
+  - first:
+      213: -2909124258784557003
+    second: dw_Props_Vegetation_24
+  - first:
+      213: -6563386997660464030
+    second: dw_Props_Vegetation_25
+  - first:
+      213: 1093645792394183882
+    second: dw_Props_Vegetation_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 64
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950103d54f44697c0800000000000000
+      internalID: -4064985797329153959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 868
+        width: 66
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30ba5a7a539fe20800000000000000
+      internalID: 3384795589100897225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 857
+        width: 65
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c411f247f1f9c4a0800000000000000
+      internalID: -6572456136888216381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 795
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4432d291ca96f0920800000000000000
+      internalID: 2958699668083385156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 805
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27574155c44d740800000000000000
+      internalID: 5175845800054715074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 756
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c75188e260b8080800000000000000
+      internalID: -9184240218170622861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 705
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd27674e9b58760800000000000000
+      internalID: 7459572748700015922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff09fa9b5a9bbc80800000000000000
+      internalID: -8305875369522032653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 609
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726733950db6c5390800000000000000
+      internalID: -7828263509682850265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 608
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbcd8463e6fce560800000000000000
+      internalID: 7344516548839459784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 611
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ca31e07594e900800000000000000
+      internalID: 712858953078981360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86d060cc05bd2a0800000000000000
+      internalID: -6711681982460499756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 448
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9adaf81464c78d0800000000000000
+      internalID: -2847323617007654418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 451
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be1642a169481420800000000000000
+      internalID: 2600909468489621171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 452
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3822d7eba84f4ec0800000000000000
+      internalID: -3580563275570337731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f24f178e6ad2c0800000000000000
+      internalID: -4406087758804485710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 417
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23093381fac17d7e0800000000000000
+      internalID: -1740891192604520398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 417
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb968feee94c8e0800000000000000
+      internalID: -1674038412267898038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4170a3d91d1be60800000000000000
+      internalID: 7976386888263472337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a94247afdd427580800000000000000
+      internalID: -8830910296340936285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 352
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2124cfc34c1e3cb0800000000000000
+      internalID: -4882433868448915156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd63ce7f0b763ec0800000000000000
+      internalID: -3587544746672558661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 352
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c20b19ee353400800000000000000
+      internalID: 303217720818843730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57205ebd73ade960800000000000000
+      internalID: 7632936703922022239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 289
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ccab56e6b0a7d0800000000000000
+      internalID: -2909124258784557003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc709cc4a2ae4a0800000000000000
+      internalID: -6563386997660464030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dw_Props_Vegetation_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 863
+        width: 64
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac481c5cd096d2f00800000000000000
+      internalID: 1093645792394183882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dw_Props_Vegetation_1: 3384795589100897225
+      dw_Props_Vegetation_6: 7459572748700015922
+      dw_Props_Vegetation_17: -1674038412267898038
+      dw_Props_Vegetation_21: -3587544746672558661
+      dw_Props_Vegetation_25: -6563386997660464030
+      dw_Props_Vegetation_7: -8305875369522032653
+      dw_Props_Vegetation_10: 712858953078981360
+      dw_Props_Vegetation_11: -6711681982460499756
+      dw_Props_Vegetation_8: -7828263509682850265
+      dw_Props_Vegetation_24: -2909124258784557003
+      dw_Props_Vegetation_14: -3580563275570337731
+      dw_Props_Vegetation_16: -1740891192604520398
+      dw_Props_Vegetation_4: 5175845800054715074
+      dw_Props_Vegetation_13: 2600909468489621171
+      dw_Props_Vegetation_3: 2958699668083385156
+      dw_Props_Vegetation_26: 1093645792394183882
+      dw_Props_Vegetation_18: 7976386888263472337
+      dw_Props_Vegetation_2: -6572456136888216381
+      dw_Props_Vegetation_9: 7344516548839459784
+      dw_Props_Vegetation_0: -4064985797329153959
+      dw_Props_Vegetation_20: -4882433868448915156
+      dw_Props_Vegetation_15: -4406087758804485710
+      dw_Props_Vegetation_23: 7632936703922022239
+      dw_Props_Vegetation_5: -9184240218170622861
+      dw_Props_Vegetation_12: -2847323617007654418
+      dw_Props_Vegetation_19: -8830910296340936285
+      dw_Props_Vegetation_22: 303217720818843730
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

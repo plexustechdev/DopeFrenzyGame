@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 9a56ad528504e5d4fa62fa116c06b111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4725854989340858055
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_0
+  - first:
+      213: 3191431351337772756
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_1
+  - first:
+      213: -8964035993534940049
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_2
+  - first:
+      213: 3666357864849227187
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_3
+  - first:
+      213: -1615036902988972252
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_4
+  - first:
+      213: -1898460537310692336
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_5
+  - first:
+      213: 1368493080545880641
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_6
+  - first:
+      213: -4763664050223654726
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_7
+  - first:
+      213: -3542165636981023110
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_8
+  - first:
+      213: -392949817305458717
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_9
+  - first:
+      213: 4499643134907750333
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_10
+  - first:
+      213: -1999079388657535704
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_11
+  - first:
+      213: 191403328072624076
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_12
+  - first:
+      213: -2111442670887165928
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_13
+  - first:
+      213: 7316762923214346853
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_14
+  - first:
+      213: -6737868250076951071
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_15
+  - first:
+      213: 4467347337725053031
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_16
+  - first:
+      213: -6067739021302191917
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_17
+  - first:
+      213: 3568624217227527947
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_18
+  - first:
+      213: 2054128988540699141
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_19
+  - first:
+      213: -4513170780091201122
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_20
+  - first:
+      213: 9001798269436146233
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_21
+  - first:
+      213: -1321123281295539558
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_22
+  - first:
+      213: -6154941297522544320
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_23
+  - first:
+      213: -2046099100584513014
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_24
+  - first:
+      213: 930317300011839081
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_25
+  - first:
+      213: -5725631644764331611
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_26
+  - first:
+      213: -8664045402194298159
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_27
+  - first:
+      213: 284611026854114720
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_28
+  - first:
+      213: 235594454743604082
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_29
+  - first:
+      213: 225646053210652612
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_30
+  - first:
+      213: -615559414803641810
+    second: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a4540de36a6eb0800000000000000
+      internalID: -4725854989340858055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66885b7ed3a4c20800000000000000
+      internalID: 3191431351337772756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb883e1c8599380800000000000000
+      internalID: -8964035993534940049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3cc98d0581e230800000000000000
+      internalID: 3666357864849227187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff13a5e7c3699e0800000000000000
+      internalID: -1615036902988972252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cbf75233057a5e0800000000000000
+      internalID: -1898460537310692336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a6487c43dddf210800000000000000
+      internalID: 1368493080545880641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8de1909c014edb0800000000000000
+      internalID: -4763664050223654726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e9620de13b7dec0800000000000000
+      internalID: -3542165636981023110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e714fc1936fb8af0800000000000000
+      internalID: -392949817305458717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db793305791f17e30800000000000000
+      internalID: 4499643134907750333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825334933e7d144e0800000000000000
+      internalID: -1999079388657535704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7a892105008a200800000000000000
+      internalID: 191403328072624076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102b26e316a2b2e0800000000000000
+      internalID: -2111442670887165928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a90ffdc1d5a8560800000000000000
+      internalID: 7316762923214346853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc7ca76884e72a0800000000000000
+      internalID: -6737868250076951071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76883611cb43ffd30800000000000000
+      internalID: 4467347337725053031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a185228f0bcba0800000000000000
+      internalID: -6067739021302191917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0704b471dc468130800000000000000
+      internalID: 3568624217227527947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020dcc8e6bb18c10800000000000000
+      internalID: 2054128988540699141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99cdf9561ffd51c0800000000000000
+      internalID: -4513170780091201122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b77d15dfccec70800000000000000
+      internalID: 9001798269436146233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9281e1106d6aade0800000000000000
+      internalID: -1321123281295539558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04179cb0081459aa0800000000000000
+      internalID: -6154941297522544320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f96e65bbca93e0800000000000000
+      internalID: -2046099100584513014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2b93c7a629ec00800000000000000
+      internalID: 930317300011839081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a12613da587a80b0800000000000000
+      internalID: -5725631644764331611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da3a5c5c9023c780800000000000000
+      internalID: -8664045402194298159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57cc2983423f300800000000000000
+      internalID: 284611026854114720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5b0a88eff44300800000000000000
+      internalID: 235594454743604082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff69ec3e7a12300800000000000000
+      internalID: 225646053210652612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4b7e39f71577f0800000000000000
+      internalID: -615559414803641810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_2: -8964035993534940049
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_29: 235594454743604082
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_0: -4725854989340858055
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_14: 7316762923214346853
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_12: 191403328072624076
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_16: 4467347337725053031
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_11: -1999079388657535704
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_17: -6067739021302191917
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_19: 2054128988540699141
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_28: 284611026854114720
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_25: 930317300011839081
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_10: 4499643134907750333
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_8: -3542165636981023110
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_18: 3568624217227527947
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_24: -2046099100584513014
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_27: -8664045402194298159
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_31: -615559414803641810
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_20: -4513170780091201122
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_21: 9001798269436146233
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_13: -2111442670887165928
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_1: 3191431351337772756
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_6: 1368493080545880641
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_4: -1615036902988972252
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_3: 3666357864849227187
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_5: -1898460537310692336
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_30: 225646053210652612
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_9: -392949817305458717
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_26: -5725631644764331611
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_7: -4763664050223654726
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_22: -1321123281295539558
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_15: -6737868250076951071
+      DW_F_Feet_Air_Jordan_1_Chicagos_Spritesheet_23: -6154941297522544320
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

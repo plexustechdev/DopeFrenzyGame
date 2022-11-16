@@ -1,0 +1,2083 @@
+fileFormatVersion: 2
+guid: 91ccf43426fe72f45a080e0b73a51329
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 489
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca87dcc6ec7f59459a86f2c0b636a38
+      internalID: 87242132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 385
+        width: 98
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89110e008f6463a43abfe047c98ec23d
+      internalID: 61878939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 385
+        width: 13
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73c42637caa124e99220a6051a9e44
+      internalID: -1068622054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 385
+        width: 13
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d678365f735744dbf8f9796af3adff
+      internalID: 1806968657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 385
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9919e16aa93c847a3c07184d27539e
+      internalID: -1222629753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 349
+        width: 128
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf10b231884574898503af15a7eb61
+      internalID: 1013325149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 477
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea1561b6c57e94a918e358fb44711b
+      internalID: 1715172054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 477
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700690637d251f4409d855317b05297e
+      internalID: 1641291051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_8
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 477
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957d78b77ffd3a458a32f795677f8e3
+      internalID: 1098484593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 449
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2614439fbb302ae4abb050e91ed4ca09
+      internalID: -1127354006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 388
+        width: 78
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced3277c6236cab44901c35541a09516
+      internalID: 252894426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 423
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234065b8318c7b04f9af2fe807da964b
+      internalID: -83433630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 454
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91b5df02ad4bf41837f25860b205b2
+      internalID: 1144188240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 390
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8948a0b5dd888c4e89a29e934a4ad71
+      internalID: 1654439734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 390
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94710552ec2e748ab6250f96b5bea7
+      internalID: 1885099393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 375
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfa508869d0114ea86083a8e636eca
+      internalID: -79799053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 385
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd1da4e275af944ac9f9f5e684afa3
+      internalID: -432430241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 385
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c7a6e1270c0d4880c2b515f2fcd33
+      internalID: 271457981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 386
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f4f768a9e55b49967f36580a9643c
+      internalID: -865256806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ddc1a45babae34baaab150572327a0
+      internalID: -834767313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 191
+        width: 13
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa235f1afd8b524398a7f1a00cdef46
+      internalID: -937129660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 13
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4fb714c1fae114aaf3585cd9cf6746
+      internalID: 146357424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 319
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10729ba01797d448bf71a9025bb387d
+      internalID: 701187880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 201
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf69300cd049741beacba18d1c6b8a
+      internalID: -1369891071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 297
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b76bf8d33a6ad479c9d61d39289fb6
+      internalID: -866925113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 272
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf13ffcf81e4cc409bd9b7adda80b3c
+      internalID: 2110951575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 176
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c65df394c2ede40bf8f5cfdbc56eb8
+      internalID: -795834691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_27
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 272
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0de56421ddef641b32dc29d9667ec4
+      internalID: 1410462238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_28
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 290
+        width: 8
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c17d4ba9c836f468ba5dbd40656af4
+      internalID: -2026870693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 166
+        width: 175
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994dc7b91702d54cabc999a224cc15c
+      internalID: 255653068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_30
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 290
+        width: 7
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d386d8b7d19544b3fd551b3ad3d8b
+      internalID: 1374090087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_31
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 291
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fe471a7a66ed4095f4c5488c1a474
+      internalID: 1966956974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 255
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3139541fb272749bc00cd91ae397bb
+      internalID: 1070411455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 170
+        width: 7
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a60ee4b72b61674e975223633f8ea4a
+      internalID: 874415415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_34
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 176
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c42acbbcf9e1c439c89e5310434777
+      internalID: -1619409869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_35
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 170
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230ec8c4e69d4a43b9b0145dbe46c1f
+      internalID: -1038213826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40a635ef617eb45907f27a4833ab29
+      internalID: -804340054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 191
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89485d1e4f52e524082d6891cfd7b9ea
+      internalID: -2036612528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf32e251f0acb994fab106fec4bb675e
+      internalID: -1482056860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_39
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490b05fa811869140b5522ca3f344858
+      internalID: -862638753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c13e3313f75e4abb232b26aef1c53
+      internalID: -1849711724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cfd2d08d660cb41b42306b91461e0b
+      internalID: -2097353891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700dc261a6d079a478dfabd5cfe521ad
+      internalID: 1691295054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acab1be4ebd329409696f798a68c94c
+      internalID: -1954428222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 96
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b33812b98e104eb9dacbe67f6b40d
+      internalID: 1197589726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 96
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae5647d7a2dd542a9e3ef198bd9a5a
+      internalID: 1188368568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_46
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 42
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c4af32e4e51648b2f9222c37e9118
+      internalID: -1116078185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_47
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 21
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c3868e8d3cb8c49bf5f9fe946db0a8
+      internalID: 2110251535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 21
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16a29421bddb542bbd52059b1f630c
+      internalID: 1239609272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 21
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2cde536d7c0e498156d11a13827aa
+      internalID: -278278612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_51
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 20
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa239f0ebb35b4bb5625ca6639b371
+      internalID: -1929240156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 21
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcabd70df5c7ca48b7936cb04e6624b
+      internalID: 1423379677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 21
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d7fc4b403219a4ebdf2706ef524498
+      internalID: 523737395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8deefb8a3506346a496771ea8d7d3f
+      internalID: -1268480112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_55
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 21
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5916ae6b19494d4795c7a7bf3ab2f15
+      internalID: 1430150390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_56
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 22
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a12020f642dc468c1fd3945c85c48
+      internalID: 1784812774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_57
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 176
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16238d6a2a2dd4aa6532865fdfe06b
+      internalID: 903100392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 388
+        width: 5
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369c64227baef541be7f08770fdf177
+      internalID: -407154136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 481
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7efc9d3727e9447bc224bc1f622338
+      internalID: 614338919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 482
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881b6917ed669f5409f908cefd846707
+      internalID: -2113561975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9341b72d3d1e3488fa4eb27c878be1
+      internalID: -170348376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_62
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 297
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74365114e9f5a7341933bf62b318c2de
+      internalID: 1726816379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 201
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8596af8bab6810b4896df6ba7392946b
+      internalID: -160336275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 201
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6886b138b049a474ea4711f36557eb6f
+      internalID: -218566219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_65
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 251
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece20b1e807f6f45a83709869951c85
+      internalID: 175028281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 326
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb9925c0ea7944a823b3dd37e491a8
+      internalID: 415763292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_67
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 2
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac4d33a188fce408ac334762cac51f
+      internalID: 1694168964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 20
+        width: 2
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ee9d3ec7456e4c9da652a628dfb37
+      internalID: -1247855284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_69
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 21
+        width: 2
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e309ea5ec55c4cbd18bc0126ee0b0
+      internalID: 1821333685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_70
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 241
+        width: 7
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b38650247a6a4db89938ddd5ca5e0
+      internalID: 1381273663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_71
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 428
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6adcde55e7ab64c95dd4b7f7fe1fd6
+      internalID: 374293621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_72
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 428
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d559d1bda82a834b8c90da8d8800dc2
+      internalID: 1084960925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_73
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 291
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05dad21ab6c6041a070d1420bc4c9e
+      internalID: -1284589119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_74
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 166
+        width: 7
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc6c573723fae4ab101156f142d6f1
+      internalID: -495289599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_75
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 22
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c52d7ce6c27648a5e0e911465871a
+      internalID: -433826084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 423
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4ca69eb2732248bf51ed0987a8b74
+      internalID: -2022995138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 423
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f592ea56a0624eb2887dd955aca56
+      internalID: -1995988807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_78
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 291
+        width: 2
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760a7d82b34b1c4bba64d9ea05f8b49
+      internalID: -1079663439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 21
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb78213e3c0ae41a664a5d4355ce0b
+      internalID: -1710567104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a2b7ef6c0e0e4fa751cc55c3aeb12
+      internalID: -2002835811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_48
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 96
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f38a1f10b7ac4eafc674bda23e7b4
+      internalID: -1157804766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 253
+        width: 7
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8c76295f3000449b376b14a69a6e6
+      internalID: 409632734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 269
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdacd2d285589b4e8b69ee4e00eb7de
+      internalID: -2027205569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 269
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875bf9b59d1d864189f6c120ce01ff1
+      internalID: 1598504613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 201
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3c01e1a9257348a79939d68303125
+      internalID: 1818667209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 235
+        width: 96
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38366a96f107645b535cdd09850c61
+      internalID: 1364906502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_86
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 242
+        width: 94
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760d0c052f34f041a76e70074901991
+      internalID: -443013435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RC_DF_OBJ_Fences_87
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 138
+        width: 4
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a1eb2f8f1b114f86c0aa5fd4abb59
+      internalID: 534785831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RC_DF_OBJ_Fences_15: -79799053
+      RC_DF_OBJ_Fences_24: -866925113
+      RC_DF_OBJ_Fences_25: 2110951575
+      RC_DF_OBJ_Fences_65: 175028281
+      RC_DF_OBJ_Fences_19: -834767313
+      RC_DF_OBJ_Fences_55: 1430150390
+      RC_DF_OBJ_Fences_17: 271457981
+      RC_DF_OBJ_Fences_36: -804340054
+      RC_DF_OBJ_Fences_64: -218566219
+      RC_DF_OBJ_Fences_82: 1818667209
+      RC_DF_OBJ_Fences_14: 1885099393
+      RC_DF_OBJ_Fences_68: -1247855284
+      RC_DF_OBJ_Fences_86: -443013435
+      RC_DF_OBJ_Fences_59: 614338919
+      RC_DF_OBJ_Fences_66: 415763292
+      RC_DF_OBJ_Fences_73: -1284589119
+      RC_DF_OBJ_Fences_84: 1598504613
+      RC_DF_OBJ_Fences_54: -1268480112
+      RC_DF_OBJ_Fences_33: 874415415
+      RC_DF_OBJ_Fences_13: 1654439734
+      RC_DF_OBJ_Fences_20: -937129660
+      RC_DF_OBJ_Fences_79: -1710567104
+      RC_DF_OBJ_Fences_6: 1715172054
+      RC_DF_OBJ_Fences_76: -2022995138
+      RC_DF_OBJ_Fences_42: 1691295054
+      RC_DF_OBJ_Fences_69: 1821333685
+      RC_DF_OBJ_Fences_49: 1239609272
+      RC_DF_OBJ_Fences_57: 903100392
+      RC_DF_OBJ_Fences_85: 1364906502
+      RC_DF_OBJ_Fences_67: 1694168964
+      RC_DF_OBJ_Fences_34: -1619409869
+      RC_DF_OBJ_Fences_46: -1116078185
+      RC_DF_OBJ_Fences_83: -2027205569
+      RC_DF_OBJ_Fences_43: -1954428222
+      RC_DF_OBJ_Fences_80: -2002835811
+      RC_DF_OBJ_Fences_31: 1966956974
+      RC_DF_OBJ_Fences_81: 409632734
+      RC_DF_OBJ_Fences_5: 1013325149
+      RC_DF_OBJ_Fences_9: -1127354006
+      RC_DF_OBJ_Fences_71: 374293621
+      RC_DF_OBJ_Fences_37: -2036612528
+      RC_DF_OBJ_Fences_38: -1482056860
+      RC_DF_OBJ_Fences_40: -1849711724
+      RC_DF_OBJ_Fences_12: 1144188240
+      RC_DF_OBJ_Fences_39: -862638753
+      RC_DF_OBJ_Fences_48: -1157804766
+      RC_DF_OBJ_Fences_63: -160336275
+      RC_DF_OBJ_Fences_26: -795834691
+      RC_DF_OBJ_Fences_45: 1188368568
+      RC_DF_OBJ_Fences_32: 1070411455
+      RC_DF_OBJ_Fences_52: 1423379677
+      RC_DF_OBJ_Fences_50: -278278612
+      RC_DF_OBJ_Fences_75: -433826084
+      RC_DF_OBJ_Fences_0: 87242132
+      RC_DF_OBJ_Fences_47: 2110251535
+      RC_DF_OBJ_Fences_23: -1369891071
+      RC_DF_OBJ_Fences_18: -865256806
+      RC_DF_OBJ_Fences_28: -2026870693
+      RC_DF_OBJ_Fences_60: -2113561975
+      RC_DF_OBJ_Fences_44: 1197589726
+      RC_DF_OBJ_Fences_58: -407154136
+      RC_DF_OBJ_Fences_53: 523737395
+      RC_DF_OBJ_Fences_74: -495289599
+      RC_DF_OBJ_Fences_4: -1222629753
+      RC_DF_OBJ_Fences_11: -83433630
+      RC_DF_OBJ_Fences_3: 1806968657
+      RC_DF_OBJ_Fences_16: -432430241
+      RC_DF_OBJ_Fences_61: -170348376
+      RC_DF_OBJ_Fences_8: 1098484593
+      RC_DF_OBJ_Fences_72: 1084960925
+      RC_DF_OBJ_Fences_78: -1079663439
+      RC_DF_OBJ_Fences_1: 61878939
+      RC_DF_OBJ_Fences_2: -1068622054
+      RC_DF_OBJ_Fences_7: 1641291051
+      RC_DF_OBJ_Fences_51: -1929240156
+      RC_DF_OBJ_Fences_10: 252894426
+      RC_DF_OBJ_Fences_70: 1381273663
+      RC_DF_OBJ_Fences_21: 146357424
+      RC_DF_OBJ_Fences_22: 701187880
+      RC_DF_OBJ_Fences_56: 1784812774
+      RC_DF_OBJ_Fences_27: 1410462238
+      RC_DF_OBJ_Fences_30: 1374090087
+      RC_DF_OBJ_Fences_29: 255653068
+      RC_DF_OBJ_Fences_62: 1726816379
+      RC_DF_OBJ_Fences_41: -2097353891
+      RC_DF_OBJ_Fences_77: -1995988807
+      RC_DF_OBJ_Fences_87: 534785831
+      RC_DF_OBJ_Fences_35: -1038213826
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

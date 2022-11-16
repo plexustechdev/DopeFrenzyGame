@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 96df893da1c01834fbd976a295c8b1c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9178305138564781801
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_0
+  - first:
+      213: -7697352496534908760
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_1
+  - first:
+      213: 6700399346214119309
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_2
+  - first:
+      213: -8283559841764461653
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_3
+  - first:
+      213: -692403107304998465
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_4
+  - first:
+      213: 4582488192463578895
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_5
+  - first:
+      213: -7068740489266071893
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_6
+  - first:
+      213: -8132228695779675517
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_7
+  - first:
+      213: -9038997753741759851
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_8
+  - first:
+      213: -859660760834850028
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_9
+  - first:
+      213: 4412935138305457843
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_10
+  - first:
+      213: 2956306635772897773
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_11
+  - first:
+      213: -161630245197335412
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_12
+  - first:
+      213: 936770388289487316
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_13
+  - first:
+      213: 205459166188245739
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_14
+  - first:
+      213: 4513213935190418226
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_15
+  - first:
+      213: -2236687553665234743
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_16
+  - first:
+      213: 5107999380428009610
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_17
+  - first:
+      213: 7648508951795682745
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_18
+  - first:
+      213: 8943627531357630398
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_19
+  - first:
+      213: -7120318124483333757
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_20
+  - first:
+      213: -5817112729184232018
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_21
+  - first:
+      213: 7044625821641751141
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_22
+  - first:
+      213: 6864981134128644358
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_23
+  - first:
+      213: -5948327396687442020
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_24
+  - first:
+      213: 2173144590938654690
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_25
+  - first:
+      213: -1387743916387709325
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_26
+  - first:
+      213: -6400770608789833104
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_27
+  - first:
+      213: 5211311872457670906
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_28
+  - first:
+      213: 4098469414052977946
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_29
+  - first:
+      213: 3823581715131979983
+    second: DW_F_Weapon_Baseball_Bat_Spritesheet_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6db4015e3ef5f70800000000000000
+      internalID: 9178305138564781801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0121dcfa28d2590800000000000000
+      internalID: -7697352496534908760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d872a5484b99cfc50800000000000000
+      internalID: 6700399346214119309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba330fb4632ea0d80800000000000000
+      internalID: -8283559841764461653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb975bbda071466f0800000000000000
+      internalID: -692403107304998465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a6336bb4489f30800000000000000
+      internalID: 4582488192463578895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ffdf0af9c6ed90800000000000000
+      internalID: -7068740489266071893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38270db6615842f80800000000000000
+      internalID: -8132228695779675517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a2ba20f670f8280800000000000000
+      internalID: -9038997753741759851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413c81bb71fd114f0800000000000000
+      internalID: -859660760834850028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3987a025ed3d30800000000000000
+      internalID: 4412935138305457843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9af58d839e60920800000000000000
+      internalID: 2956306635772897773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84bd0af526c1cdf0800000000000000
+      internalID: -161630245197335412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1891674b3100d00800000000000000
+      internalID: 936770388289487316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29f78e500f9d200800000000000000
+      internalID: 205459166188245739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332e5a792822ae30800000000000000
+      internalID: 4513213935190418226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80f3a3580b5f0e0800000000000000
+      internalID: -2236687553665234743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b3578f5243e640800000000000000
+      internalID: 5107999380428009610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4d2d3e56f42a60800000000000000
+      internalID: 7648508951795682745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa9f9bad52e1c70800000000000000
+      internalID: 8943627531357630398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381356e046c8f2d90800000000000000
+      internalID: -7120318124483333757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead129e0bc6754fa0800000000000000
+      internalID: -5817112729184232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a308a5cd983c160800000000000000
+      internalID: 7044625821641751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010f7128ff454f50800000000000000
+      internalID: 6864981134128644358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f88b09fbb437da0800000000000000
+      internalID: -5948327396687442020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c57cdd7f882e10800000000000000
+      internalID: 2173144590938654690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e4088b24ebdbce0800000000000000
+      internalID: -1387743916387709325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a32564b05eb27a0800000000000000
+      internalID: -6400770608789833104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08d9b898c425840800000000000000
+      internalID: 5211311872457670906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5e6ba730b0e830800000000000000
+      internalID: 4098469414052977946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Baseball_Bat_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8de1ccf47101530800000000000000
+      internalID: 3823581715131979983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Baseball_Bat_Spritesheet_2: 6700399346214119309
+      DW_F_Weapon_Baseball_Bat_Spritesheet_23: 6864981134128644358
+      DW_F_Weapon_Baseball_Bat_Spritesheet_30: 3823581715131979983
+      DW_F_Weapon_Baseball_Bat_Spritesheet_4: -692403107304998465
+      DW_F_Weapon_Baseball_Bat_Spritesheet_15: 4513213935190418226
+      DW_F_Weapon_Baseball_Bat_Spritesheet_7: -8132228695779675517
+      DW_F_Weapon_Baseball_Bat_Spritesheet_0: 9178305138564781801
+      DW_F_Weapon_Baseball_Bat_Spritesheet_18: 7648508951795682745
+      DW_F_Weapon_Baseball_Bat_Spritesheet_1: -7697352496534908760
+      DW_F_Weapon_Baseball_Bat_Spritesheet_20: -7120318124483333757
+      DW_F_Weapon_Baseball_Bat_Spritesheet_21: -5817112729184232018
+      DW_F_Weapon_Baseball_Bat_Spritesheet_14: 205459166188245739
+      DW_F_Weapon_Baseball_Bat_Spritesheet_16: -2236687553665234743
+      DW_F_Weapon_Baseball_Bat_Spritesheet_3: -8283559841764461653
+      DW_F_Weapon_Baseball_Bat_Spritesheet_11: 2956306635772897773
+      DW_F_Weapon_Baseball_Bat_Spritesheet_28: 5211311872457670906
+      DW_F_Weapon_Baseball_Bat_Spritesheet_10: 4412935138305457843
+      DW_F_Weapon_Baseball_Bat_Spritesheet_26: -1387743916387709325
+      DW_F_Weapon_Baseball_Bat_Spritesheet_12: -161630245197335412
+      DW_F_Weapon_Baseball_Bat_Spritesheet_19: 8943627531357630398
+      DW_F_Weapon_Baseball_Bat_Spritesheet_17: 5107999380428009610
+      DW_F_Weapon_Baseball_Bat_Spritesheet_9: -859660760834850028
+      DW_F_Weapon_Baseball_Bat_Spritesheet_22: 7044625821641751141
+      DW_F_Weapon_Baseball_Bat_Spritesheet_5: 4582488192463578895
+      DW_F_Weapon_Baseball_Bat_Spritesheet_24: -5948327396687442020
+      DW_F_Weapon_Baseball_Bat_Spritesheet_29: 4098469414052977946
+      DW_F_Weapon_Baseball_Bat_Spritesheet_13: 936770388289487316
+      DW_F_Weapon_Baseball_Bat_Spritesheet_25: 2173144590938654690
+      DW_F_Weapon_Baseball_Bat_Spritesheet_6: -7068740489266071893
+      DW_F_Weapon_Baseball_Bat_Spritesheet_8: -9038997753741759851
+      DW_F_Weapon_Baseball_Bat_Spritesheet_27: -6400770608789833104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

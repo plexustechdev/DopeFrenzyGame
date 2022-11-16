@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: aab165edebcd65a4da363ef225bffb5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4759334915615477776
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_0
+  - first:
+      213: -7941019859855308036
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_1
+  - first:
+      213: -7904901746170148332
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_2
+  - first:
+      213: -4883665836889944696
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_3
+  - first:
+      213: -2471299770007011515
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_4
+  - first:
+      213: -7399882363787766193
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_5
+  - first:
+      213: -7824097875938382037
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_6
+  - first:
+      213: 922463502995379424
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_7
+  - first:
+      213: -445727961553207528
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_8
+  - first:
+      213: -1222275259251708261
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_9
+  - first:
+      213: 5127306248448911009
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_10
+  - first:
+      213: 1764631632128074647
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_11
+  - first:
+      213: -5209361353728674173
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_12
+  - first:
+      213: 7054811924898658658
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_13
+  - first:
+      213: 2659998623844666062
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_14
+  - first:
+      213: 8414697218094439134
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_15
+  - first:
+      213: -5184320341201650466
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_16
+  - first:
+      213: -969853148557922735
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_17
+  - first:
+      213: 7734755576672646233
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_18
+  - first:
+      213: -2890942831106629744
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_19
+  - first:
+      213: -26817616875249621
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_20
+  - first:
+      213: -7390834762233465155
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_21
+  - first:
+      213: 5553320866963769622
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_22
+  - first:
+      213: -481019646346654619
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_23
+  - first:
+      213: -7541018468475665358
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_24
+  - first:
+      213: -1790957176861319485
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_25
+  - first:
+      213: 2704914876268991372
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_26
+  - first:
+      213: -3365606609439924547
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_27
+  - first:
+      213: 2038517336172907632
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_28
+  - first:
+      213: -4633535747400399585
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_29
+  - first:
+      213: 2487268910635640155
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_30
+  - first:
+      213: 8344640364150630973
+    second: DW_F_Clothes_White_Tshirt_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff20ab3c1273fdb0800000000000000
+      internalID: -4759334915615477776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8003c284dbc190800000000000000
+      internalID: -7941019859855308036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac92b6eb52c4290800000000000000
+      internalID: -7904901746170148332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc67ecbcbb93cb0800000000000000
+      internalID: -4883665836889944696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3a33e3fd24bdd0800000000000000
+      internalID: -2471299770007011515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4690c642365e4990800000000000000
+      internalID: -7399882363787766193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fedc88f683b6390800000000000000
+      internalID: -7824097875938382037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e45d462baf3dcc00800000000000000
+      internalID: 922463502995379424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f7921d7c470d9f0800000000000000
+      internalID: -445727961553207528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ead8aa02b990fe0800000000000000
+      internalID: -1222275259251708261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a620790ed9d72740800000000000000
+      internalID: 5127306248448911009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936968be1b3d7810800000000000000
+      internalID: 1764631632128074647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ba5cf271a4b7b0800000000000000
+      internalID: -5209361353728674173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26936c4511ab7e160800000000000000
+      internalID: 7054811924898658658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0a45b7a63ae420800000000000000
+      internalID: 2659998623844666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda9cf0798207c470800000000000000
+      internalID: 8414697218094439134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf7dc0e189d08b0800000000000000
+      internalID: -5184320341201650466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e29eb23b36a82f0800000000000000
+      internalID: -969853148557922735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547b0c673f575b60800000000000000
+      internalID: 7734755576672646233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f5deddfce41e7d0800000000000000
+      internalID: -2890942831106629744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ad600589b0aff0800000000000000
+      internalID: -26817616875249621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6377b21fa7e6990800000000000000
+      internalID: -7390834762233465155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c32fd7eb511d40800000000000000
+      internalID: 5553320866963769622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c06812e231359f0800000000000000
+      internalID: -481019646346654619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23409dd28abe85790800000000000000
+      internalID: -7541018468475665358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9e31cfed3527e0800000000000000
+      internalID: -1790957176861319485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83deabafb9c98520800000000000000
+      internalID: 2704914876268991372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe50a6de96fa41d0800000000000000
+      internalID: -3365606609439924547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ccf0b77b44a4c10800000000000000
+      internalID: 2038517336172907632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15002a89cf52bfb0800000000000000
+      internalID: -4633535747400399585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556f4765ed848220800000000000000
+      internalID: 2487268910635640155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_White_Tshirt_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa59b033e1ec370800000000000000
+      internalID: 8344640364150630973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_White_Tshirt_Spritesheet_4: -2471299770007011515
+      DW_F_Clothes_White_Tshirt_Spritesheet_13: 7054811924898658658
+      DW_F_Clothes_White_Tshirt_Spritesheet_17: -969853148557922735
+      DW_F_Clothes_White_Tshirt_Spritesheet_10: 5127306248448911009
+      DW_F_Clothes_White_Tshirt_Spritesheet_20: -26817616875249621
+      DW_F_Clothes_White_Tshirt_Spritesheet_30: 2487268910635640155
+      DW_F_Clothes_White_Tshirt_Spritesheet_29: -4633535747400399585
+      DW_F_Clothes_White_Tshirt_Spritesheet_2: -7904901746170148332
+      DW_F_Clothes_White_Tshirt_Spritesheet_9: -1222275259251708261
+      DW_F_Clothes_White_Tshirt_Spritesheet_12: -5209361353728674173
+      DW_F_Clothes_White_Tshirt_Spritesheet_11: 1764631632128074647
+      DW_F_Clothes_White_Tshirt_Spritesheet_15: 8414697218094439134
+      DW_F_Clothes_White_Tshirt_Spritesheet_28: 2038517336172907632
+      DW_F_Clothes_White_Tshirt_Spritesheet_26: 2704914876268991372
+      DW_F_Clothes_White_Tshirt_Spritesheet_22: 5553320866963769622
+      DW_F_Clothes_White_Tshirt_Spritesheet_3: -4883665836889944696
+      DW_F_Clothes_White_Tshirt_Spritesheet_6: -7824097875938382037
+      DW_F_Clothes_White_Tshirt_Spritesheet_21: -7390834762233465155
+      DW_F_Clothes_White_Tshirt_Spritesheet_0: -4759334915615477776
+      DW_F_Clothes_White_Tshirt_Spritesheet_18: 7734755576672646233
+      DW_F_Clothes_White_Tshirt_Spritesheet_16: -5184320341201650466
+      DW_F_Clothes_White_Tshirt_Spritesheet_14: 2659998623844666062
+      DW_F_Clothes_White_Tshirt_Spritesheet_5: -7399882363787766193
+      DW_F_Clothes_White_Tshirt_Spritesheet_25: -1790957176861319485
+      DW_F_Clothes_White_Tshirt_Spritesheet_24: -7541018468475665358
+      DW_F_Clothes_White_Tshirt_Spritesheet_19: -2890942831106629744
+      DW_F_Clothes_White_Tshirt_Spritesheet_23: -481019646346654619
+      DW_F_Clothes_White_Tshirt_Spritesheet_8: -445727961553207528
+      DW_F_Clothes_White_Tshirt_Spritesheet_1: -7941019859855308036
+      DW_F_Clothes_White_Tshirt_Spritesheet_7: 922463502995379424
+      DW_F_Clothes_White_Tshirt_Spritesheet_27: -3365606609439924547
+      DW_F_Clothes_White_Tshirt_Spritesheet_31: 8344640364150630973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

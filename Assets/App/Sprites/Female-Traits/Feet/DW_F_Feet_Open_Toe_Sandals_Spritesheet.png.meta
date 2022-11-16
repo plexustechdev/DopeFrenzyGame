@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: d2bbad4ceb74f7848ac1de541dfcd958
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2013252362756653709
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_0
+  - first:
+      213: -8927260971837217731
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_1
+  - first:
+      213: 521932290741612570
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_2
+  - first:
+      213: -1153526929036055651
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_3
+  - first:
+      213: -182593969049526679
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_4
+  - first:
+      213: -6767591739822622340
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_5
+  - first:
+      213: 736857522084286753
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_6
+  - first:
+      213: -6376250773984309131
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_7
+  - first:
+      213: -53992263665864999
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_8
+  - first:
+      213: 1790201183709684393
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_9
+  - first:
+      213: -2214957929583020497
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_10
+  - first:
+      213: 3866044994182846030
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_11
+  - first:
+      213: -970164015868112506
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_12
+  - first:
+      213: -1507656869821330574
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_13
+  - first:
+      213: 1082732289382202462
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_14
+  - first:
+      213: 4384857966332945165
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_15
+  - first:
+      213: 8501489319054977809
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_16
+  - first:
+      213: 6846778063977902811
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_17
+  - first:
+      213: -592145252863245107
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_18
+  - first:
+      213: 4658072198685327897
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_19
+  - first:
+      213: 5594536808676834957
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_20
+  - first:
+      213: -7813983935116354707
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_21
+  - first:
+      213: 5191918727549506507
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_22
+  - first:
+      213: -7789601557364128238
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_23
+  - first:
+      213: -4165722633144783875
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_24
+  - first:
+      213: 611368104060975616
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_25
+  - first:
+      213: 2030406613286884408
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_26
+  - first:
+      213: -3430257380761862496
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_27
+  - first:
+      213: 430341901182570015
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_28
+  - first:
+      213: 477359818908265733
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_29
+  - first:
+      213: 3075181698930927670
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_30
+  - first:
+      213: -5678362209241301332
+    second: DW_F_Feet_Open_Toe_Sandals_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7caa84ad7f04e0800000000000000
+      internalID: -2013252362756653709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d342f6cd17ffb1480800000000000000
+      internalID: -8927260971837217731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10b57237a64e3700800000000000000
+      internalID: 521932290741612570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b65f3ae59ddffe0800000000000000
+      internalID: -1153526929036055651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e9ca8a0cb477df0800000000000000
+      internalID: -182593969049526679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79310b3b2fa412a0800000000000000
+      internalID: -6767591739822622340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12198e52308d93a00800000000000000
+      internalID: 736857522084286753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701bd134b10387a0800000000000000
+      internalID: -6376250773984309131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea39f725e204ff0800000000000000
+      internalID: -53992263665864999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ef7fdd7218d810800000000000000
+      internalID: 1790201183709684393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f4c69f73e241e0800000000000000
+      internalID: -2214957929583020497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4612f36073f6a530800000000000000
+      internalID: 3866044994182846030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681905cb7f84982f0800000000000000
+      internalID: -970164015868112506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4f17901ab31be0800000000000000
+      internalID: -1507656869821330574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb877d743a60f00800000000000000
+      internalID: 1082732289382202462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0321d1a6152adc30800000000000000
+      internalID: 4384857966332945165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bac0c2e7b5bf570800000000000000
+      internalID: 8501489319054977809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f6579f54a40f50800000000000000
+      internalID: 6846778063977902811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc407a3a70748c7f0800000000000000
+      internalID: -592145252863245107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91203c43cfbc4a040800000000000000
+      internalID: 4658072198685327897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb70c1699c3ad40800000000000000
+      internalID: 5594536808676834957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bd7c2e2072f8390800000000000000
+      internalID: -7813983935116354707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3594223966d0840800000000000000
+      internalID: 5191918727549506507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164b7797a6c5e390800000000000000
+      internalID: -7789601557364128238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba99a06516036c0800000000000000
+      internalID: -4165722633144783875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afe8d2d040c7800800000000000000
+      internalID: 611368104060975616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8349196ae047d2c10800000000000000
+      internalID: 2030406613286884408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef68326174560d0800000000000000
+      internalID: -3430257380761862496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e04f7dda1e8f500800000000000000
+      internalID: 430341901182570015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6214e93cef9600800000000000000
+      internalID: 477359818908265733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6386f80567d3daa20800000000000000
+      internalID: 3075181698930927670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Open_Toe_Sandals_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7b2ce7a76231b0800000000000000
+      internalID: -5678362209241301332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_10: -2214957929583020497
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_18: -592145252863245107
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_6: 736857522084286753
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_13: -1507656869821330574
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_16: 8501489319054977809
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_14: 1082732289382202462
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_20: 5594536808676834957
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_15: 4384857966332945165
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_0: -2013252362756653709
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_3: -1153526929036055651
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_29: 477359818908265733
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_26: 2030406613286884408
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_30: 3075181698930927670
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_5: -6767591739822622340
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_31: -5678362209241301332
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_22: 5191918727549506507
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_28: 430341901182570015
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_1: -8927260971837217731
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_4: -182593969049526679
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_9: 1790201183709684393
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_2: 521932290741612570
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_27: -3430257380761862496
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_7: -6376250773984309131
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_21: -7813983935116354707
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_12: -970164015868112506
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_19: 4658072198685327897
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_17: 6846778063977902811
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_25: 611368104060975616
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_23: -7789601557364128238
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_11: 3866044994182846030
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_24: -4165722633144783875
+      DW_F_Feet_Open_Toe_Sandals_Spritesheet_8: -53992263665864999
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

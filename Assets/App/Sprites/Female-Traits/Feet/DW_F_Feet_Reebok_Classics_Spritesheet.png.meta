@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 06349f5ba69ad7446ac8574837a22db4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -925664027993451528
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_0
+  - first:
+      213: 2789050916236748041
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_1
+  - first:
+      213: -3088170287999505619
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_2
+  - first:
+      213: -5907586365033188537
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_3
+  - first:
+      213: 6075479268960627967
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_4
+  - first:
+      213: 1969027421743110597
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_5
+  - first:
+      213: 7011015865030141363
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_6
+  - first:
+      213: 7481138669545821770
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_7
+  - first:
+      213: 8813666428666318445
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_8
+  - first:
+      213: -8608962913143273138
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_9
+  - first:
+      213: 939166692455559566
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_10
+  - first:
+      213: -5738197378433175292
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_11
+  - first:
+      213: 7668956073251495125
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_12
+  - first:
+      213: -6163408451201027218
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_13
+  - first:
+      213: -7608466091087978370
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_14
+  - first:
+      213: 7720145677263181518
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_15
+  - first:
+      213: 1600645423957801837
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_16
+  - first:
+      213: 3221746300167196204
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_17
+  - first:
+      213: 7780397852834020106
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_18
+  - first:
+      213: 1969193051928547340
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_19
+  - first:
+      213: -352049861077358283
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_20
+  - first:
+      213: 4457851806797523675
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_21
+  - first:
+      213: -3559983871835599779
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_22
+  - first:
+      213: -958636438916570033
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_23
+  - first:
+      213: 5273711664176504618
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_24
+  - first:
+      213: 4297890962757446423
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_25
+  - first:
+      213: 1649773772242680689
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_26
+  - first:
+      213: -4318491468764718381
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_27
+  - first:
+      213: -7077814012444681976
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_28
+  - first:
+      213: 1008901696663270504
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_29
+  - first:
+      213: -6744043237383539195
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_30
+  - first:
+      213: -6060585286964424360
+    second: DW_F_Feet_Reebok_Classics_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d71e88716723f0800000000000000
+      internalID: -925664027993451528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e4c20803b4b620800000000000000
+      internalID: 2789050916236748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bafd12c7d9425d0800000000000000
+      internalID: -3088170287999505619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74371403089040ea0800000000000000
+      internalID: -5907586365033188537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffce5a2b430705450800000000000000
+      internalID: 6075479268960627967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9500af104635b10800000000000000
+      internalID: 1969027421743110597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5efb588c12c4160800000000000000
+      internalID: 7011015865030141363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4697b1bbf752d760800000000000000
+      internalID: 7481138669545821770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e01798bee605a70800000000000000
+      internalID: 8813666428666318445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49459db7d1d68880800000000000000
+      internalID: -8608962913143273138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8131b08127980d00800000000000000
+      internalID: 939166692455559566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401b967f2e3dd50b0800000000000000
+      internalID: -5738197378433175292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcda30baea9d6a60800000000000000
+      internalID: 7668956073251495125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b5843bac277aa0800000000000000
+      internalID: -6163408451201027218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a81bc66c496690800000000000000
+      internalID: -7608466091087978370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61a832797732b60800000000000000
+      internalID: 7720145677263181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bfb525882a63610800000000000000
+      internalID: 1600645423957801837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e05e1c031f5bc20800000000000000
+      internalID: 3221746300167196204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3265ff9689fb60800000000000000
+      internalID: 7780397852834020106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c005e52c5aaf35b10800000000000000
+      internalID: 1969193051928547340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539224f34844d1bf0800000000000000
+      internalID: -352049861077358283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaef7d79987ddd30800000000000000
+      internalID: 4457851806797523675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c8e19b785689ec0800000000000000
+      internalID: -3559983871835599779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44e1a5ec3d32b2f0800000000000000
+      internalID: -958636438916570033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f131731dcff2940800000000000000
+      internalID: 5273711664176504618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be4863f0d25ab30800000000000000
+      internalID: 4297890962757446423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf746418c25e610800000000000000
+      internalID: 1649773772242680689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da59b6b3e2a114c0800000000000000
+      internalID: -4318491468764718381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d3f1d7ad86cd90800000000000000
+      internalID: -7077814012444681976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86437ea6fb6500e00800000000000000
+      internalID: 1008901696663270504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f0e538685862a0800000000000000
+      internalID: -6744043237383539195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Reebok_Classics_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851d687bac974eba0800000000000000
+      internalID: -6060585286964424360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Reebok_Classics_Spritesheet_2: -3088170287999505619
+      DW_F_Feet_Reebok_Classics_Spritesheet_29: 1008901696663270504
+      DW_F_Feet_Reebok_Classics_Spritesheet_16: 1600645423957801837
+      DW_F_Feet_Reebok_Classics_Spritesheet_1: 2789050916236748041
+      DW_F_Feet_Reebok_Classics_Spritesheet_21: 4457851806797523675
+      DW_F_Feet_Reebok_Classics_Spritesheet_9: -8608962913143273138
+      DW_F_Feet_Reebok_Classics_Spritesheet_13: -6163408451201027218
+      DW_F_Feet_Reebok_Classics_Spritesheet_22: -3559983871835599779
+      DW_F_Feet_Reebok_Classics_Spritesheet_27: -4318491468764718381
+      DW_F_Feet_Reebok_Classics_Spritesheet_5: 1969027421743110597
+      DW_F_Feet_Reebok_Classics_Spritesheet_11: -5738197378433175292
+      DW_F_Feet_Reebok_Classics_Spritesheet_3: -5907586365033188537
+      DW_F_Feet_Reebok_Classics_Spritesheet_20: -352049861077358283
+      DW_F_Feet_Reebok_Classics_Spritesheet_10: 939166692455559566
+      DW_F_Feet_Reebok_Classics_Spritesheet_31: -6060585286964424360
+      DW_F_Feet_Reebok_Classics_Spritesheet_18: 7780397852834020106
+      DW_F_Feet_Reebok_Classics_Spritesheet_8: 8813666428666318445
+      DW_F_Feet_Reebok_Classics_Spritesheet_24: 5273711664176504618
+      DW_F_Feet_Reebok_Classics_Spritesheet_28: -7077814012444681976
+      DW_F_Feet_Reebok_Classics_Spritesheet_14: -7608466091087978370
+      DW_F_Feet_Reebok_Classics_Spritesheet_17: 3221746300167196204
+      DW_F_Feet_Reebok_Classics_Spritesheet_30: -6744043237383539195
+      DW_F_Feet_Reebok_Classics_Spritesheet_25: 4297890962757446423
+      DW_F_Feet_Reebok_Classics_Spritesheet_23: -958636438916570033
+      DW_F_Feet_Reebok_Classics_Spritesheet_0: -925664027993451528
+      DW_F_Feet_Reebok_Classics_Spritesheet_15: 7720145677263181518
+      DW_F_Feet_Reebok_Classics_Spritesheet_19: 1969193051928547340
+      DW_F_Feet_Reebok_Classics_Spritesheet_26: 1649773772242680689
+      DW_F_Feet_Reebok_Classics_Spritesheet_12: 7668956073251495125
+      DW_F_Feet_Reebok_Classics_Spritesheet_4: 6075479268960627967
+      DW_F_Feet_Reebok_Classics_Spritesheet_7: 7481138669545821770
+      DW_F_Feet_Reebok_Classics_Spritesheet_6: 7011015865030141363
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

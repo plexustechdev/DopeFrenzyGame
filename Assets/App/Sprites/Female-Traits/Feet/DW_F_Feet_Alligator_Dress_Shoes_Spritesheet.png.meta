@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 135b95d76b572d34ba5ade094acda200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4003093843552463182
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_0
+  - first:
+      213: -5526836323307870015
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_1
+  - first:
+      213: -706215595746724962
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_2
+  - first:
+      213: 6765693662996381633
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_3
+  - first:
+      213: -6299299104539551635
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_4
+  - first:
+      213: -7470058350965489677
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_5
+  - first:
+      213: -6182728149525386812
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_6
+  - first:
+      213: 6312113061016695113
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_7
+  - first:
+      213: -7046911240484901042
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_8
+  - first:
+      213: -7100371447463086267
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_9
+  - first:
+      213: 2295946746852567624
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_10
+  - first:
+      213: -2735832285641819217
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_11
+  - first:
+      213: -4655518457542146913
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_12
+  - first:
+      213: 5714707740324702446
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_13
+  - first:
+      213: 7380717551551797080
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_14
+  - first:
+      213: 5857152312676094681
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_15
+  - first:
+      213: 2483873113313895768
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_16
+  - first:
+      213: 2993606585610037483
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_17
+  - first:
+      213: -7847147290381006581
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_18
+  - first:
+      213: -3720191414494707002
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_19
+  - first:
+      213: 9041020816809254708
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_20
+  - first:
+      213: 5581851920050861346
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_21
+  - first:
+      213: -5901716223033455522
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_22
+  - first:
+      213: -1048792018310408096
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_23
+  - first:
+      213: 921499739816418021
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_24
+  - first:
+      213: -2309268594735653646
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_25
+  - first:
+      213: 7828671168018468532
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_26
+  - first:
+      213: 398018014771579182
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_27
+  - first:
+      213: -3516084930895145291
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_28
+  - first:
+      213: -4759642448265936852
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_29
+  - first:
+      213: 6683860760193528746
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_30
+  - first:
+      213: 3519359256425535835
+    second: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6908ccb572278c0800000000000000
+      internalID: -4003093843552463182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8228975abbc43b0800000000000000
+      internalID: -5526836323307870015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fca848a40336f0800000000000000
+      internalID: -706215595746724962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb2025a8294ed50800000000000000
+      internalID: 6765693662996381633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68dbfbe6d46498a0800000000000000
+      internalID: -6299299104539551635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff2430285055890800000000000000
+      internalID: -7470058350965489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92bb86189823aa0800000000000000
+      internalID: -6182728149525386812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f000d261299750800000000000000
+      internalID: 6312113061016695113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa03b1097543e90800000000000000
+      internalID: -7046911240484901042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f2a4b9c9667d90800000000000000
+      internalID: -7100371447463086267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6c5dd667dcdf10800000000000000
+      internalID: 2295946746852567624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3641080f580ad0800000000000000
+      internalID: -2735832285641819217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940decf0a6446fb0800000000000000
+      internalID: -4655518457542146913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8aa397968be4f40800000000000000
+      internalID: 5714707740324702446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575cb722839d6660800000000000000
+      internalID: 7380717551551797080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29a60fef8c84150800000000000000
+      internalID: 5857152312676094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e73abf6d787220800000000000000
+      internalID: 2483873113313895768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86e8c245d6b8920800000000000000
+      internalID: 2993606585610037483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09cba88d15591390800000000000000
+      internalID: -7847147290381006581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2c5927e993f5cc0800000000000000
+      internalID: -3720191414494707002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd3d01888287d70800000000000000
+      internalID: 9041020816809254708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b6735fb8b67d40800000000000000
+      internalID: 5581851920050861346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4ee02d54e81ea0800000000000000
+      internalID: -5901716223033455522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d7515731f171f0800000000000000
+      internalID: -1048792018310408096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea5f5c8123d9cc00800000000000000
+      internalID: 921499739816418021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd0d7b274d3ffd0800000000000000
+      internalID: -2309268594735653646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be451103f605ac60800000000000000
+      internalID: 7828671168018468532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298aa0964b068500800000000000000
+      internalID: 398018014771579182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b614e5626b543fc0800000000000000
+      internalID: -3516084930895145291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200d35396a52fdb0800000000000000
+      internalID: -4759642448265936852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f183e2f7d1cc50800000000000000
+      internalID: 6683860760193528746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591a3ce89647d030800000000000000
+      internalID: 3519359256425535835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_21: 5581851920050861346
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_29: -4759642448265936852
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_15: 5857152312676094681
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_24: 921499739816418021
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_17: 2993606585610037483
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_22: -5901716223033455522
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_6: -6182728149525386812
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_2: -706215595746724962
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_1: -5526836323307870015
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_26: 7828671168018468532
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_12: -4655518457542146913
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_20: 9041020816809254708
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_23: -1048792018310408096
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_14: 7380717551551797080
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_31: 3519359256425535835
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_5: -7470058350965489677
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_9: -7100371447463086267
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_3: 6765693662996381633
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_16: 2483873113313895768
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_18: -7847147290381006581
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_27: 398018014771579182
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_30: 6683860760193528746
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_7: 6312113061016695113
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_28: -3516084930895145291
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_0: -4003093843552463182
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_8: -7046911240484901042
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_11: -2735832285641819217
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_25: -2309268594735653646
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_13: 5714707740324702446
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_10: 2295946746852567624
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_19: -3720191414494707002
+      DW_F_Feet_Alligator_Dress_Shoes_Spritesheet_4: -6299299104539551635
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

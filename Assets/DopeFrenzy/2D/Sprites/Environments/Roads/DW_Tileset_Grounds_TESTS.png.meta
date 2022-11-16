@@ -1,0 +1,1269 @@
+fileFormatVersion: 2
+guid: f78a431a87f09a547bd68e5f248421bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3cd3026eae37f4197c21d187a6cfdc
+      internalID: -814176668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd410c82a81ae05448b30390eb4abaf5
+      internalID: 5862835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1344
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095e04ba72eded419a4f3f7bf652a7f
+      internalID: 1078269202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_3
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1088
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567db768b1d04214290f496586b7ecc0
+      internalID: 1555299848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b794e281c683214580e02783442324d
+      internalID: -2098412618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 448
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc66cac1a8a5a499ba1c58d51f2084
+      internalID: 52469604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_6
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 846
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f83eb73a29a941885794b54dff3d7
+      internalID: -831112310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 512
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b075c9589efabe47b7c0876f7043d71
+      internalID: -952277307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e13dd5169fb34eadd86bd1c96adee
+      internalID: 894983903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_9
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 640
+        width: 224
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a5884ad4d63549ad93d8d19567b4c
+      internalID: 2108753735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_10
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 492
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89827c949a3cd274f8301f920b1d8fc6
+      internalID: -707761382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 466
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676cddc246775a4aa621d045e6d623b
+      internalID: 1016019315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4caaa63ffe9f364c8b2d75af6897b47
+      internalID: 1580411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_13
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 437
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91564daf4c9a0574eb96c86f1334fb7b
+      internalID: -1600686554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74345b224515fec4d837f88531ba3789
+      internalID: 571893157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 256
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281d2a7192282a4eb234e10b99c9fee
+      internalID: 572613247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 640
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1b4a1f15aaa647a8cf9d17a5d811c
+      internalID: 797125870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_17
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 640
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea78c6d82b4d76418c8acb486c2007c
+      internalID: 252730277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_18
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 202
+        width: 220
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f5f27ca175ac49859c60229531517
+      internalID: 581638318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1344
+        width: 32
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822aab25d1c9e741957a27798c45566
+      internalID: 1337435696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1278
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74383a7c9cf904986d91c4b3f2f497
+      internalID: 1804404345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1278
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe79c5dc03631494d9f62775efb19067
+      internalID: 60647068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7a5c85a8dd414f92f8e507ae60367
+      internalID: -1461047395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4ab0cfde0025344aa53bd8e5956b06
+      internalID: -1984051967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26e68747db19045a15c7673f921c03
+      internalID: -1969936146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1472
+        width: 193
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c52510f175d9642ba987c4c217c112
+      internalID: -1730034296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1089
+        width: 254
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407cb3f68fc6641408d5f2ceeeb4fe8e
+      internalID: 1528899266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41ca7b0d3cb544091fbd71854a1b3f
+      internalID: 1215265403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb54f48cd1ec654bbc728ae0534da8d
+      internalID: -1182165246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_29
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1347
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b49dffc3e3ab43a70c1b68c438462
+      internalID: 554444377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_30
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1348
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46418442249d04a47a33786e4c7b7674
+      internalID: 1574016481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_31
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1408
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251457f485369384782dc519eea3c465
+      internalID: -31883641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1472
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4698f34c71f9e43b897a138fb2e394
+      internalID: -1633581146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1504
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5035b202282054b8f2e2f70fd43765
+      internalID: 963493571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_34
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1538
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ccd4f452cc63d4681709d661048326
+      internalID: -1764427544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_35
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1536
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98037a8a653f8954a98dc8e4044af34f
+      internalID: -1957134343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_36
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1427
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e623c223f1c14e4682be46ea10e1daf
+      internalID: 241770188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1443
+        width: 93
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b87a940453d74082d0802e3bf970e
+      internalID: 1519645113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_38
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1408
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e72be5a443f2e449b31a0a49a8d3f29
+      internalID: -1610651883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_39
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 385
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82726b5ef6a82f478592d73334a4746
+      internalID: -68839615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_40
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 337
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3ed5b7d0f96a43814eeee059008dd
+      internalID: 2074283188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_41
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 466
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9ce82df0478e4bbcd93fa90d37e05
+      internalID: -510005554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_42
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 39
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540ea0632332c7409f50e020276b3e5
+      internalID: -226435235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_43
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 39
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf8eb7eac840349884e780b5bb9b3f
+      internalID: 1479564444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_44
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 438
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625a17ba9b3eb148b1f7cd5e8201330
+      internalID: -2055147080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_45
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f45e7fbc1f9348af6f9fa8b33b780
+      internalID: 60511335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 438
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92f82ea7f91e34b9a9f9b87d8a58a0
+      internalID: 1745716292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03d2513ef2d8c478dac5569c3a277e
+      internalID: 1422922542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 438
+        width: 80
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be573403f0c9374c8d0b3e73e25bcb0
+      internalID: -465995956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 309
+        width: 10
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf1513b7842b84b93c0a231f584435
+      internalID: -1856217337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_Tileset_Grounds_TESTS_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 305
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e7a7b9fc33464daff51d145e2b3f0
+      internalID: 876227173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_Tileset_Grounds_TESTS_5: 52469604
+      DW_Tileset_Grounds_TESTS_33: 963493571
+      DW_Tileset_Grounds_TESTS_0: -814176668
+      DW_Tileset_Grounds_TESTS_27: 1215265403
+      DW_Tileset_Grounds_TESTS_29: 554444377
+      DW_Tileset_Grounds_TESTS_28: -1182165246
+      DW_Tileset_Grounds_TESTS_22: -1461047395
+      DW_Tileset_Grounds_TESTS_23: -1984051967
+      DW_Tileset_Grounds_TESTS_31: -31883641
+      DW_Tileset_Grounds_TESTS_15: 572613247
+      DW_Tileset_Grounds_TESTS_26: 1528899266
+      DW_Tileset_Grounds_TESTS_7: -952277307
+      DW_Tileset_Grounds_TESTS_49: -1856217337
+      DW_Tileset_Grounds_TESTS_32: -1633581146
+      DW_Tileset_Grounds_TESTS_8: 894983903
+      DW_Tileset_Grounds_TESTS_37: 1519645113
+      DW_Tileset_Grounds_TESTS_38: -1610651883
+      DW_Tileset_Grounds_TESTS_30: 1574016481
+      DW_Tileset_Grounds_TESTS_6: -831112310
+      DW_Tileset_Grounds_TESTS_18: 581638318
+      DW_Tileset_Grounds_TESTS_4: -2098412618
+      DW_Tileset_Grounds_TESTS_21: 60647068
+      DW_Tileset_Grounds_TESTS_12: 1580411055
+      DW_Tileset_Grounds_TESTS_1: 5862835
+      DW_Tileset_Grounds_TESTS_34: -1764427544
+      DW_Tileset_Grounds_TESTS_9: 2108753735
+      DW_Tileset_Grounds_TESTS_17: 252730277
+      DW_Tileset_Grounds_TESTS_45: 60511335
+      DW_Tileset_Grounds_TESTS_25: -1730034296
+      DW_Tileset_Grounds_TESTS_48: -465995956
+      DW_Tileset_Grounds_TESTS_10: -707761382
+      DW_Tileset_Grounds_TESTS_40: 2074283188
+      DW_Tileset_Grounds_TESTS_19: 1337435696
+      DW_Tileset_Grounds_TESTS_3: 1555299848
+      DW_Tileset_Grounds_TESTS_20: 1804404345
+      DW_Tileset_Grounds_TESTS_41: -510005554
+      DW_Tileset_Grounds_TESTS_13: -1600686554
+      DW_Tileset_Grounds_TESTS_50: 876227173
+      DW_Tileset_Grounds_TESTS_39: -68839615
+      DW_Tileset_Grounds_TESTS_36: 241770188
+      DW_Tileset_Grounds_TESTS_14: 571893157
+      DW_Tileset_Grounds_TESTS_42: -226435235
+      DW_Tileset_Grounds_TESTS_46: 1745716292
+      DW_Tileset_Grounds_TESTS_11: 1016019315
+      DW_Tileset_Grounds_TESTS_47: 1422922542
+      DW_Tileset_Grounds_TESTS_16: 797125870
+      DW_Tileset_Grounds_TESTS_43: 1479564444
+      DW_Tileset_Grounds_TESTS_35: -1957134343
+      DW_Tileset_Grounds_TESTS_2: 1078269202
+      DW_Tileset_Grounds_TESTS_24: -1969936146
+      DW_Tileset_Grounds_TESTS_44: -2055147080
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

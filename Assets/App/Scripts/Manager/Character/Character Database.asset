@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60e36c188c100a4ba6775f40cf506c6, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Acid/LSD
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Adderall '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Cocaine/Coke
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Crack
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Fentanyl '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Heroin '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Krokodil
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Ludes '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Molly '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Oxycontin '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: PCP
+    characterSprite: {fileID: 0}
+  - characterName: Shroom
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: 'Soma '
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Speed
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Weed
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Xanax
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}
+  - characterName: Zoloft
+    characterSprite: {fileID: 5518547386078487115, guid: 1b975e723eec33841931790cdc53f04d, type: 3}

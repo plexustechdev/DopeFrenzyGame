@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: a005c7689ce4d8a4a82eb29cb1ce0dba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1819757539138135031
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_0
+  - first:
+      213: 3799760072372174430
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_1
+  - first:
+      213: 8880342876118229616
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_2
+  - first:
+      213: 1114575947224622300
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_3
+  - first:
+      213: -3520068111187412839
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_4
+  - first:
+      213: 7788636892569262996
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_5
+  - first:
+      213: 465136807271228317
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_6
+  - first:
+      213: -1174942224869220135
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_7
+  - first:
+      213: -6471708909558755748
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_8
+  - first:
+      213: 9193757762056807889
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_9
+  - first:
+      213: -7432870082742456166
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_10
+  - first:
+      213: 389536962032272019
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_11
+  - first:
+      213: 7490878861863878233
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_12
+  - first:
+      213: -4883303665547491151
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_13
+  - first:
+      213: 2371239185914844087
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_14
+  - first:
+      213: -9024632751600185665
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_15
+  - first:
+      213: -2743539041491996621
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_16
+  - first:
+      213: -3407327888626217111
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_17
+  - first:
+      213: -4839918151034487386
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_18
+  - first:
+      213: -1835354100588601690
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_19
+  - first:
+      213: 8505365921255461816
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_20
+  - first:
+      213: -9105371672431781442
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_21
+  - first:
+      213: 2545673525335169235
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_22
+  - first:
+      213: 7706849237326298295
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_23
+  - first:
+      213: 6962036887607146242
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_24
+  - first:
+      213: 8515142259011312126
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_25
+  - first:
+      213: -542237977302706319
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_26
+  - first:
+      213: -2043940604332003726
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_27
+  - first:
+      213: 617481287406316895
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_28
+  - first:
+      213: 3437135624432954820
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_29
+  - first:
+      213: 3752199713345043035
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_30
+  - first:
+      213: -7428333736570992911
+    second: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3eaa127d3114910800000000000000
+      internalID: 1819757539138135031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb47167a57bb430800000000000000
+      internalID: 3799760072372174430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a2b6bbc05d3b70800000000000000
+      internalID: 8880342876118229616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a4813be4c77f00800000000000000
+      internalID: 1114575947224622300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987e77f3b4362fc0800000000000000
+      internalID: -3520068111187412839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd712ecfbc61c60800000000000000
+      internalID: 7788636892569262996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936c59367f747600800000000000000
+      internalID: 465136807271228317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d020178544c1bfe0800000000000000
+      internalID: -1174942224869220135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e050c090fdf26a0800000000000000
+      internalID: -6471708909558755748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e26659f9c69f70800000000000000
+      internalID: 9193757762056807889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f1807a0429d890800000000000000
+      internalID: -7432870082742456166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39281d89dc9e76500800000000000000
+      internalID: 389536962032272019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef0e0f2a2f4f760800000000000000
+      internalID: 7490878861863878233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8cda460350b3cb0800000000000000
+      internalID: -4883303665547491151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d0f9e97558e020800000000000000
+      internalID: 2371239185914844087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec384b35012c280800000000000000
+      internalID: -9024632751600185665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330347417cdfce9d0800000000000000
+      internalID: -2743539041491996621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f072d865db6b0d0800000000000000
+      internalID: -3407327888626217111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbf99a51825dcb0800000000000000
+      internalID: -4839918151034487386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1c5d6b238786e0800000000000000
+      internalID: -1835354100588601690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b31525fd31290670800000000000000
+      internalID: 8505365921255461816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99cccc4b833a180800000000000000
+      internalID: -9105371672431781442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d818bf659c045320800000000000000
+      internalID: 2545673525335169235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf2587c8a34fa60800000000000000
+      internalID: 7706849237326298295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077dfea9af1e9060800000000000000
+      internalID: 6962036887607146242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95948f4ccdb2670800000000000000
+      internalID: 8515142259011312126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177552bbe659978f0800000000000000
+      internalID: -542237977302706319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2bc089d672a3e0800000000000000
+      internalID: -2043940604332003726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ded4795fbb19800800000000000000
+      internalID: 617481287406316895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdaa23c3a823bf20800000000000000
+      internalID: 3437135624432954820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af04062cd721430800000000000000
+      internalID: 3752199713345043035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Hands_Fingerlesst_Gloves_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c2a6d2d149e890800000000000000
+      internalID: -7428333736570992911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_5: 7788636892569262996
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_23: 7706849237326298295
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_10: -7432870082742456166
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_25: 8515142259011312126
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_14: 2371239185914844087
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_29: 3437135624432954820
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_16: -2743539041491996621
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_6: 465136807271228317
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_18: -4839918151034487386
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_27: -2043940604332003726
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_4: -3520068111187412839
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_9: 9193757762056807889
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_19: -1835354100588601690
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_28: 617481287406316895
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_22: 2545673525335169235
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_31: -7428333736570992911
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_8: -6471708909558755748
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_21: -9105371672431781442
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_7: -1174942224869220135
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_3: 1114575947224622300
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_24: 6962036887607146242
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_0: 1819757539138135031
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_30: 3752199713345043035
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_11: 389536962032272019
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_17: -3407327888626217111
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_15: -9024632751600185665
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_12: 7490878861863878233
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_13: -4883303665547491151
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_26: -542237977302706319
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_1: 3799760072372174430
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_2: 8880342876118229616
+      DW_F_Hands_Fingerlesst_Gloves_Spritesheet_20: 8505365921255461816
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

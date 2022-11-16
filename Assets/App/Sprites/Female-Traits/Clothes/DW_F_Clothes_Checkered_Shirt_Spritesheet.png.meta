@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: d65054b0a78b68e4f9ba6d4fccdf72ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9137318237110127946
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_0
+  - first:
+      213: -3122274575848918179
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_1
+  - first:
+      213: -980287452366572256
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_2
+  - first:
+      213: -642109960063281062
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_3
+  - first:
+      213: 939711474655921248
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_4
+  - first:
+      213: 9010476475033889279
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_5
+  - first:
+      213: 4596564149413973160
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_6
+  - first:
+      213: -5444428228843324816
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_7
+  - first:
+      213: -7888924856743713940
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_8
+  - first:
+      213: -545648523970083638
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_9
+  - first:
+      213: 4900180210039831329
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_10
+  - first:
+      213: -4283423712539768635
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_11
+  - first:
+      213: 5325238785313999589
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_12
+  - first:
+      213: -2746386788802664162
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_13
+  - first:
+      213: 6957490543931069897
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_14
+  - first:
+      213: -7359541986995122648
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_15
+  - first:
+      213: -1897676507440908914
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_16
+  - first:
+      213: -7046763416988888110
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_17
+  - first:
+      213: 5413958906388708499
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_18
+  - first:
+      213: -6628215908991910260
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_19
+  - first:
+      213: 8115735021650567266
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_20
+  - first:
+      213: 1419665565060231333
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_21
+  - first:
+      213: 784228316478627019
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_22
+  - first:
+      213: -4602996580342813372
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_23
+  - first:
+      213: 5291865459128036995
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_24
+  - first:
+      213: -1114802745198998797
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_25
+  - first:
+      213: -5685483104329263469
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_26
+  - first:
+      213: 4885441566933964112
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_27
+  - first:
+      213: -2944167158807796478
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_28
+  - first:
+      213: 4708781763141226541
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_29
+  - first:
+      213: -6479316867452236862
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_30
+  - first:
+      213: 251717888899951261
+    second: DW_F_Clothes_Checkered_Shirt_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc5aa66864ece70800000000000000
+      internalID: 9137318237110127946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ba47d0d37ba4d0800000000000000
+      internalID: -3122274575848918179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025faef71c15562f0800000000000000
+      internalID: -980287452366572256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5810b3b464c617f0800000000000000
+      internalID: -642109960063281062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064893e7b968a0d00800000000000000
+      internalID: 939711474655921248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a86f4d94ab0d70800000000000000
+      internalID: 9010476475033889279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8d118db64acf30800000000000000
+      internalID: 4596564149413973160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3fa62f518174b0800000000000000
+      internalID: -5444428228843324816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63aa0ed3a8e48290800000000000000
+      internalID: -7888924856743713940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40c84fe877d68f0800000000000000
+      internalID: -545648523970083638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb2d250ffe00440800000000000000
+      internalID: 4900180210039831329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80597f3d83e84c0800000000000000
+      internalID: -4283423712539768635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea06cef57c07e940800000000000000
+      internalID: 5325238785313999589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19679d34cfd2e9d0800000000000000
+      internalID: -2746386788802664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5962f89c8fd8060800000000000000
+      internalID: 6957490543931069897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e459b2e87add990800000000000000
+      internalID: -7359541986995122648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85716355491aa5e0800000000000000
+      internalID: -1897676507440908914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d822f10ed43e90800000000000000
+      internalID: -7046763416988888110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7cd3e0fe322b40800000000000000
+      internalID: 5413958906388708499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb1f1afb8d304a0800000000000000
+      internalID: -6628215908991910260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260eda0d002e0a070800000000000000
+      internalID: 8115735021650567266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f4494f4aa3b310800000000000000
+      internalID: 1419665565060231333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd282bf7322ea00800000000000000
+      internalID: 784228316478627019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d24567ffede10c0800000000000000
+      internalID: -4602996580342813372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6c7af89b707940800000000000000
+      internalID: 5291865459128036995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa88c94fcc6780f0800000000000000
+      internalID: -1114802745198998797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39618f55d3b1911b0800000000000000
+      internalID: -5685483104329263469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d60098339cc340800000000000000
+      internalID: 4885441566933964112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e3e361973427d0800000000000000
+      internalID: -2944167158807796478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20dedcb014f85140800000000000000
+      internalID: 4708781763141226541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb005053a7d416a0800000000000000
+      internalID: -6479316867452236862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Clothes_Checkered_Shirt_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a2e7716184e7300800000000000000
+      internalID: 251717888899951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_4: 939711474655921248
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_19: -6628215908991910260
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_9: -545648523970083638
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_0: 9137318237110127946
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_15: -7359541986995122648
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_14: 6957490543931069897
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_7: -5444428228843324816
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_5: 9010476475033889279
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_6: 4596564149413973160
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_10: 4900180210039831329
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_13: -2746386788802664162
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_12: 5325238785313999589
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_25: -1114802745198998797
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_17: -7046763416988888110
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_8: -7888924856743713940
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_28: -2944167158807796478
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_18: 5413958906388708499
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_21: 1419665565060231333
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_26: -5685483104329263469
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_31: 251717888899951261
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_30: -6479316867452236862
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_24: 5291865459128036995
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_22: 784228316478627019
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_1: -3122274575848918179
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_20: 8115735021650567266
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_16: -1897676507440908914
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_29: 4708781763141226541
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_23: -4602996580342813372
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_27: 4885441566933964112
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_3: -642109960063281062
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_11: -4283423712539768635
+      DW_F_Clothes_Checkered_Shirt_Spritesheet_2: -980287452366572256
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

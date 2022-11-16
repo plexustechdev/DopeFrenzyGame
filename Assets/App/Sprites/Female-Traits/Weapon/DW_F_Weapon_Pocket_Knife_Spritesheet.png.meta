@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 62fcca34305a7d84ab142500c9a41c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5650629373495893233
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_0
+  - first:
+      213: 1439910068933054864
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_1
+  - first:
+      213: -7813373355321099823
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_2
+  - first:
+      213: 1493445711365446801
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_3
+  - first:
+      213: 5719393704335157195
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_4
+  - first:
+      213: 8540135448643347798
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_5
+  - first:
+      213: 4779515649548453049
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_6
+  - first:
+      213: 8404975128268668237
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_7
+  - first:
+      213: -9024144164255906709
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_8
+  - first:
+      213: 7212464889977140977
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_9
+  - first:
+      213: -5871655742960348218
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_10
+  - first:
+      213: -5731210728191167300
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_11
+  - first:
+      213: -2080103414844773965
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_12
+  - first:
+      213: -6553393101301338197
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_13
+  - first:
+      213: -7711711279536108325
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_14
+  - first:
+      213: -3099442009416735522
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_15
+  - first:
+      213: 4436971424141089604
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_16
+  - first:
+      213: -1397809482615819505
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_17
+  - first:
+      213: -6548923190441754675
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_18
+  - first:
+      213: 6034791748758676104
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_19
+  - first:
+      213: 2947676679997224657
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_20
+  - first:
+      213: 7503523172585666227
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_21
+  - first:
+      213: 6126337169051470347
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_22
+  - first:
+      213: -2357861882826546087
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_23
+  - first:
+      213: -2404144776816930956
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_24
+  - first:
+      213: 8004682882192275400
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_25
+  - first:
+      213: -2847744608405168761
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_26
+  - first:
+      213: 6054501050376228747
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_27
+  - first:
+      213: 6410598485135337341
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_28
+  - first:
+      213: -3916875912207495839
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_29
+  - first:
+      213: 8837909177387096377
+    second: DW_F_Weapon_Pocket_Knife_Spritesheet_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc5c941a711b6e40800000000000000
+      internalID: 5650629373495893233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091534724969bf310800000000000000
+      internalID: 1439910068933054864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d975929452519390800000000000000
+      internalID: -7813373355321099823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c944d36f8c9b410800000000000000
+      internalID: 1493445711365446801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a08d754e5f5f40800000000000000
+      internalID: 5719393704335157195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ab1661f7a48670800000000000000
+      internalID: 8540135448643347798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b481c90920445240800000000000000
+      internalID: 4779515649548453049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7272095874a470800000000000000
+      internalID: 8404975128268668237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64cc9fc1bcc3c280800000000000000
+      internalID: -9024144164255906709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6701aaa92d71460800000000000000
+      internalID: 7212464889977140977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3577d0630b38ea0800000000000000
+      internalID: -5871655742960348218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f14d3536a670b0800000000000000
+      internalID: -5731210728191167300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a91e07fcf123e0800000000000000
+      internalID: -2080103414844773965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf207b12bbad05a0800000000000000
+      internalID: -6553393101301338197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc80ec137f7af490800000000000000
+      internalID: -7711711279536108325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4eacaf9e19cf4d0800000000000000
+      internalID: -3099442009416735522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b1d7e800a439d30800000000000000
+      internalID: 4436971424141089604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f2057eabf99ce0800000000000000
+      internalID: -1397809482615819505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb6645e0d8d15a0800000000000000
+      internalID: -6548923190441754675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882283e2f13efb350800000000000000
+      internalID: 6034791748758676104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ffefa25048e820800000000000000
+      internalID: 2947676679997224657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b671e1f19ed12860800000000000000
+      internalID: 7503523172585666227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac59f423f150550800000000000000
+      internalID: 6126337169051470347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a0bc2c11374fd0800000000000000
+      internalID: -2357861882826546087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f473d2013c2aed0800000000000000
+      internalID: -2404144776816930956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c778b4bba8561f60800000000000000
+      internalID: 8004682882192275400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd9fcdd57ca78d0800000000000000
+      internalID: -2847744608405168761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f87ef80a8e50450800000000000000
+      internalID: 6054501050376228747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7726208b5507f850800000000000000
+      internalID: 6410598485135337341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d869f3c1674a9c0800000000000000
+      internalID: -3916875912207495839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Weapon_Pocket_Knife_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399253529f86aa70800000000000000
+      internalID: 8837909177387096377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Weapon_Pocket_Knife_Spritesheet_24: -2404144776816930956
+      DW_F_Weapon_Pocket_Knife_Spritesheet_20: 2947676679997224657
+      DW_F_Weapon_Pocket_Knife_Spritesheet_19: 6034791748758676104
+      DW_F_Weapon_Pocket_Knife_Spritesheet_29: -3916875912207495839
+      DW_F_Weapon_Pocket_Knife_Spritesheet_5: 8540135448643347798
+      DW_F_Weapon_Pocket_Knife_Spritesheet_4: 5719393704335157195
+      DW_F_Weapon_Pocket_Knife_Spritesheet_21: 7503523172585666227
+      DW_F_Weapon_Pocket_Knife_Spritesheet_17: -1397809482615819505
+      DW_F_Weapon_Pocket_Knife_Spritesheet_3: 1493445711365446801
+      DW_F_Weapon_Pocket_Knife_Spritesheet_15: -3099442009416735522
+      DW_F_Weapon_Pocket_Knife_Spritesheet_30: 8837909177387096377
+      DW_F_Weapon_Pocket_Knife_Spritesheet_25: 8004682882192275400
+      DW_F_Weapon_Pocket_Knife_Spritesheet_12: -2080103414844773965
+      DW_F_Weapon_Pocket_Knife_Spritesheet_1: 1439910068933054864
+      DW_F_Weapon_Pocket_Knife_Spritesheet_14: -7711711279536108325
+      DW_F_Weapon_Pocket_Knife_Spritesheet_8: -9024144164255906709
+      DW_F_Weapon_Pocket_Knife_Spritesheet_22: 6126337169051470347
+      DW_F_Weapon_Pocket_Knife_Spritesheet_10: -5871655742960348218
+      DW_F_Weapon_Pocket_Knife_Spritesheet_0: 5650629373495893233
+      DW_F_Weapon_Pocket_Knife_Spritesheet_26: -2847744608405168761
+      DW_F_Weapon_Pocket_Knife_Spritesheet_6: 4779515649548453049
+      DW_F_Weapon_Pocket_Knife_Spritesheet_11: -5731210728191167300
+      DW_F_Weapon_Pocket_Knife_Spritesheet_18: -6548923190441754675
+      DW_F_Weapon_Pocket_Knife_Spritesheet_23: -2357861882826546087
+      DW_F_Weapon_Pocket_Knife_Spritesheet_28: 6410598485135337341
+      DW_F_Weapon_Pocket_Knife_Spritesheet_27: 6054501050376228747
+      DW_F_Weapon_Pocket_Knife_Spritesheet_13: -6553393101301338197
+      DW_F_Weapon_Pocket_Knife_Spritesheet_7: 8404975128268668237
+      DW_F_Weapon_Pocket_Knife_Spritesheet_9: 7212464889977140977
+      DW_F_Weapon_Pocket_Knife_Spritesheet_16: 4436971424141089604
+      DW_F_Weapon_Pocket_Knife_Spritesheet_2: -7813373355321099823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

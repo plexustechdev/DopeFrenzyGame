@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 3bedae2df8e0aa34794ab39e0075ed19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2067806885280738566
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_0
+  - first:
+      213: -6065070571784341423
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_1
+  - first:
+      213: -816105764326540601
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_2
+  - first:
+      213: 4700204052819128939
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_3
+  - first:
+      213: 984240760830879217
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_4
+  - first:
+      213: -5564362463508789415
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_5
+  - first:
+      213: -1610410343661228799
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_6
+  - first:
+      213: -4096587988134966450
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_7
+  - first:
+      213: 2464284100068346218
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_8
+  - first:
+      213: 6615509673939549910
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_9
+  - first:
+      213: 4048593671230174324
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_10
+  - first:
+      213: 4809690987380514679
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_11
+  - first:
+      213: 8898902027454030615
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_12
+  - first:
+      213: -890808884922733837
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_13
+  - first:
+      213: 7844743453190996324
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_14
+  - first:
+      213: -1400042439171377206
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_15
+  - first:
+      213: -1238876484538620767
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_16
+  - first:
+      213: 2967520135876403420
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_17
+  - first:
+      213: 2633225906100141348
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_18
+  - first:
+      213: 8416337248204865736
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_19
+  - first:
+      213: -1924987913823733730
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_20
+  - first:
+      213: 3005392420160857923
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_21
+  - first:
+      213: -5754573287316645905
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_22
+  - first:
+      213: 5086485824450172419
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_23
+  - first:
+      213: -6805273784181403754
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_24
+  - first:
+      213: -7220232612082818740
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_25
+  - first:
+      213: 1236774011720513472
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_26
+  - first:
+      213: 5554904814899436045
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_27
+  - first:
+      213: -1514492789709291250
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_28
+  - first:
+      213: -1694049978275773265
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_29
+  - first:
+      213: -5322873342397645259
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_30
+  - first:
+      213: -900361459642196949
+    second: DW_F_Feet_Dress_Shoes_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de34d086352bc10800000000000000
+      internalID: 2067806885280738566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587e17f27a84dba0800000000000000
+      internalID: -6065070571784341423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafa2a912c9ca4f0800000000000000
+      internalID: -816105764326540601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b22ceeaa7a3140800000000000000
+      internalID: 4700204052819128939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e8cad1c9b8ad00800000000000000
+      internalID: 984240760830879217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9578a0912d967c2b0800000000000000
+      internalID: -5564362463508789415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2573235ca6a9e0800000000000000
+      internalID: -1610410343661228799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b4510fdeef527c0800000000000000
+      internalID: -4096587988134966450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69873a2555e23220800000000000000
+      internalID: 2464284100068346218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb35b7ff20fcb50800000000000000
+      internalID: 6615509673939549910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b19d5e7e7f2830800000000000000
+      internalID: 4048593671230174324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f963e58747fb240800000000000000
+      internalID: 4809690987380514679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a66dde304f7b70800000000000000
+      internalID: 8898902027454030615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa2b63f90633a3f0800000000000000
+      internalID: -890808884922733837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46145818b902edc60800000000000000
+      internalID: 7844743453190996324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f7beb1dc029ce0800000000000000
+      internalID: -1400042439171377206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ad72b660aecee0800000000000000
+      internalID: -1238876484538620767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd06bba47dfbe2920800000000000000
+      internalID: 2967520135876403420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d747a92091b8420800000000000000
+      internalID: 2633225906100141348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c325b226dcc470800000000000000
+      internalID: 8416337248204865736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bd9ff0b11945e0800000000000000
+      internalID: -1924987913823733730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e65e9b7c45b920800000000000000
+      internalID: 3005392420160857923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71a8f8516a320b0800000000000000
+      internalID: -5754573287316645905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306996178e3d69640800000000000000
+      internalID: 5086485824450172419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc6969c8fce81a0800000000000000
+      internalID: -6805273784181403754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ec1991b49ccb90800000000000000
+      internalID: -7220232612082818740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c739043967e92110800000000000000
+      internalID: 1236774011720513472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a103d7f7cf61d40800000000000000
+      internalID: 5554904814899436045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cc76f4d07bfae0800000000000000
+      internalID: -1514492789709291250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44d1d25868d78e0800000000000000
+      internalID: -1694049978275773265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53efdf995ea5126b0800000000000000
+      internalID: -5322873342397645259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Dress_Shoes_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c1394d5064183f0800000000000000
+      internalID: -900361459642196949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Dress_Shoes_Spritesheet_18: 2633225906100141348
+      DW_F_Feet_Dress_Shoes_Spritesheet_13: -890808884922733837
+      DW_F_Feet_Dress_Shoes_Spritesheet_15: -1400042439171377206
+      DW_F_Feet_Dress_Shoes_Spritesheet_24: -6805273784181403754
+      DW_F_Feet_Dress_Shoes_Spritesheet_11: 4809690987380514679
+      DW_F_Feet_Dress_Shoes_Spritesheet_28: -1514492789709291250
+      DW_F_Feet_Dress_Shoes_Spritesheet_3: 4700204052819128939
+      DW_F_Feet_Dress_Shoes_Spritesheet_20: -1924987913823733730
+      DW_F_Feet_Dress_Shoes_Spritesheet_31: -900361459642196949
+      DW_F_Feet_Dress_Shoes_Spritesheet_12: 8898902027454030615
+      DW_F_Feet_Dress_Shoes_Spritesheet_6: -1610410343661228799
+      DW_F_Feet_Dress_Shoes_Spritesheet_21: 3005392420160857923
+      DW_F_Feet_Dress_Shoes_Spritesheet_14: 7844743453190996324
+      DW_F_Feet_Dress_Shoes_Spritesheet_30: -5322873342397645259
+      DW_F_Feet_Dress_Shoes_Spritesheet_1: -6065070571784341423
+      DW_F_Feet_Dress_Shoes_Spritesheet_23: 5086485824450172419
+      DW_F_Feet_Dress_Shoes_Spritesheet_4: 984240760830879217
+      DW_F_Feet_Dress_Shoes_Spritesheet_2: -816105764326540601
+      DW_F_Feet_Dress_Shoes_Spritesheet_9: 6615509673939549910
+      DW_F_Feet_Dress_Shoes_Spritesheet_10: 4048593671230174324
+      DW_F_Feet_Dress_Shoes_Spritesheet_16: -1238876484538620767
+      DW_F_Feet_Dress_Shoes_Spritesheet_8: 2464284100068346218
+      DW_F_Feet_Dress_Shoes_Spritesheet_22: -5754573287316645905
+      DW_F_Feet_Dress_Shoes_Spritesheet_25: -7220232612082818740
+      DW_F_Feet_Dress_Shoes_Spritesheet_19: 8416337248204865736
+      DW_F_Feet_Dress_Shoes_Spritesheet_29: -1694049978275773265
+      DW_F_Feet_Dress_Shoes_Spritesheet_27: 5554904814899436045
+      DW_F_Feet_Dress_Shoes_Spritesheet_26: 1236774011720513472
+      DW_F_Feet_Dress_Shoes_Spritesheet_7: -4096587988134966450
+      DW_F_Feet_Dress_Shoes_Spritesheet_5: -5564362463508789415
+      DW_F_Feet_Dress_Shoes_Spritesheet_17: 2967520135876403420
+      DW_F_Feet_Dress_Shoes_Spritesheet_0: 2067806885280738566
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

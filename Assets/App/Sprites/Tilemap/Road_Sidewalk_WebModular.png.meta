@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: c21db237f045e604fa0c7ac509360759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7216270281554672541
+    second: Road_Sidewalk_WebModular_2
+  - first:
+      213: -906759365333912354
+    second: Road_Sidewalk_WebModular_3
+  - first:
+      213: 3399564588630400975
+    second: Road_Sidewalk_WebModular_0
+  - first:
+      213: -5536142655181030703
+    second: Road_Sidewalk_WebModular_1
+  - first:
+      213: 6765729281448082491
+    second: Road_Sidewalk_WebModular_4
+  - first:
+      213: -3470842771013952289
+    second: Road_Sidewalk_WebModular_5
+  - first:
+      213: -6173164639406441164
+    second: Road_Sidewalk_WebModular_6
+  - first:
+      213: -8765671452040778956
+    second: Road_Sidewalk_WebModular_7
+  - first:
+      213: 2807514272779364925
+    second: Road_Sidewalk_WebModular_8
+  - first:
+      213: -4677144472515500320
+    second: Road_Sidewalk_WebModular_9
+  - first:
+      213: -3658964598921032936
+    second: Road_Sidewalk_WebModular_10
+  - first:
+      213: -1331401705971931765
+    second: Road_Sidewalk_WebModular_11
+  - first:
+      213: -925416714671361702
+    second: Road_Sidewalk_WebModular_12
+  - first:
+      213: 3213523063077216916
+    second: Road_Sidewalk_WebModular_13
+  - first:
+      213: 8315633687725962582
+    second: Road_Sidewalk_WebModular_14
+  - first:
+      213: -4701315216434454812
+    second: Road_Sidewalk_WebModular_15
+  - first:
+      213: -6837345839571417050
+    second: Road_Sidewalk_WebModular_16
+  - first:
+      213: 6816311859913071681
+    second: Road_Sidewalk_WebModular_17
+  - first:
+      213: 1516778460371867026
+    second: Road_Sidewalk_WebModular_18
+  - first:
+      213: -3353295916095357326
+    second: Road_Sidewalk_WebModular_19
+  - first:
+      213: -7773388006032664242
+    second: Road_Sidewalk_WebModular_20
+  - first:
+      213: -6879186981419989282
+    second: Road_Sidewalk_WebModular_21
+  - first:
+      213: 6769313591402290159
+    second: Road_Sidewalk_WebModular_22
+  - first:
+      213: -5816655225076525110
+    second: Road_Sidewalk_WebModular_23
+  - first:
+      213: -5637972151219150439
+    second: Road_Sidewalk_WebModular_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 448
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b364f6697552460800000000000000
+      internalID: 7216270281554672541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 255
+        width: 512
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed47384592b8a63f0800000000000000
+      internalID: -906759365333912354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 385
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdf405bfdad2f20800000000000000
+      internalID: 3399564588630400975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 766
+        width: 64
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dafb0c369bab23b0800000000000000
+      internalID: -5536142655181030703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 704
+        width: 323
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cfb236fe2b4ed50800000000000000
+      internalID: 6765729281448082491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 65
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1b7a93e615dfc0800000000000000
+      internalID: -3470842771013952289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1089
+        width: 191
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3d20a773845aa0800000000000000
+      internalID: -6173164639406441164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 191
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba353c1441a5680800000000000000
+      internalID: -8765671452040778956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 705
+        width: 193
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6ad23b5b46f620800000000000000
+      internalID: 2807514272779364925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 961
+        width: 192
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6288002e1771fb0800000000000000
+      internalID: -4677144472515500320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 63
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0593551fb83dc0800000000000000
+      internalID: -3658964598921032936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1025
+        width: 63
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a136d339e58de0800000000000000
+      internalID: -1331401705971931765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1024
+        width: 32
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fdcca6624823f0800000000000000
+      internalID: -925416714671361702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 893
+        width: 68
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922e3c233ab89c20800000000000000
+      internalID: 3213523063077216916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 777
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6557d27e7c0176370800000000000000
+      internalID: 8315633687725962582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1025
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee194328b291ceb0800000000000000
+      internalID: -4701315216434454812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1216
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c9d94f2edc11a0800000000000000
+      internalID: -6837345839571417050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c9660b587689e50800000000000000
+      internalID: 6816311859913071681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1088
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295dd6539fdac0510800000000000000
+      internalID: 1516778460371867026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e3e5e7123b671d0800000000000000
+      internalID: -3353295916095357326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49142f2bc06f1490800000000000000
+      internalID: -7773388006032664242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed648fc43e73880a0800000000000000
+      internalID: -6879186981419989282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd1c498de61fd50800000000000000
+      internalID: 6769313591402290159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d46804e6174fa0800000000000000
+      internalID: -5816655225076525110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Road_Sidewalk_WebModular_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a9012336e1c1b0800000000000000
+      internalID: -5637972151219150439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Road_Sidewalk_WebModular_2: 7216270281554672541
+      Road_Sidewalk_WebModular_21: -6879186981419989282
+      Road_Sidewalk_WebModular_17: 6816311859913071681
+      Road_Sidewalk_WebModular_14: 8315633687725962582
+      Road_Sidewalk_WebModular_4: 6765729281448082491
+      Road_Sidewalk_WebModular_0: 3399564588630400975
+      Road_Sidewalk_WebModular_22: 6769313591402290159
+      Road_Sidewalk_WebModular_12: -925416714671361702
+      Road_Sidewalk_WebModular_1: -5536142655181030703
+      Road_Sidewalk_WebModular_9: -4677144472515500320
+      Road_Sidewalk_WebModular_13: 3213523063077216916
+      Road_Sidewalk_WebModular_16: -6837345839571417050
+      Road_Sidewalk_WebModular_19: -3353295916095357326
+      Road_Sidewalk_WebModular_24: -5637972151219150439
+      Road_Sidewalk_WebModular_3: -906759365333912354
+      Road_Sidewalk_WebModular_23: -5816655225076525110
+      Road_Sidewalk_WebModular_15: -4701315216434454812
+      Road_Sidewalk_WebModular_8: 2807514272779364925
+      Road_Sidewalk_WebModular_7: -8765671452040778956
+      Road_Sidewalk_WebModular_5: -3470842771013952289
+      Road_Sidewalk_WebModular_10: -3658964598921032936
+      Road_Sidewalk_WebModular_6: -6173164639406441164
+      Road_Sidewalk_WebModular_11: -1331401705971931765
+      Road_Sidewalk_WebModular_18: 1516778460371867026
+      Road_Sidewalk_WebModular_20: -7773388006032664242
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

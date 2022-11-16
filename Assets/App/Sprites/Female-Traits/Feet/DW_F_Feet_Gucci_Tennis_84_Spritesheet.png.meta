@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: c4c5a2e04e05a894e867d41276196ad3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2290365221621328801
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_0
+  - first:
+      213: 3039681753046987064
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_1
+  - first:
+      213: 304761905716560773
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_2
+  - first:
+      213: 1893415152032149038
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_3
+  - first:
+      213: 3720544845946174817
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_4
+  - first:
+      213: 5282603635611863672
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_5
+  - first:
+      213: -1990477058742120913
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_6
+  - first:
+      213: 2983633238396960519
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_7
+  - first:
+      213: 7945542828596000404
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_8
+  - first:
+      213: -7894034137391427042
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_9
+  - first:
+      213: -5918210503911674174
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_10
+  - first:
+      213: 7692448658614721774
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_11
+  - first:
+      213: -6152669720897522138
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_12
+  - first:
+      213: -7665943396860016671
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_13
+  - first:
+      213: 6072550553273228731
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_14
+  - first:
+      213: -7021945552212733634
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_15
+  - first:
+      213: 2513189647645013835
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_16
+  - first:
+      213: -7273282984982294947
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_17
+  - first:
+      213: 8716168755142130509
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_18
+  - first:
+      213: 7947216458814743597
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_19
+  - first:
+      213: 4936386369617406756
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_20
+  - first:
+      213: -8673405308228548870
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_21
+  - first:
+      213: 6222847576712182555
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_22
+  - first:
+      213: -1490855351168323172
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_23
+  - first:
+      213: 6396632857081941190
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_24
+  - first:
+      213: 1917183988689066504
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_25
+  - first:
+      213: -5922568194147067396
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_26
+  - first:
+      213: 8676475450476847047
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_27
+  - first:
+      213: -8837480829464755072
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_28
+  - first:
+      213: 3952292754852085695
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_29
+  - first:
+      213: 2930519302508377592
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_30
+  - first:
+      213: 8097827047606875981
+    second: DW_F_Feet_Gucci_Tennis_84_Spritesheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe5a0c80309cf10800000000000000
+      internalID: 2290365221621328801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313a90137e1f2a20800000000000000
+      internalID: 3039681753046987064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838e4ba65bba3400800000000000000
+      internalID: 304761905716560773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee73d8c03c64a10800000000000000
+      internalID: 1893415152032149038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d388933d702a330800000000000000
+      internalID: 3720544845946174817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a05d5a4049f4940800000000000000
+      internalID: 5282603635611863672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8c1c39a76064e0800000000000000
+      internalID: -1990477058742120913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff2b25f9ef76920800000000000000
+      internalID: 2983633238396960519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fd16fa1d344e60800000000000000
+      internalID: 7945542828596000404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121af3c6c1c27290800000000000000
+      internalID: -7894034137391427042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceeb5817ea4edda0800000000000000
+      internalID: -5918210503911674174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec19a57c4111ca60800000000000000
+      internalID: 7692448658614721774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f991bc735d9aa0800000000000000
+      internalID: -6152669720897522138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e748e1b8191d9590800000000000000
+      internalID: -7665943396860016671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd370fd88064450800000000000000
+      internalID: 6072550553273228731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d93069b90d8e90800000000000000
+      internalID: -7021945552212733634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f1194ba4a0e220800000000000000
+      internalID: 2513189647645013835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ecc3129ab101b90800000000000000
+      internalID: -7273282984982294947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfa947d4d06f870800000000000000
+      internalID: 8716168755142130509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246acc534f2a4e60800000000000000
+      internalID: 7947216458814743597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2023cf31918440800000000000000
+      internalID: 4936386369617406756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6cc0a63dfd1a780800000000000000
+      internalID: -8673405308228548870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7455a6eefb5650800000000000000
+      internalID: 6222847576712182555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c913f1ef4fa6f4be0800000000000000
+      internalID: -1490855351168323172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc06f451b765c850800000000000000
+      internalID: 6396632857081941190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad0e61ea43b9a10800000000000000
+      internalID: 1917183988689066504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf956d54b9fcecda0800000000000000
+      internalID: -5922568194147067396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd118c378096870800000000000000
+      internalID: 8676475450476847047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084cd623206fa5580800000000000000
+      internalID: -8837480829464755072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffe45025d59d630800000000000000
+      internalID: 3952292754852085695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ff6177cb4ba820800000000000000
+      internalID: 2930519302508377592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DW_F_Feet_Gucci_Tennis_84_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d477821bbc2416070800000000000000
+      internalID: 8097827047606875981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_3: 1893415152032149038
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_17: -7273282984982294947
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_22: 6222847576712182555
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_15: -7021945552212733634
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_4: 3720544845946174817
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_1: 3039681753046987064
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_30: 2930519302508377592
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_5: 5282603635611863672
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_27: 8676475450476847047
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_23: -1490855351168323172
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_8: 7945542828596000404
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_12: -6152669720897522138
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_13: -7665943396860016671
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_9: -7894034137391427042
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_16: 2513189647645013835
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_11: 7692448658614721774
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_18: 8716168755142130509
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_19: 7947216458814743597
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_28: -8837480829464755072
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_20: 4936386369617406756
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_6: -1990477058742120913
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_7: 2983633238396960519
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_21: -8673405308228548870
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_2: 304761905716560773
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_26: -5922568194147067396
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_10: -5918210503911674174
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_25: 1917183988689066504
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_0: 2290365221621328801
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_31: 8097827047606875981
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_29: 3952292754852085695
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_14: 6072550553273228731
+      DW_F_Feet_Gucci_Tennis_84_Spritesheet_24: 6396632857081941190
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
